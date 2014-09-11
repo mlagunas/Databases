@@ -1,0 +1,172 @@
+Estadio;Ciudad;Comunidad;Inauguracion;Capacidad;Equipo;Capacidad
+El Molinon;Gijon;P. de Asturias;1908;30000;Real Sporting de Gijon;30000
+Camp d'Esports;Lerida;Cataluna;1918;12500;Lleida Esportiu;12 500
+La Murta;Jativa;C. Valenciana;1919;8000;CD Olimpic de Xativa;8 000
+Nuevo Malecon;Torrelavega;Cantabria;1921;5007;RS Gimnastica de Torrelavega;5 007
+El Madrigal;Villarreal;C. Valenciana;1922;23500;Villarreal CF;23 500
+Francisco Peraza;San Cristobal de La Laguna;Canarias;1922;7000;CD Laguna;7 000
+Guadalquivir;Coria del Rio;Andalucia;1922;5000;Coria CF;5 000
+Las Llanas;Sestao;Pais Vasco;1922;7905;Sestao River Club;7 905
+La Condomina;Murcia;R. de Murcia;1923;16500;Desocupado;16 500
+Mestalla;Valencia;C. Valenciana;1923;55000;Valencia CF;55000
+Heliodoro Rodriguez Lopez;Santa Cruz de Tenerife;Canarias;1924;21948;CD Tenerife;21 948
+Stadium Gal;Irun;Pais Vasco;1925;4000;Real Union Club;4 000
+Balaidos;Vigo;Galicia;1927;29000;RC Celta de Vigo;29000
+Merkatondoa;Estella;Navarra;1927;4000;CD Izarra;4 000
+Olimpico Lluis Companys;Barcelona;Cataluna;1927;54000;Desocupado;54000
+Benito Villamarin;Sevilla;Andalucia;1929;51700;Real Betis Balompie;51700
+Sancho Davila;Puerto Real;Andalucia;1930;5000;Puerto Real CF;5 000
+La Rosaleda;Malaga;Andalucia;1941;30044;Malaga CF;30044
+Insular;Las Palmas de Gran Canaria;Canarias;1943;19300;Desocupado;19 300
+Alvarez Claro;Melilla;Melilla;1944;9000;UD Melilla;9 000
+Los Arcos;Orihuela;C. Valenciana;1944;5000;Orihuela CF;5 000
+Riazor;La Coruna;Galicia;1944;34600;RC Deportivo de La Coruna;34600
+Ipurua;Eibar;Pais Vasco;1946;4250;SD Eibar;4 250
+Municipal El Val;Alcala de Henares;C. de Madrid;1946;6500;RSD Alcala;6 500
+El Palmar;Sanlucar de Barrameda;Andalucia;1947;4000;Atletico Sanluqueno CF;4 000
+Estadio Municipal de Tomelloso;Tomelloso;Castilla-La Mancha;1947;4000;Tomelloso CF;4 000
+Santiago Bernabeu;Madrid;C. de Madrid;1947;81044;Real Madrid CF;81044
+La Magdalena;Novelda;C. Valenciana;1948;6000;Novelda CF;6 000
+Anduva;Miranda de Ebro;Castilla y Leon;1949;5000;CD Mirandes;5 000
+El Clariano;Onteniente;C. Valenciana;1950;4000;Ontinyent CF;4 000
+Francisco de la Hera;Almendralejo;Extremadura;1950;10580;Extremadura UD;10 580
+Hermanos Antuna;Mieres;P. de Asturias;1950;6500;Caudal Deportivo;6 500
+Miramar;Luanco;P. de Asturias;1951;4000;Club Marino de Luanco;4 000
+Estadio municipal Los Cuartos;La Orotava;Canarias;1952;4000;UD Orotava;4 000
+Romano;Merida;Extremadura;1952;13600;Merida AD;13 600
+El Soto;Mostoles;C. de Madrid;1954;13000;Mostoles C.F.;13 000
+Linarejos;Linares;Andalucia;1955;9000;CD Linares;9 000
+Pasaron;Pontevedra;Galicia;1955;11000;Pontevedra CF;11 000
+Mendizorroza;Vitoria;Pais Vasco;1956;18840;Deportivo Alaves;18 840
+Pinilla;Teruel;Aragon;1956;4000;CD Teruel;4 000
+Ramon de Carranza;Cadiz;Andalucia;1956;24033;Cadiz CF;24 033
+Vicente Sanz;Don Benito;Extremadura;1956;5000;CD Don Benito;5 000
+Camp Nou;Barcelona;Cataluna;1957;30000;FC Barcelona;99354
+La Romareda;Zaragoza;Aragon;1957;34596;Real Zaragoza;34596
+Nuestra Senora de la Caridad;Villarrobledo;Castilla-La Mancha;1957;4500;CP Villarrobledo;4 500
+Estadio Municipal de Loinaz;Beasain;Pais Vasco;1958;5000;SD Beasain;5 000
+Sanchez Pizjuan;Sevilla;Andalucia;1958;45500;Sevilla FC;45500
+Balear;Palma de Mallorca;Islas Baleares;1959;17000;CD Atletico Baleares;17 000
+Carlos Belmonte;Albacete;Castilla-La Mancha;1959;16400;Albacete Balompie;16 400
+Olimpic de Terrassa;Tarrasa;Cataluna;1959;10500;Terrassa Olimpica 2009;10 500
+El Plantio;Burgos;Castilla y Leon;1963;11200;Burgos CF;11 200
+Foietes;Benidorm;C. Valenciana;1963;5000;Benidorm CF;5 000
+Nou Camp de Inca;Inca;Islas Baleares;1963;9000;CD Constancia;9 000
+Pepico Amat;Elda;C. Valenciana;1963;7000;CD Eldense;7 000
+Municipal de Deportes;Barbastro;Aragon;1965;4000;UD Barbastro;4 000
+El Sadar;Pamplona;Navarra;1966;18800;CA Osasuna;18 800
+Guillermo Olagüe;Gandia;C. Valenciana;1966;5000;CF Gandia;5 000
+Nova Creu Alta;Sabadell;Cataluna;1966;10981;CE Sabadell FC;10 981
+Pedro Escartin;Guadalajara;Castilla-La Mancha;1966;4000;CD Guadalajara;4 000
+Vicente Calderon;Madrid;C. de Madrid;1966;54851;Club Atletico de Madrid;54851
+Alberto Fernandez;Aguilar de Campoo;Castilla y Leon;1967;5000;CD Aguilar;5 000
+Ciudad Deportiva de Lanzarote;Arrecife;Canarias;1967;6000;CD Orientacion Maritima y UD Lanzarote;6 000
+Ciudad de Tudela;Tudela;Navarra;1968;10000;CD Tudelano;10 000
+Ciudad de Valencia;Valencia;C. Valenciana;1968;24354;Levante UD;24 354
+Estadio Municipal de La Linea de la Concepcion;La Linea de la Concepcion;Andalucia;1968;19000;RB Linense;19 000
+Chamorro Martinez;Martos;Andalucia;1969;4500;Martos CD;4 500
+Helmantico;Villares de la Reina;Castilla y Leon;1969;16341;Desocupado;16 341
+Municipal de Montilivi;Gerona;Cataluna;1969;8500;Girona FC;8 500
+Narcis Sala;Barcelona;Cataluna;1969;5550;UE Sant Andreu;5 550
+Nou Estadi;Tarragona;Cataluna;1970;13500;Club Gimnastic de Tarragona;13 500
+Vicente Garcia;Torrevieja;C. Valenciana;1970;5000;FC Torrevieja;5 000
+El Alcoraz;Huesca;Aragon;1971;4700;SD Huesca;4 700
+Jose del Cuvillo;El Puerto de Santa Maria;Andalucia;1971;7600;RC Portuense;7 600
+Municipal de Lucena;Lucena;Andalucia;1971;6000;Lucena CF;6000
+Municipal Navalmoral de la Mata;Navalmoral de la Mata;Extremadura;1971;4000;Moralo CP;4 000
+Nuevo Estadio;Zafra;Extremadura;1971;4000;CD Diter Zafra;4 000
+Luis Suner Pico;Alcira;C. Valenciana;1972;7104;UD Alzira;7 104
+Salto del Caballo;Toledo;Castilla-La Mancha;1972;4300;CD Toledo;4 300
+Angel Carro;Lugo;Galicia;1973;6840;C.D. Lugo;6 840
+Jose Rico Perez;Alicante;C. Valenciana;1973;28500;Hercules CF;28500
+O Couto;Orense;Galicia;1973;4625;CD Ourense;4 625
+Municipal de Marbella;Marbella;Andalucia;1974;6300;UD Marbella;6 300
+Adolfo Suarez;Avila;Castilla y Leon;1975;5000;Real Avila CF;5 000
+Campo de Futbol de Vallecas;Madrid;C. de Madrid;1975;13708;Rayo Vallecano;13 708
+Juan Rojas;Almeria;Andalucia;1975;12000;"UD Almeria ""B""";12 000
+Polideportivo Municipal Almansa;Almansa;Castilla-La Mancha;1975;4500;UD Almansa;4 500
+El Montecillo;Aranda de Duero;Castilla y Leon;1976;5000;Arandina CF;5 000
+La Albuera;Segovia;Castilla y Leon;1976;5500;Gimnastica Segoviana CF;5 500
+Martinez Valero;Elche;C. Valenciana;1976;36017;Elche CF;36017
+Nou Camp de Sa Pobla;La Puebla;Islas Baleares;1976;7000;UD Poblense;7 000
+Principe Felipe;Caceres;Extremadura;1976;6000;CP Cacereno;6 000
+Camp Nou Municipal;Reus;Cataluna;1977;4000;Club de Futbol Reus Deportiu;4 000
+Santo Domingo de Alcorcon;Alcorcon;C. de Madrid;1977;4000;AD Alcorcon;4 000
+El Mauli;Antequera;Andalucia;1980;6000;Antequera CF;6 000
+Estadio Municipal de Montilla;Montilla;Andalucia;1980;4000;Montilla CF;4 000
+Jose Zorrilla;Valladolid;Castilla y Leon;1981;25512;Real Valladolid CF;25 512
+Mini Estadi;Barcelona;Cataluna;1981;14276;"FC Barcelona ""B""";14 276
+Nuevo San Bartolome;Mairena del Alcor;Andalucia;1981;5000;CD Mairena;5 000
+Polideportivo Municipal Pozoblanco;Pozoblanco;Andalucia;1982;6500;CD Pozoblanco;6 500
+Mundial 81;Catarroja;C. Valenciana;1983;4000;Catarroja CF;4 000
+Municipal de San Miguel;Ubeda;Andalucia;1985;7000;Ubeda CF;7 000
+San Pablo;Ecija;Andalucia;1985;5000;Ecija Balompie;5 000
+Castalia;Castellon de la Plana;C. Valenciana;1986;15000;CD Castellon;15 000
+Cartagonova;Cartagena;R. de Murcia;1987;14105;FC Cartagena;14 105
+Chapin;Jerez de la Frontera;Andalucia;1987;19486;Xerez Deportivo FC;19 486
+El Sardinero;Santander;Cantabria;1987;21222;Real Racing Club de Santander;21 222
+Antonio Dominguez Alfonso;Los Cristianos;Canarias;1991;6500;CD Marino;6 500
+Iberoamericano 2009;San Fernando;Andalucia;1991;7000;San Fernando CD;7 000
+Romero Cuerda;Villanueva de la Serena;Extremadura;1991;5000;CF Villanovense;5 000
+A Malata;Ferrol;Galicia;1992;11043;Racing Club de Ferrol;11 043
+El Arcangel;Cordoba;Andalucia;1992;20822;Cordoba CF;20 822
+San Lazaro;Santiago de Compostela;Galicia;1992;12000;SD Compostela;12 000
+Anoeta;San Sebastian;Pais Vasco;1993;32076;Real Sociedad;32076
+Nou Municipal;Santa Coloma de Gramanet;Cataluna;1993;4000;UDA Gramenet;4 000
+La Bobila;Gava;Cataluna;1994;4000;CF Gava;4 000
+Los Carmenes;Granada;Andalucia;1994;22524;Granada CF;22 524
+Nou Sardenya;Barcelona;Cataluna;1994;6000;CE Europa;6 000
+Butarque;Leganes;C. de Madrid;1996;7000;CD Leganes;7 000
+Coliseum Alfonso Perez;Getafe;C. de Madrid;1997;16000;Getafe CF;16 000
+Nuevo Vivero;Badajoz;Extremadura;1997;14598;CD Badajoz y Badajoz CF;14 598
+Olimpico de La Cartuja;Sevilla;Andalucia;1997;60000;Desocupado;60000
+Estadi de la Feixa Llarga;Hospitalet de Llobregat;Cataluna;1998;5740;CE L´Hospitalet;5 740
+Iberostar Estadi;Palma de Mallorca;Islas Baleares;1998;22142;RCD Mallorca;22 142
+Nuevo Los Pajaritos;Soria;Castilla y Leon;1998;8025;CD Numancia;8 025
+Estadio Nuevo Mirador;Algeciras;Andalucia;1998;6500;Algeciras CF;6 500
+Nuevo Roman Suarez Puerta;Aviles;P. de Asturias;1998;4500;Real Aviles CF;4 500
+El Toralin;Ponferrada;Castilla y Leon;1999;7200;SD Ponferradina;7 200
+Carlos Tartiere;Oviedo;P. de Asturias;2000;30500;Real Oviedo;30500
+Ciudad Deportiva del RCD Espanol;San Adrian de Besos;Cataluna;2000;5000;"RCD Espanol ""B""";5 000
+La Juventud;Jerez de la Frontera;Andalucia;2000;4000;Jerez Industrial CF;4 000
+La Victoria;Jaen;Andalucia;2000;11600;Real Jaen CF;11 600
+Nuevo Lasesarre;Baracaldo;Pais Vasco;2000;6960;Barakaldo CF;6 960
+Nuevo Colombino;Huelva;Andalucia;2000;20349;RC Recreativo de Huelva;20 349
+Reino de Leon;Leon;Castilla y Leon;2000;12451;Cultural y Deportiva Leonesa;12 451
+Santo Domingo;El Ejido;Andalucia;2000;6870;Desocupado;6 870
+Virgen de las Nieves;Santa Cruz de la Palma;Canarias;2000;4500;SD Tenisca;4 500
+Ciudad Deportiva del Villarreal CF;Villarreal;C. Valenciana;2001;4100;"Villarreal CF ""B""";4 100
+Las Gaunas;Logrono;La Rioja;2001;15000;SD Logrones y UD Logrones;15 000
+Ruta de la Plata;Zamora;Castilla y Leon;2001;6813;Zamora CF;6 813
+Artes Carrasco;Lorca;R. de Murcia;2002;7120;CF Lorca Deportiva;7 120
+Gran Canaria;Las Palmas de Gran Canaria;Canarias;2003;31250;UD Las Palmas;31250
+Juegos Mediterraneos;Almeria;Andalucia;2003;21000;UD Almeria;21 000
+Antonio Peroles;Roquetas de Mar;Andalucia;2004;8000;CD Roquetas;8 000
+Ciudad Real Madrid;Madrid;C. de Madrid;2004;5000;"Real Madrid ""C""";5 000
+Nueva Balastera;Palencia;Castilla y Leon;2005;12499;CF Palencia;12 499
+Artunduaga;Basauri;Pais Vasco;2006;4000;CD Basconia;4 000
+Ciudad de Ayamonte;Ayamonte;Andalucia;2006;4200;Ayamonte CF;4 200
+Ciudad Deportiva Municipal;San Vicente de Alcantara;Extremadura;2006;4000;CP Sanvicenteno;4 000
+Nueva Condomina;Murcia;R. de Murcia;2006;31179;Real Murcia;31179
+Ciudad de Puertollano;Puertollano;Castilla-La Mancha;2009;7000;CD Puertollano;7 000
+Cornella-El Prat;Cornella y El Prat de Llobregat;Cataluna;2009;40500;RCD Espanol;40500
+San Mames;Bilbao;Pais Vasco;2013;53332;Athletic Club;53332
+"Olimpico de Madrid" En remodelacion";Madrid;C. de Madrid;2016;67500;Club Atletico de Madrid;67500
+Ciudad Deportiva;Olivenza;Extremadura;-1;4000;Olivenza CP;4 000
+Ciudad Deportiva Plasencia;Plasencia;Extremadura;-1;4500;UP Plasencia;4 500
+Como Eiroas;Carballo;Galicia;-1;4000;Bergantinos FC;4 000
+Compostilla;Ponferrada;Castilla y Leon;-1;5023;"SD Ponferradina ""B""";5 023
+Constantino Navarro;Baza;Andalucia;-1;4000;CD Baza;4 000
+El Olivar;Piedrabuena;Castilla-La Mancha;-1;4000;CD Piedrabuena;4 000
+Estadio Baltar;Portonovo;Galicia;-1;4000;Portonovo SD;4 000
+Gazituaga;Zamudio;Pais Vasco;-1;4000;Zamudio SD;4 000
+Isidro Calderon;Monzon;Aragon;-1;4000;Club Atletico de Monzon;4 000
+La Aldehuela;Fuenlabrada;C. de Madrid;-1;4000;CF Fuenlabrada;4 000
+Los Corrales;Los Corrales de Buelna;Cantabria;-1;4500;SD Buelna;4 500
+Manuel Calzado Galvan;Jerez de los Caballeros;Extremadura;-1;4000;Jerez CF;4 000
+Municipal;Tazacorte;Canarias;-1;4000;CD Victoria;4 000
+Municipal de Alcazar;Alcazar de San Juan;Castilla-La Mancha;-1;4000;CF Gimnastico de Alcazar;4 000
+Nou Municipal de Palamos;Palamos;Cataluna;-1;5000;Palamos CF;5 000
+Nuevo Silvestre Carrillo;Santa Cruz de La Palma;Canarias;-1;5000;CD Mensajero;5 000
+Orellana;Ribadesella;P. de Asturias;-1;4000;Ribadesella CF;4 000
+Santa Ana;Utebo;Aragon;-1;4000;Utebo FC;4 000

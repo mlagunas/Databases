@@ -1,0 +1,168 @@
+model;aircraft_type
+1121;Fixed Wing Multi-Engine
+11AC;Fixed Wing Single-Engine
+150;Fixed Wing Single-Engine
+172E;Fixed Wing Single-Engine
+172M;Fixed Wing Single-Engine
+182A;Fixed Wing Single-Engine
+182P;Fixed Wing Single-Engine
+206B;Rotorcraft
+210-5(205);Fixed Wing Single-Engine
+421C;Fixed Wing Multi-Engine
+550;Fixed Wing Multi-Engine
+60;Fixed Wing Multi-Engine
+65-A90;Fixed Wing Multi-Engine
+690A;Fixed Wing Multi-Engine
+717-200;Fixed Wing Multi-Engine
+737-230;Fixed Wing Multi-Engine
+737-236;Fixed Wing Multi-Engine
+737-282;Fixed Wing Multi-Engine
+737-282C;Fixed Wing Multi-Engine
+737-2P6;Fixed Wing Multi-Engine
+737-2X6C;Fixed Wing Multi-Engine
+737-2Y5;Fixed Wing Multi-Engine
+737-301;Fixed Wing Multi-Engine
+737-317;Fixed Wing Multi-Engine
+737-322;Fixed Wing Multi-Engine
+737-33A;Fixed Wing Multi-Engine
+737-3A4;Fixed Wing Multi-Engine
+737-3B7;Fixed Wing Multi-Engine
+737-3G7;Fixed Wing Multi-Engine
+737-3H4;Fixed Wing Multi-Engine
+737-3K2;Fixed Wing Multi-Engine
+737-3L9;Fixed Wing Multi-Engine
+737-3Q8;Fixed Wing Multi-Engine
+737-3S3;Fixed Wing Multi-Engine
+737-3T5;Fixed Wing Multi-Engine
+737-3TO;Fixed Wing Multi-Engine
+737-3Y0;Fixed Wing Multi-Engine
+737-401;Fixed Wing Multi-Engine
+737-490;Fixed Wing Multi-Engine
+737-4B7;Fixed Wing Multi-Engine
+737-4Q8;Fixed Wing Multi-Engine
+737-4S3;Fixed Wing Multi-Engine
+737-522;Fixed Wing Multi-Engine
+737-524;Fixed Wing Multi-Engine
+737-5H4;Fixed Wing Multi-Engine
+737-705;Fixed Wing Multi-Engine
+737-724;Fixed Wing Multi-Engine
+737-73A;Fixed Wing Multi-Engine
+737-76N;Fixed Wing Multi-Engine
+737-76Q;Fixed Wing Multi-Engine
+737-790;Fixed Wing Multi-Engine
+737-7AD;Fixed Wing Multi-Engine
+737-7BD;Fixed Wing Multi-Engine
+737-7H4;Fixed Wing Multi-Engine
+737-7Q8;Fixed Wing Multi-Engine
+737-824;Fixed Wing Multi-Engine
+737-832;Fixed Wing Multi-Engine
+737-890;Fixed Wing Multi-Engine
+737-8FH;Fixed Wing Multi-Engine
+737-924;Fixed Wing Multi-Engine
+737-924ER;Fixed Wing Multi-Engine
+737-990;Fixed Wing Multi-Engine
+747-2B5F;Fixed Wing Multi-Engine
+747-422;Fixed Wing Multi-Engine
+747-451;Fixed Wing Multi-Engine
+757-212;Fixed Wing Multi-Engine
+757-222;Fixed Wing Multi-Engine
+757-223;Fixed Wing Multi-Engine
+757-224;Fixed Wing Multi-Engine
+757-225;Fixed Wing Multi-Engine
+757-231;Fixed Wing Multi-Engine
+757-232;Fixed Wing Multi-Engine
+757-23N;Fixed Wing Multi-Engine
+757-251;Fixed Wing Multi-Engine
+757-26D;Fixed Wing Multi-Engine
+757-2B7;Fixed Wing Multi-Engine
+757-2G7;Fixed Wing Multi-Engine
+757-2Q8;Fixed Wing Multi-Engine
+757-2S7;Fixed Wing Multi-Engine
+757-324;Fixed Wing Multi-Engine
+757-33N;Fixed Wing Multi-Engine
+757-351;Fixed Wing Multi-Engine
+767-201;Fixed Wing Multi-Engine
+767-223;Fixed Wing Multi-Engine
+767-224;Fixed Wing Multi-Engine
+767-2B7;Fixed Wing Multi-Engine
+767-322;Fixed Wing Multi-Engine
+767-323;Fixed Wing Multi-Engine
+767-324;Fixed Wing Multi-Engine
+767-332;Fixed Wing Multi-Engine
+767-33A;Fixed Wing Multi-Engine
+767-3CB;Fixed Wing Multi-Engine
+767-3G5;Fixed Wing Multi-Engine
+767-3P6;Fixed Wing Multi-Engine
+767-424ER;Fixed Wing Multi-Engine
+767-432ER;Fixed Wing Multi-Engine
+777-222;Fixed Wing Multi-Engine
+777-224;Fixed Wing Multi-Engine
+777-232;Fixed Wing Multi-Engine
+777-232LR;Fixed Wing Multi-Engine
+A109E;Rotorcraft
+A-1B;Fixed Wing Single-Engine
+A318-111;Fixed Wing Multi-Engine
+A319-111;Fixed Wing Multi-Engine
+A319-112;Fixed Wing Multi-Engine
+A319-114;Fixed Wing Multi-Engine
+A319-131;Fixed Wing Multi-Engine
+A319-132;Fixed Wing Multi-Engine
+A320-211;Fixed Wing Multi-Engine
+A320-212;Fixed Wing Multi-Engine
+A320-214;Fixed Wing Multi-Engine
+A320-231;Fixed Wing Multi-Engine
+A320-232;Fixed Wing Multi-Engine
+A321-211;Fixed Wing Multi-Engine
+A330-223;Fixed Wing Multi-Engine
+A330-323;Fixed Wing Multi-Engine
+AS 355F1;Rotorcraft
+ATR 72-212;Fixed Wing Multi-Engine
+ATR-72-212;Fixed Wing Multi-Engine
+C90;Fixed Wing Multi-Engine
+CL-600-2B19;Fixed Wing Multi-Engine
+CL-600-2C10;Fixed Wing Multi-Engine
+CL600-2D24;Fixed Wing Multi-Engine
+DA 20-A1;Fixed Wing Single-Engine
+DC-7BF;Fixed Wing Multi-Engine
+DC-9-31;Fixed Wing Multi-Engine
+DC-9-32;Fixed Wing Multi-Engine
+DC-9-41;Fixed Wing Multi-Engine
+DC-9-51;Fixed Wing Multi-Engine
+DC-9-82(MD-82);Fixed Wing Multi-Engine
+DC-9-83(MD-83);Fixed Wing Multi-Engine
+DHC-8-102;Fixed Wing Multi-Engine
+DHC-8-202;Fixed Wing Multi-Engine
+E-90;Fixed Wing Multi-Engine
+EMB-120;Fixed Wing Multi-Engine
+EMB-120ER;Fixed Wing Multi-Engine
+EMB-135ER;Fixed Wing Multi-Engine
+EMB-135KL;Fixed Wing Multi-Engine
+EMB-135LR;Fixed Wing Multi-Engine
+EMB-145;Fixed Wing Multi-Engine
+EMB-145EP;Fixed Wing Multi-Engine
+EMB-145LR;Fixed Wing Multi-Engine
+EMB-145XR;Fixed Wing Multi-Engine
+ERJ 190-100 IGW;Fixed Wing Multi-Engine
+EXEC 162F;Rotorcraft
+F85P-1;Fixed Wing Single-Engine
+FALCON XP;Fixed Wing Single-Engine
+FALCON-XP;Fixed Wing Single-Engine
+G-IV;Fixed Wing Multi-Engine
+HST-550;Fixed Wing Single-Engine
+KITFOX IV;Fixed Wing Single-Engine
+M-5-235C;Fixed Wing Single-Engine
+MD 83;Fixed Wing Multi-Engine
+MD-88;Fixed Wing Multi-Engine
+MD-90-30;Fixed Wing Multi-Engine
+OTTER DHC-3;Fixed Wing Single-Engine
+PA-28-180;Fixed Wing Single-Engine
+PA-31-350;Fixed Wing Multi-Engine
+PA-32R-300;Fixed Wing Single-Engine
+PA-32RT-300;Fixed Wing Single-Engine
+S-50A;Balloon
+S55A;Balloon
+S-76A;Rotorcraft
+SAAB 340B;Fixed Wing Multi-Engine
+T210N;Fixed Wing Single-Engine
+T337G;Fixed Wing Multi-Engine
+VANS AIRCRAFT RV6;Fixed Wing Single-Engine

@@ -1,0 +1,8 @@
+create view temp as
+	select id_serie, numtemporada
+	from episodiode
+		where numtemporada > 3
+
+create view serie as
+	select distinct id_serie
+	from temp

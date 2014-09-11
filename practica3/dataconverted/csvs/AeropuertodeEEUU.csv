@@ -1,0 +1,3377 @@
+iata;airport;city;state;lat;lon
+00M;Thigpen;Bay Springs;MS;3195376472;-8923450472
+00R;Livingston Municipal;Livingston;TX;3068586111;-9501792778
+00V;Meadow Lake;Colorado Springs;CO;3894574889;-1045698933
+01G;Perry-Warsaw;Perry;NY;4274134667;-7805208056
+01J;Hilliard Airpark;Hilliard;FL;306880125;-8190594389
+01M;Tishomingo County;Belmont;MS;3449166667;-8820111111
+02A;Gragg-Wade;Clanton;AL;3285048667;-8661145333
+02C;Capitol;Brookfield;WI;4308751;-8817786917
+02G;Columbiana County;East Liverpool;OH;4067331278;-8064140639
+03D;Memphis Memorial;Memphis;MO;4044725889;-9222696056
+04M;Calhoun County;Pittsboro;MS;3393011222;-8934285194
+04Y;Hawley Municipal;Hawley;MN;4688384889;-9635089861
+05C;Griffith-Merrillville;Griffith;IN;4151961917;-8740109333
+05F;Gatesville - City/County;Gatesville;TX;3142127556;-9779696778
+05U;Eureka;Eureka;NV;3960416667;-1160050597
+06A;Moton  Municipal;Tuskegee;AL;3246047167;-8568003611
+06C;Schaumburg;Chicago/Schaumburg;IL;4198934083;-8810124278
+06D;Rolla Municipal;Rolla;ND;4888434111;-9962087694
+06M;Eupora Municipal;Eupora;MS;3353456583;-8931256917
+06N;Randall;Middletown;NY;4143156583;-7439191722
+06U;Jackpot/Hayden;Jackpot;NV;4197602222;-1146580911
+07C;Dekalb County;Auburn;IN;4130716667;-8506433333
+07F;Gladewater Municipal;Gladewater;TX;3252883861;-9497174556
+07G;Fitch H Beach;Charlotte;MI;4257450861;-8481143139
+07K;Central City Municipal;Central City;NE;4111668056;-9805033639
+08A;Wetumpka Municipal;Wetumpka;AL;3252943944;-8632822139
+08D;Stanley Municipal;Stanley;ND;4830079861;-1024063514
+08K;Harvard State;Harvard;NE;4065138528;-9807978667
+08M;Carthage-Leake County;Carthage;MS;3276124611;-8953007139
+09A;Butler-Choctaw County;Butler;AL;3211931306;-881274625
+09J;Jekyll Island;Jekyll Island;GA;3107447222;-8142777778
+09K;Sargent Municipal;Sargent;NE;4163695083;-9934038139
+09M;Charleston Municipal;Charleston;MS;3399150222;-90078145
+09W;South Capitol Street;Washington;DC;3886872333;-7700747583
+0A3;Smithville Municipal;Smithville;TN;3598531194;-8580931806
+0A8;Bibb County;Centreville;AL;3293679056;-8708888306
+0A9;Elizabethton Municipal;Elizabethton;TN;3637094306;-8217374111
+0AK;Pilot Station;Pilot Station;AK;6193396417;-1628929358
+0B1;Col. Dyke;Bethel;ME;4442506444;-7080784778
+0B4;Hartington Municipal;Hartington;NE;4260355556;-9725263889
+0B5;Turners Falls;Montague;MA;4259136361;-7252275472
+0B7;Warren-Sugar Bush;Warren;VT;4411672722;-7282705806
+0B8;Elizabeth;Fishers Island;NY;4125130806;-7203161139
+0C0;Dacy;Chicago/Harvard;IL;4240418556;-8863343222
+0C4;Pender Municipal;Pender;NE;4211388722;-9672892556
+0D1;South Haven Municipal;South Haven;MI;4235083333;-8625613889
+0D8;Gettysburg Municipal;Gettysburg;SD;4498730556;-999535
+0E0;Moriarty;Moriarty;NM;3498560639;-1060094661
+0E8;Crownpoint;Crownpoint;NM;3571765889;-1082015961
+0F2;Bowie Municipal;Bowie;TX;3360166667;-9777556
+0F4;Loup City Municipal;Loup City;NE;4129028694;-9899064278
+0F7;Fountainhead Lodge Airpark;Eufaula;OK;3538898833;-9560165111
+0F8;William R Pogue Municipal;Sand Springs;OK;3617528;-9615181028
+0F9;Tishomingo Airpark;Tishomingo;OK;3419592833;-9667555694
+0G0;North Buffalo Suburban;Lockport;NY;4310318389;-7870334583
+0G3;Tecumseh Municipal;Tecumseh;NE;4039944417;-9617139694
+0G6;Williams County;Bryan;OH;4146736111;-8450655556
+0G7;Finger Lakes Regional;Seneca Falls;NY;4288062278;-7678162028
+0H1;Trego Wakeeney;Wakeeney;KS;390044525;-9989289917
+0I8;Cynthiana-Harrison County;Cynthiana;KY;3836674167;-8428410056
+0J0;Abbeville Municipal;Abbeville;AL;3160016778;-8523882222
+0J4;Florala Municipal;Florala;AL;3104247361;-8631156111
+0J6;Headland Municipal;Headland;AL;31364895;-8530965556
+0K7;Humboldt Municipal;Humboldt;IA;427360825;-9424524167
+0L5;Goldfield;Goldfield;NV;3771798833;-1172384119
+0L7;Jean;Jean;NV;3576827222;-1153296378
+0L9;Echo Bay;Overton;NV;3631108972;-1144638672
+0M0;Dumas Municipal;Dumas;AR;338845475;-9153429111
+0M1;Scott;Parsons;TN;3563778;-88127995
+0M4;Benton County;Camden;TN;3601122694;-8812328833
+0M5;Humphreys County;Waverly;TN;3611659972;-8773815889
+0M6;Panola County;Batesville;MS;3436677444;-8990008917
+0M8;Byerley;Lake Providence;LA;3282587917;-91187665
+0O3;Calaveras Co-Maury Rasmussen;San Andreas;CA;3814611639;-1206481733
+0O4;Corning Municipal;Corning;CA;3994376806;-1221713781
+0O5;University;Davis;CA;3853146222;-1217864906
+0Q5;Shelter Cove;Shelter Cove;CA;4002764333;-1240733639
+0Q6;Shingletown;Shingletown;CA;4052210111;-1218177683
+0R0;Columbia-Marion County;Columbia;MS;3129700806;-8981282944
+0R1;Atmore Municipal;Atmore;AL;3101621528;-8744675972
+0R3;Abbeville Chris Crusta Memorial;Abbeville;LA;2997576083;-9208415167
+0R4;Concordia Parish;Vidalia;LA;3156683278;-9150011889
+0R5;David G Joyce;Winnfield;LA;3196366222;-9266026056
+0R7;Red River;Coushatta;LA;3199071694;-9330739306
+0S7;Dorothy Scott;Oroville;WA;48958965;-1194119622
+0S9;Jefferson County International;Port Townsend;WA;4804981361;-1228012792
+0V2;Harriet Alexander;Salida;CO;3853916389;-1060458483
+0V3;Pioneer Village;Minden;NE;405149125;-9894565083
+0V4;Brookneal/Campbell County;Brookneal;VA;3714172222;-7901638889
+0V6;Mission Sioux;Mission;SD;4330694778;-1006281936
+0V7;Kayenta;Kayenta;AZ;3670972139;-1102367978
+10C;Galt;Chicago/Greenwood/Wonderlake;IL;4240266472;-8837588917
+10D;Winsted Municipal;Winsted;MN;4494996278;-940669175
+10G;Holmes County;Millersburg;OH;4053716667;-8195436111
+10N;Wallkill;Wallkill;NY;4162787111;-7413375583
+10U;Owyhee;Owyhee;NV;4195323306;-1161876014
+11A;Clayton Municipal;Clayton;AL;3188329917;-8548491361
+11D;Clarion Cty;Clarion;PA;4122581222;-7944098972
+11IS;Schaumburg Heliport;Chicago/Schaumburg;IL;4204808278;-8805257194
+11J;Early County;Blakely;GA;3139698611;-8489525694
+11R;Brenham Municipal;Brenham;TX;30219;-9637427778
+12C;Rochelle Municipal;Rochelle;IL;4189300139;-8907829
+12D;Tower Municipal;Tower;MN;4781833333;-9229166667
+12J;Brewton Municipal;Brewton;AL;3105126306;-8706796833
+12K;Superior Municipal;Superior;NE;4004636111;-9806011111
+12Y;Le Sueur Municipal;Le Sueur;MN;4443746472;-9391274083
+13C;Lakeview;Lakeview;MI;4345213722;-8526480333
+13K;Eureka Municipal;Eureka;KS;378515825;-9629169806
+13N;Trinca;Andover;NJ;4096676444;-7478016556
+14J;Carl Folsom;Elba;AL;3140988861;-8608883583
+14M;Hollandale Municipal;Hollandale;MS;3318262167;-9083065444
+14Y;Todd Field;Long Prairie;MN;4589857556;-9487391
+15F;Haskell Municipal;Haskell;TX;3319155556;-9971793056
+15J;Cook County;Adel;GA;3113780556;-8345308333
+15M;Luka;Luka;MS;347723125;-8816587444
+15Z;McCarthy 2;McCarthy;AK;6143706083;-1429037372
+16A;Nunapitchuk;Nunapitchuk;AK;6090582833;-1624391158
+16G;Seneca County;Tiffin;OH;4109405556;-832125
+16J;Dawson Municipal;Dawson;GA;3174328472;-84419285
+16S;Myrtle Creek Municipal;Myrtle Creek;OR;4299845056;-1233095092
+17G;Port Bucyrus-Crawford County;Bucyrus;OH;4078141667;-8297469444
+17J;Donalsonville Municipal;Donalsonville;GA;3100694444;-8487761111
+17K;Boise City;Boise City;OK;3677430028;-1025104364
+17M;Magee Municipal;Magee;MS;3186127139;-8980285361
+17N;Cross Keys;Cross Keys;NJ;3970547583;-7503300306
+17Z;Manokotak;Manokotak;AK;5898896583;-1590499739
+18A;Franklin County;Canon;GA;3434010472;-8313348333
+18I;McCreary County;Pine Knot;KY;3669591306;-8439160389
+19A;Jackson County;Jefferson;GA;3417402472;-8356066528
+19M;C A Moore;Lexington;MS;3312546111;-9002555694
+19N;Camden;Berlin;NJ;3977842056;-7494780389
+19P;Port Protection SPB;Port Protection;AK;5632880417;-1336100844
+1A3;Martin Campbell;Copperhill;TN;3501619111;-8434631083
+1A5;Macon County;Franklin;NC;35222595;-8341904389
+1A6;Middlesboro-Bell County;Middlesboro;KY;366106375;-8373741611
+1A7;Jackson County;Gainesboro;TN;3639728139;-8564164278
+1A9;Autauga County;Prattville;AL;32438775;-8651044778
+1B0;Dexter Regional;Dexter;ME;4500839444;-6923976722
+1B1;Columbia Cty;Hudson;NY;4229130028;-7371031944
+1B3;Fair Haven;Fair Haven;VT;4361534389;-7327455556
+1B9;Mansfield Municipal;Mansfield;MA;4200013306;-7119677139
+1C5;Clow;Chicago/Plainfield;IL;4169597444;-8812923056
+1D1;Milbank Municipal;Milbank;SD;4523053806;-9656596556
+1D2;Canton -Plymouth -  Mettetal;Plymouth;MI;4235003667;-8345826833
+1D3;Platte Municipal;Platte;SD;4340332833;-9882952972
+1D6;Hector Municipal;Hector;MN;4473107278;-9471471333
+1D7;Webster Municipal;Webster;SD;4529329111;-9751369889
+1D8;Redfield Municipal;Redfield;SD;4486247611;-9852953972
+1F0;Downtown Ardmore;Ardmore;OK;3414698917;-9712265194
+1F1;Lake Murray State Park;Overbrook;OK;3407509694;-9710667917
+1F4;Madill Municipal;Madill;OK;3414040194;-9681203222
+1F9;Bridgeport Municipal;Bridgeport;TX;3317533333;-9782838889
+1G0;Wood County;Bowling Green;OH;41391;-8363013889
+1G3;Kent State University;Kent;OH;4115186167;-8141658306
+1G4;Grand Canyon West;Peach Springs;AZ;3599221;-1138166164
+1G5;Freedom;Medina;OH;4113144444;-8176491667
+1G6;Michael;Cicero;NY;4318166667;-7612777778
+1H0;Creve Coeur;St Louis;MO;3872752;-9050830417
+1H2;Effingham County Memorial;Effingham;IL;3907045083;-8853351972
+1H3;Linn State Tech. College;Linn;MO;3847149444;-9181531667
+1H8;Casey Municipal;Casey;IL;3930250917;-8800406194
+1I5;Freehold;Freehold;NY;4236425;-7406596806
+1I9;Delphi Municipal;Delphi;IN;4054281417;-8668167194
+1J0;Tri-County;Bonifay;FL;3084577778;-8560138889
+1K2;Lindsay Municipal;Lindsay;OK;3485007333;-9758642028
+1K4;David J. Perry;Goldsby;OK;351550675;-9747039389
+1K5;Waynoka Municipal;Waynoka;OK;3656670028;-9885231333
+1K9;Satanta Municipal;Satanta;KS;3745419111;-1009921119
+1L0;St. John the Baptist Parish;Reserve;LA;3008720833;-9058266528
+1L1;Lincoln Co;Panaca;NV;3778746444;-1144216567
+1L7;Escalante Municipal;Escalante;UT;3774532639;-1115701653
+1L9;Parowan;Parowan;UT;3785969694;-112816055
+1M1;North Little Rock Municipal;No Lit Rock;AR;3483398056;-9225792778
+1M2;Belzoni Municipal;Belzoni;MS;3314518056;-9051528472
+1M4;Posey;Haleyville;AL;3428034806;-8760044139
+1M5;Portland Municipal;Portland;TN;3659287528;-8647691028
+1M7;Fulton;Fulton;KY;3652589417;-8891561611
+1MO;Mountain Grove Memorial;Mountain Grove;MO;3712071889;-92311245
+1N2;Spadaro;East Moriches;NY;4082787639;-7274871083
+1N4;Woodbine Muni;Woodbine;NJ;3921915;-74794765
+1N7;Blairstown;Blairstown;NJ;4097114556;-7499747556
+1N9;Allentown Queen City Muni;Allentown;PA;4057027778;-7548830556
+1ND3;Hamry;Kindred;ND;466485775;-9700564306
+1O1;Grandfield Municipal;Grandfield;OK;3423758944;-9874200917
+1O2;Lampson;Lakeport;CA;3899017472;-1228997175
+1O3;Lodi;Lodi;CA;3820241667;-1212684167
+1O4;Thomas Municipal;Thomas;OK;3573338222;-9873063833
+1O6;Dunsmuir Municipal-Mott;Dunsmuir;CA;4126320889;-1222719528
+1R1;Jena;Jena;LA;31671005;-9215846722
+1R7;Brookhaven-Lincoln County;Brookhaven;MS;316058475;-9040931583
+1R8;Bay Minette Municipal;Bay Minette;AL;3087046278;-8781738167
+1S0;Pierce County;Puyallup;WA;4710391667;-1222871944
+1S3;Tillitt;Forsyth;MT;4627110639;-1066239206
+1S5;Sunnyside Municipal;Sunnyside;WA;4632763139;-1199705964
+1S6;Priest River Muni;Priest River;ID;4819018611;-1169093644
+1U7;Bear Lake County;Paris;ID;4224714972;-11133826
+1V0;Navajo State Park;Navajo Dam;NM;3680833833;-1076514444
+1V2;Grant County;Hyannis;NE;4200942944;-1017693439
+1V5;Boulder Muni;Boulder;CO;4003942972;-1052258217
+1V6;Fremont County;Canon City;CO;3842838111;-1051054994
+1V9;Blake;Delta;CO;3878539722;-1080636611
+20A;Robbins;Oneonta;AL;3397231972;-8637942722
+20M;Macon Municipal;Macon;MS;3313345889;-8853559806
+20N;Kingston-Ulster;Kingston;NY;419852525;-7396409722
+20U;Beach;Beach;ND;4692362444;-1039785389
+20V;McElroy Airfield;Kremmling;CO;4005367972;-1063689467
+21D;Lake Elmo;St Paul;MN;4499748861;-9285568111
+21F;Jacksboro Municipal;Jacksboro;TX;33228725;-9814671083
+22B;Mountain Meadow Airstrip;Burlington;CT;4177287528;-7301121667
+22I;Vinton County;McArthur;OH;39328125;-8244182167
+22M;Pontotoc County;Pontotoc;MS;3427593833;-8903839694
+22N;Carbon Cty-Jake Arner Memorial;Lehighton;PA;4080950889;-7576149639
+23J;Herlong;Jacksonville;FL;3027778889;-8180594722
+23M;Clarke County;Quitman;MS;3208487111;-8873893389
+23N;Bayport Aerodrome;Bayport;NY;4075843139;-7305372083
+23R;Devine Municipal;Devine;TX;291384075;-9894189028
+24A;Jackson County;Sylva;NC;353168625;-8320936806
+24J;Suwannee County;Live Oak;FL;3030105583;-8302318778
+24N;Jicarilla Apache Nation;Dulce;NM;36828535;-1068841914
+25J;Cuthbert-Randolph;Cuthbert;GA;3170016583;-8482492194
+25M;Ripley;Ripley;MS;3472226778;-8901504944
+25R;International;Edinburg;TX;2644201083;-9812945306
+26A;Ashland/Lineville;Ashland/Lineville;AL;3328761417;-8580412861
+26N;Ocean City Muni cipal;Ocean City;NJ;3926347222;-7460747222
+26R;Jackson County;Edna/Ganado;TX;2900101;-9658194667
+26U;McDermitt State;McDermitt;OR;4200211083;-1177231972
+27A;Elbert County-Patz;Elberton;GA;3409519722;-8281586417
+27D;Myers;Canby;MN;4472801889;-9626309972
+27J;Newberry Municipal;Newberry;SC;3430927778;-8163972222
+27K;Georgetown-Scott County;Georgetown;KY;3823442528;-8443468667
+28J;Kay Larkin;Palatka;FL;2965863889;-8168855556
+29D;Grove City;Grove City;PA;4114597611;-8016592194
+29G;Portage County;Ravenna;OH;41210195;-8125163083
+29S;Gardiner;Gardiner;MT;4504993556;-1107466008
+2A0;Mark Anton;Dayton;TN;3548624611;-8493109722
+2A1;Jamestown Municipal;Jamestown;TN;3634970833;-8494664472
+2A3;Larsen Bay;Larsen Bay;AK;5753510667;-1539784169
+2A9;Kotlik;Kotlik;AK;6303116111;-1635299278
+2AK;Lime Village;Lime Village;AK;6135848528;-1554403508
+2B3;Parlin;Newport;NH;4338812944;-7218925417
+2B7;Pittsfield Municipal;Pittsfield;ME;4476852778;-6937441667
+2B9;Post Mills;Post Mills;VT;43884235;-7225370333
+2D1;Barber;Alliance;OH;4097089139;-8109981889
+2D5;Oakes Municipal;Oakes;ND;4617301972;-9807987556
+2F5;Lamesa Municipal;Lamesa;TX;3275627778;-1019194722
+2F6;Skiatook Municipal;Skiatook;OK;36357035;-9601138556
+2F7;Commerce Municipal;Commerce;TX;3329288889;-9589641806
+2F8;Morehouse Memorial;Bastrop;LA;3275607944;-9188057194
+2G2;Jefferson County Airpark;Steubenville;OH;4035944306;-8070007806
+2G3;Connellsville;Connellsville;PA;3995893667;-7965713306
+2G4;Garrett County;Oakland;MD;3958027778;-7933941667
+2G9;Somerset County;Somerset;PA;4003911111;-7901455556
+2H0;Shelby County;Shelbyville;IL;3941042861;-888454325
+2H2;Aurora Memorial Municipal;Aurora;MO;3696230778;-9369531111
+2I0;Madisonville Municipal;Madisonville;KY;3735502778;-8739963889
+2I5;Chanute;Rantoul;IL;4029355556;-8814236111
+2IS;Airglades;Clewiston;FL;2674200972;-8104978917
+2J2;Liberty County;Hinesville;GA;3178461111;-8164116667
+2J3;Louisville Municipal;Louisville;GA;3298654083;-8238568139
+2J5;Millen;Millen;GA;3289376972;-8196511583
+2J9;Quincy Municipal;Quincy;FL;3059786111;-8455741667
+2K3;Stanton County Municipal;Johnson;KS;3758271111;-10173281
+2K4;Scott;Mangum;OK;3489172583;-9952675667
+2K5;Telida;Telida;AK;6339387278;-1532689733
+2M0;Princeton-Caldwell County;Princeton;KY;3711560444;-8785556944
+2M2;Lawrenceburg Municipal;Lawrenceburg;TN;352343025;-8725793222
+2M3;Sallisaw Municipal;Sallisaw;OK;3543816667;-9480277778
+2M4;G. V. Montgomery;Forest;MS;3235347778;-8948867944
+2M8;Charles W. Baker;Millington;TN;3527897583;-8993147611
+2O1;Gansner;Quincy;CA;3994378056;-1209468983
+2O3;Angwin-Parrett;Angwin;CA;3857851778;-1224352572
+2O6;Chowchilla;Chowchilla;CA;3711244417;-1202468406
+2O7;Independence;Independence;CA;3681382111;-1182050956
+2O8;Hinton Municipal;Hinton;OK;3550592472;-9834236111
+2P2;Washington Island;Washington Island;WI;4538620833;-8692448056
+2Q3;Yolo Co-Davis/Woodland/Winters;Davis/Woodland/Winters;CA;385790725;-1218566322
+2R0;Waynesboro Municipal;Waynesboro;MS;3164599472;-8863475667
+2R4;Peter Prince;Milton;FL;3063762083;-8699365278
+2R5;St Elmo;St Elmo;AL;3050190833;-8827511667
+2R9;Karnes County;Kenedy;TX;288250075;-9786558333
+2S1;Vashon Municipal;Vashon;WA;4745815333;-1224773506
+2S6;Sportsman Airpark;Newberg;OR;4529567333;-1229553783
+2S7;Chiloquin State;Chiloquin;OR;4258319167;-1218761261
+2S8;Wilbur;Wilbur;WA;4775320639;-1187438936
+2T1;Muleshoe Municipal;Muleshoe;TX;3418513639;-1026410981
+2V1;Stevens;Pagosa Springs;CO;37277505;-1070558742
+2V2;Vance Brand;Longmont;CO;4016367139;-1051630369
+2V5;Wray Municipal;Wray;CO;4010032333;-10224096
+2V6;Yuma Municipal;Yuma;CO;4010415306;-1027129869
+2W5;Maryland;Indian Head;MD;3860053667;-7707296917
+2W6;Captain Walter Francis Duke Regional;Leonardtown;MD;3831536111;-7655011111
+2Y3;Yakutat SPB;Yakutat;AK;595624775;-1397410994
+2Y4;Rockwell City Municipal;Rockwell City;IA;4238748056;-9461803333
+31F;Gaines County;Seminole;TX;3267535389;-102652685
+32M;Norfolk;Norfolk;MA;4212787528;-7137033556
+32S;Stevensville;Stevensville;MT;4652511111;-1140528056
+33J;Geneva Municipal;Geneva;AL;3105527778;-8588033333
+33M;Water Valley;Water Valley;MS;3416677639;-8968619722
+33N;Delaware Airpark;Dover;DE;3921837556;-7559642667
+33S;Pru;Ritzville;WA;4712487194;-1183927539
+34A;Laurens County;Laurens;SC;3450705556;-8194719444
+35A;Union County, Troy Shelton;Union;SC;3468680111;-8164121167
+35D;Padgham;Allegan;MI;4253098278;-8582513556
+35S;Wasco State;Wasco;OR;4558944444;-1206741667
+36K;Lakin;Lakin;KS;3796946389;-1012554472
+36S;Happy Camp;Happy Camp;CA;4179067944;-1233889444
+36U;Heber City Municipal/Russ McDonald;Heber;UT;4048180556;-1114288056
+37T;Calico Rock-Izard County;Calico Rock;AR;3616565278;-9214523611
+37W;Harnett County;Erwin;NC;3537880028;-7873362917
+38A;Shaktoolik;Shaktoolik;AK;6436263194;-1612025369
+38S;Deer Lodge-City-County;Deer Lodge;MT;4638881583;-1127669842
+38U;Wayne Wonderland;Loa;UT;3836247972;-1115960164
+39N;Princeton;Princeton;NJ;4039834833;-7465760361
+3A0;Grove Hill Municipal;Grove Hill;AL;3168932389;-877613875
+3A1;Folsom;Cullman;AL;3426870833;-8685833611
+3A2;New Tazewell Municipal;Tazewell;TN;3641008417;-8355546167
+3A3;Anson County;Wadesboro;NC;3502397611;-8008127333
+3AU;Augusta Municipal;Augusta;KS;3767162778;-9707787222
+3B0;Southbridge Municipal;Southbridge;MA;4210092806;-7203840833
+3B1;Greenville Municipal;Greenville;ME;4546302778;-6955161111
+3B2;Marshfield;Marshfield;MA;4209824111;-7067212083
+3B9;Chester;Chester;CT;4138390472;-7250589444
+3BS;Jack Barstow;Midland;MI;4366291528;-84261325
+3CK;Lake In The Hills;Lake In The Hills;IL;4220680306;-8832304028
+3CM;James Clements Municipal;Bay City;MI;4354691667;-8389550222
+3CU;Cable Union;Cable;WI;4619424889;-9124640972
+3D2;Ephraim/Gibraltar;Ephraim;WI;4513535778;-8718586556
+3D4;Frankfort Dow Memorial;Frankfort;MI;4462506389;-8620061944
+3F3;De Soto Parish;Mansfield;LA;3207345972;-9376551889
+3F4;Vivian;Vivian;LA;3286133333;-9401015361
+3F7;Jones Memorial;Bristow;OK;3580685278;-9642185556
+3FM;Fremont Municipal;Fremont;MI;4343890528;-8599478
+3FU;Faulkton Municipal;Faulkton;SD;4503191861;-9911566417
+3G3;Wadsworth Municipal;Wadsworth;OH;4100158222;-8175513111
+3G4;Ashland County;Ashland;OH;4090297222;-8225563889
+3G7;Williamson/Sodus;Williamson;NY;4323472222;-7712097222
+3GM;Grand Haven Memorial Airpark;Grand Haven;MI;4303404639;-861981625
+3I2;Mason County;Point Pleasant;WV;3891463889;-8209858333
+3I7;Phillipsburg;Phillipsburg;OH;3991344194;-8440030889
+3J1;Ridgeland;Ridgeland;SC;3249268694;-8099233028
+3J7;Greene County Airpark;Greensboro;GA;3359766667;-83139
+3JC;Freeman;Junction City;KS;3904327556;-9684328694
+3K3;Syracuse-Hamilton County Municipal;Syracuse;KS;3799167972;-1017462822
+3K6;St Louis-Metro East;Troy/Marine/St. Louis;IL;3873290861;-8980656722
+3K7;Mark Hoard Memorial;Leoti;KS;3845696333;-1013532161
+3LC;Logan County;Lincoln;IL;4015847222;-8933497222
+3LF;Litchfield Municipal;Litchfield;IL;3916635306;-8967489694
+3M7;Lafayette Municipal;Lafayette;TN;36518375;-8605828083
+3M8;North Pickens;Reform;AL;3338900611;-8800557806
+3M9;Warren Municipal;Warren;AR;3356044333;-9208538861
+3MY;Mt. Hawley Auxiliary;Peoria;IL;4079525917;-896134025
+3N6;Old Bridge;Old Bridge;NJ;4032988667;-7434678694
+3N8;Mahnomen County;Mahnomen;MN;4725996056;-9592809778
+3ND0;Northwood Municipal;Northwood;ND;4772423333;-9759042222
+3O1;Gustine;Gustine;CA;3726271722;-1209632586
+3O3;Municipal;Purcell;OK;3497979444;-9738586167
+3O4;Sayre Municipal;Sayre;OK;3516755222;-9965787361
+3O5;Walters Municipal;Walters;OK;3437258444;-9840588583
+3O7;Hollister Municipal;Hollister;CA;3689334528;-1214102706
+3O9;Grand Lake Regional;Afton;OK;365775775;-9486190028
+3R0;Beeville Municipal;Beeville;TX;2836455528;-9779208194
+3R1;Bay City Municipal;Bay City;TX;28973255;-9586345528
+3R2;Le Gros Memorial;Crowley;LA;3016173611;-9248396111
+3R4;Hart;Many;LA;3154489667;-9348645306
+3R7;Jennings;Jennings;LA;3024269333;-9267344778
+3S4;Illinois Valley;Illinois Valley (Cave Junction);OR;4210372417;-1236822911
+3S8;Grants Pass;Grants Pass;OR;4251011722;-1233879894
+3S9;Condon State-Pauling;Condon;OR;4524651889;-1201664233
+3SG;Harry W Browne;Saginaw - H.Browne;MI;4343341028;-8386245833
+3SQ;St Charles;St Charles;MO;3884866139;-9050011833
+3T3;Boyceville Municipal;Boyceville;WI;45042185;-920293475
+3T5;Fayette Regional Air Center;La Grange;TX;2990930556;-969505
+3TR;Jerry Tyler Memorial;Niles;MI;4183590806;-8622517611
+3U3;Bowman;Anaconda;MT;4615313278;-11286784
+3U7;Benchmark;Benchmark;MT;4748133194;-1128697678
+3U8;Big Sandy;Big Sandy;MT;4816247972;-1101132631
+3V4;Fort Morgan Municipal;Fort Morgan;CO;4033423194;-1038039508
+3WO;Shawano Municipal;Shawano;WI;4478777778;-8856152444
+3Y2;George L Scott Municipal;West Union;IA;4298508917;-9179060417
+3Y3;Winterset Madison County;Winterset;IA;4136276778;-9402106194
+3Z9;Haines SPB;Haines;AK;5923495111;-1354407181
+40J;Perry-Foley;Perry;FL;3006927778;-8358058333
+40N;Chester Cty-G O Carlson;Coatesville;PA;3997897222;-7586547222
+40U;Manila;Manila;UT;4098607;-1096784811
+41U;Manti-Ephraim;Manti;UT;3932912833;-1116146397
+42A;Melbourne Municipal;Melbourne;AR;3607079222;-9182914667
+42C;White Cloud;White Cloud;MI;4355974139;-8577421944
+42J;Keystone Airpark;Keystone Heights;FL;2984475;-8204752778
+42S;Poplar;Poplar;MT;4811595861;-1051821928
+43A;Montgomery County;Star;NC;3538819528;-7979281667
+44B;Dover/Foxcroft;Dover-Foxcroft;ME;4518338806;-692328225
+44N;Sky Acres;Millbrook;NY;4170742861;-7373802889
+45J;Rockingham-Hamlet;Rockingham;NC;3489107083;-7975905806
+45OH;North Bass Island;North Bass Island;OH;4171932528;-8282196917
+45R;Kountz - Hawthorne;Kountze/Silsbee;TX;3033633806;-9425754361
+46A;Blairsville;Blairsville;GA;3485508722;-83996855
+46D;Carrington Municipal;Carrington;ND;4745111111;-9915111111
+46N;Sky Park;Red Hook;NY;4198458333;-7383596556
+47A;Cherokee County;Canton;GA;3431058333;-8442391667
+47J;Cheraw Municipal;Cheraw;SC;3471258333;-7995794444
+47N;Central Jersey Regional;Manville;NJ;4052438417;-7459839194
+47V;Curtis Municipal;Curtis;NE;4063750778;-1004712539
+48A;Cochran;Cochran;GA;3239936111;-8327591667
+48D;Clare Municipal;Clare;MI;4383111111;-8474133333
+48I;Braxton County;Sutton;WV;3868704444;-8065176083
+48K;Ness City Municipal;Ness City;KS;3847110278;-9990806667
+48S;Harlem;Harlem;MT;4856666472;-1087729339
+48V;Tri-County;Erie;CO;40010225;-105047975
+49A;Gilmer County;Ellijay;GA;3462786417;-8452492889
+49T;Downtown Heliport;Dallas;TX;3277333333;-9680027778
+49X;Chemehuevi Valley;Chemehuevi Valley;CA;3452751083;-1144310697
+49Y;Fillmore County;Preston;MN;4367676;-9217973444
+4A2;Atmautluak;Atmautluak;AK;6086674556;-1622731389
+4A4;Cornelius-Moore;Cedartown;GA;3401869444;-8514647222
+4A5;Marshall-Searcy County;Marshall;AR;3589893667;-9265588611
+4A6;Scottsboro Municipal;Scottsboro;AL;3468897278;-860058125
+4A7;Clayton County;Hampton;GA;3338911111;-8433236111
+4A9;Isbell;Fort Payne;AL;344728925;-8572221722
+4B0;South Albany;South Bethlehem;NY;4256072611;-7383395639
+4B1;Duanesburg;Duanesburg;NY;4275840889;-7413290472
+4B6;Ticonderoga Muni;Ticonderoga;NY;4387700278;-7341317639
+4B7;Schroon Lake;Schroon Lake;NY;4386256083;-7374262972
+4B8;Robertson;Plainville;CT;4169037667;-728648225
+4B9;Simsbury Tri-Town;Simsbury;CT;4191676389;-7277731778
+4C8;Albia Municipal;Albia;IA;4099445361;-9276297194
+4D0;Abrams Municipal;Grandledge;MI;4277420167;-8473309806
+4D9;Alma Municipal;Alma;NE;4011389972;-9934565306
+4F2;Panola County-Sharpe;Carthage;TX;3217608333;-9429880556
+4F4;Gilmer-Upshur County;Gilmer;TX;32699;-9494886111
+4G1;Greenville Muni;Greenville;PA;4144683167;-8039126167
+4G2;Hamburg Inc.;Hamburg;NY;427008925;-7891475694
+4G5;Monroe County;Woodsfield;OH;3977904472;-8110277222
+4G6;Hornell Muni;Hornell;NY;4238214444;-776821125
+4G7;Fairmont Muni;Fairmont;WV;3944816667;-8016702778
+4I0;Mingo County;Williamson;WV;3768760139;-8226097306
+4I3;Knox County;Mount Vernon;OH;4032872222;-8252377778
+4I7;Putnam County;Greencastle;IN;3963359556;-868138325
+4I9;Morrow County;Mt. Gilead;OH;4052452778;-8285005556
+4J1;Brantley County;Nahunta;GA;3121272417;-8190539083
+4J2;Berrien County;Nashville;GA;3121255556;-8322627778
+4J5;Quitman-Brooks County;Quitman;GA;3080575139;-8358654889
+4J6;St Marys;St Marys;GA;3075468028;-8155731917
+4K0;Pedro Bay;Pedro Bay;AK;5978960972;-1541238331
+4K5;Ouzinkie;Ouzinkie;AK;5792287611;-1525005111
+4K6;Bloomfield Municipal;Bloomfield;IA;4073210556;-9242826889
+4KA;Tununak;Tununak;AK;6057559667;-1652731272
+4M1;Carroll County;Berryville;AR;3638340333;-9361685667
+4M3;Carlisle Municipal;Carlisle;AR;3480823;-9171205083
+4M4;Clinton Municipal;Clinton;AR;3559785528;-9245182472
+4M7;Russellville-Logan County;Russellville;KY;3679991667;-8681016667
+4M8;Clarendon Municipal;Clarendon;AR;3464870694;-9139457111
+4M9;Corning Municipal;Corning;AR;3640423139;-9064792639
+4N1;Greenwood Lake;West Milford;NJ;4112854806;-7434584611
+4O3;Blackwell-Tonkawa Municipal;Blackwell-Tonkawa;OK;3674511583;-9734959972
+4O4;McCurtain County Regional;Idabel;OK;33909325;-9485835278
+4O5;Cherokee Municipal;Cherokee;OK;3678336306;-9835035083
+4PH;Polacca;Polacca;AZ;3579167222;-1104234653
+4R1;I H Bass Jr Memorial;Lumberton;MS;3101546028;-8948256556
+4R3;Jackson Municipal;Jackson;AL;3147210861;-8789472083
+4R4;Fairhope Municipal;Fairhope;AL;304621125;-8787801972
+4R5;Madeline Island;La Pointe;WI;4678865556;-9075866944
+4R7;Eunice;Eunice;LA;3046628389;-9242379917
+4R9;Dauphin Island;Dauphin Island;AL;3026048083;-8812749972
+4S1;Gold Beach Muni;Gold Beach;OR;4241344444;-1244242742
+4S2;Hood River;Hood River;OR;4567261833;-1215364625
+4S3;Joseph State;Joseph;OR;4535709583;-1172532244
+4S9;Portland-Mulino;Mulino (Portland);OR;4521632417;-1225900839
+4SD;Reno/Stead;Reno;NV;3966738111;-1198754169
+4T6;Mid-Way;Midlothian-Waxahachie;TX;3245609722;-9691240972
+4U3;Liberty County;Chester;MT;4851072222;-1109908639
+4U6;Circle Town County;Circle;MT;4741861972;-1055619431
+4V0;Rangely;Rangely;CO;4009469917;-1087612172
+4V1;Johnson;Walsenburg;CO;3769640056;-1047838747
+4V9;Antelope County;Neligh;NE;4211222889;-980386775
+4W1;Elizabethtown Municipal;Elizabethtown;NC;3460183722;-7857973306
+4Z4;Holy Cross;Holy Cross;AK;6218829583;-1597749503
+4Z7;Hyder SPB;Hyder;AK;5590331972;-1300067031
+50I;Kentland Municipal;Kentland;IN;4075873222;-8742821917
+50J;Berkeley County;Moncks Corner;SC;3318605556;-8003563889
+50K;Pawnee City Municipal;Pawnee City;NE;4011611111;-9619445278
+50R;Lockhart Municipal;Lockhart;TX;2985033333;-9767241667
+51D;Edgeley Municipal;Edgeley;ND;4634858333;-9873555556
+51Z;Minto (New);Minto;AK;6514370889;-1493699647
+52A;Madison Municipal;Madison;GA;3361212528;-8346044333
+52E;Timberon;Timberon;NM;3263388889;-1056863889
+52J;Lee County;Bishopville;SC;3424459889;-8023729333
+53A;Dr. C.P. Savage, Sr.;Montezuma;GA;32302;-8400747222
+53K;Osage City Municipal;Osage City;KS;3863334222;-9580859806
+54J;Defuniak Springs;Defuniak Springs;FL;307313;-8615160833
+55D;Grayling Army Airfield;Grayling;MI;4468032028;-8472886278
+55J;Fernandina Beach Municipal;Fernandina Beach;FL;3061170083;-81462345
+55S;Packwood;Packwood;WA;4660400083;-1216778664
+56D;Wyandot County;Upper Sandusky;OH;4088336139;-833145325
+56M;Warsaw Municipal;Warsaw;MO;3834688889;-93345425
+56S;Seaside Municipal;Seaside;OR;4601649694;-1239054167
+57B;Islesboro;Islesboro;ME;4430285556;-6891058722
+57C;East Troy Municipal;East Troy;WI;4279711111;-883725
+59B;Newton;Jackman;ME;4563199111;-7024728944
+5A4;Okolona Mun.-Richard M. Stovall;Okolona;MS;3401580528;-8872618944
+5A6;Winona-Montgomery County;Winona;MS;3346540139;-8972924806
+5A8;Aleknagik;Aleknagik;AK;5928256167;-1586176725
+5A9;Roosevelt Memorial;Warm Springs;GA;3293346222;-8468881639
+5B2;Saratoga Cty;Saratoga Springs;NY;4305126111;-7386119444
+5B3;Danielson;Danielson;CT;4181974056;-7190096306
+5B7;Rensselaer Air Park;Troy;NY;4269091194;-7357956
+5CD;Chandalar Shelf;Chandalar Camp;AK;6806543944;-1495797392
+5D3;Owosso Community;Owosso;MI;4299297222;-841389125
+5F1;Post-Garza County Municipal;Post;TX;3320370556;-101340415
+5F4;Homer Municipal;Homer;LA;3278850806;-9300366083
+5G0;Leroy;Le Roy;NY;4298136667;-7793751389
+5G7;Bluffton;Bluffton;OH;4088544444;-8386863889
+5G8;Pittsburgh Boquet Airpark;Jeanette;PA;4037645722;-7960837583
+5G9;Toledo Suburban;Lambertville;MI;417358775;-8365541056
+5HO;Hope;Hope;AK;6090415028;-1496238389
+5I4;Sheridan;Sheridan;IN;4017792583;-8621729889
+5J0;John Day State;John Day;OR;4440416667;-1189625
+5J9;Twin City;Loris;SC;3408848361;-7886462028
+5K2;Tribune Municipal;Tribune;KS;3845418222;-1017462828
+5M0;Rountree;Hartselle;AL;3440823444;-8693295056
+5M1;De Witt Municipal;De Witt;AR;342626;-9130984194
+5M4;Fordyce Municipal;Fordyce;AR;3384593722;-9236542861
+5M9;Marion-Crittenden County;Marion;KY;3733616222;-8811113611
+5N8;Casselton Regional;Casselton;ND;4685469528;-9720870028
+5ND6;Hillsboro Municipal;Hillsboro;ND;4735940778;-9706041639
+5NI;Nikolai;Nikolai;AK;630174475;-1543639608
+5NK;Naknek;Naknek;AK;5873288056;-1570199197
+5NN;Nondalton;Nondalton;AK;5997904306;-1548396944
+5R3;Rusty Allen;Lago Vista;TX;30498585;-9796947222
+5R4;Foley Municipal;Foley;AL;3042769722;-8770082
+5R5;Wharton Municipal;Wharton;TX;2925427778;-9615438889
+5R8;De Quincy Industrial Airpark;De Quincy;LA;3044117222;-9347349722
+5S8;St. Michael;St. Michael;AK;6349005056;-1621103692
+5T5;Hillsboro Municipal;Hillsboro;TX;3208348611;-9709722722
+5T6;Dona Ana County  At Santa Teresa;Santa Teresa;NM;3188098556;-1067048131
+5T9;Maverick County Meml Intl;Eagle Pass;TX;2885719361;-1005122997
+5TE;Tetlin;Tetlin;AK;6313382361;-1425219339
+5U3;Ennis - Big Sky;Ennis;MT;4527175833;-1116486389
+5U8;Geraldine;Geraldine;MT;4759664;-1102660367
+5V5;Shiprock Airstrip;Shiprock;NM;366977775;-1087011986
+5V8;Kadoka Municipal;Kadoka;SD;4383332611;-1014970881
+5W8;Siler City Municipal;Siler City;NC;357029175;-7950529972
+5Z1;Juneau Harbor;Juneau;AK;5829888889;-1344077778
+5Z5;Kantishna;Kantishna;AK;6354171472;-1509939547
+60F;Seymour Municipal;Seymour;TX;3364870417;-9926063056
+60J;Ocean Isle;Ocean Isle Beach;NC;3390850556;-7843667222
+61A;Camden Municipal;Camden;AL;3197987056;-8733888056
+61B;Boulder City Municipal;Boulder City;NV;3594748028;-1148610967
+61C;Fort Atkinson Municipal;Fort Atkinson;WI;4296320278;-8881762806
+61J;Portland Downtown Heliport;Portland;OR;4552527778;-1226709289
+61S;Cottage Grove State;Cottage Grove;OR;4379984528;-1230289678
+62D;Warren;Warren;OH;4126672278;-8092897778
+62H;Giddings-Lee County;Giddings;TX;3016927167;-9698001083
+62S;Christmas Valley;Christmas Valley;OR;4323653139;-1206660967
+63A;Lloyd R. Roundtree Seaplane Facility;Petersburg;AK;5681131972;-1329600567
+63C;Adams County Legion;Adams/Friendship;WI;4396117222;-8978804889
+63S;Colville Municipal;Colville;WA;4854156944;-1178844247
+65J;Wrens Memorial;Wrens;GA;33222645;-8238373611
+65S;Boundary County;Bonners Ferry;ID;4872632639;-1162954761
+66D;Sturgis Municipal;Sturgis;SD;4441761111;-1033747778
+67L;Mesquite;Mesquite;NV;3683497556;-1140552453
+68A;Wrangell SPB;Wrangell;AK;56466325;-1323800181
+68S;Davenport;Davenport;WA;4765404528;-1181677519
+6A1;Butler Municipal;Butler;GA;3256736694;-8425074833
+6A2;Griffin-Spaulding County;Griffin;GA;3322697222;-8427494444
+6A3;Andrews-Murphy;Andrews;NC;3519453167;-8386490194
+6A4;Johnson County;Mountain City;TN;3641789833;-8182511528
+6A8;Allakaket;Allakaket;AK;6655194444;-1526222222
+6B0;Middlebury State;Middlebury;VT;4398478278;-7309594889
+6B4;Frankfort-Highland;Utica/Frankfort;NY;4302090306;-7517043861
+6B6;Minute Man Airfield;Stow;MA;4246045361;-7151791444
+6B8;Caledonia County State;Lyndonville;VT;4456911417;-7201797889
+6B9;Skaneateles Aero Drome;Skaneateles;NY;4291395583;-7644076889
+6D6;Greenville Municipal;Greenville;MI;4314228139;-8525380722
+6D8;Barnes County Municipal;Valley City;ND;4694100778;-9801762611
+6F1;Talihina Municipal;Talihina;OK;3470777139;-9507378583
+6G1;Titusville;Titusville;PA;4160880861;-7974133111
+6G5;Barnesville - Bradfield;Barnesville;OH;4000243139;-8119183
+6I2;Lebanon-Springfield;Springfield;KY;3763355556;-8524216667
+6J0;Corporate;Pelion;SC;3379463889;-8124586111
+6J2;St George;St George;SC;331955;-8050847222
+6J4;Saluda County;Saluda;SC;3392680111;-8179455306
+6K3;Creighton Municipal;Creighton;NE;4247083694;-9788367778
+6K4;Fairview Municipal;Fairview;OK;3629014667;-9847582833
+6K8;Tok Junction;Tok;AK;6332881806;-1429536194
+6L4;Logan County;Logan;WV;3785567778;-8191589722
+6M2;Horseshoe Bend;Horseshoe Bend;AR;3621673389;-9175014556
+6M6;Lewis County Regional;Monticello;MO;4012916667;-9167833333
+6M7;Lee County-Marianna;Marianna;AR;3478027778;-9081055556
+6M8;Marked Tree Municipal;Marked Tree;AR;3553341472;-9040149028
+6N5;E 34th St Heliport;New York;NY;4074260167;-7397208306
+6N7;New York Skyports Inc. SPB;New York;NY;4073399083;-7397291639
+6N8;Thomas County;Thedford;NE;4196217028;-1005690139
+6R3;Cleveland Municipal;Cleveland;TX;3035643;-9500801472
+6R7;Old Harbor (New);Old Harbor;AK;5721810306;-1532697494
+6R9;Llano Municipal;Llano;TX;3078450278;-9866025083
+6S0;Big Timber;Big Timber;MT;4580638889;-1099811111
+6S2;Florence Muni;Florence;OR;4397901;-1241095631
+6S3;Columbus;Columbus;MT;456291075;-1092507167
+6S5;Ravalli County;Hamilton;MT;4625149444;-1141255403
+6S8;Laurel Municipal;Laurel;MT;4570308833;-1087610886
+6V0;Edgemont Municipal;Edgemont;SD;4329525056;-1038435325
+6V3;Tazewell County;Richlands;VA;3706374667;-8179826944
+6V4;Wall Municipal;Wall;SD;4399498861;-1022504367
+6V6;Hopkins;Nucla;CO;3823879833;-1085632597
+70J;Cairo-Grady County;Cairo;GA;3088797667;-8415473528
+71J;Blackwell;Ozark;AL;3143113889;-8561922222
+72S;Rosalia Municipal;Rosalia;WA;4723683778;-1174210244
+73C;Lancaster;Lancaster;WI;4278054722;-9068096028
+73J;Beaufort County;Beaufort;SC;324121375;-8063455083
+74D;Marshall Cty;Moundsville;WV;3988083333;-8073577778
+74S;Anacortes;Anacortes;WA;484989925;-1226623956
+74V;Roosevelt Municipal;Roosevelt;UT;4027829167;-1100512619
+75J;Turner County;Ashburn;GA;3168545833;-8363211194
+76G;Marine City;Marine City;MI;4272086583;-8259574694
+77G;Marlette Township;Marlette;MI;4331183;-8309091444
+77S;Hobby;Creswell;OR;4393206889;-1230067483
+78D;Caro Municipal;Caro;MI;4345908333;-8344522222
+79D;Philippi-Barbour County Regional;Philippi;WV;3916620778;-8006258056
+79J;Andalusia;Andalusia;AL;3130875278;-8639376083
+79S;Fort Benton;Fort Benton;MT;4784583333;-1106336111
+7A0;Greensboro Municipal;Greensboro;AL;3268147222;-8766208333
+7A2;Demopolis Municipal;Demopolis;AL;3246381944;-8795406389
+7A3;Lanett Municipal;Lanett;AL;3281204611;-8522958111
+7A5;Roanoke Municipal;Roanoke;AL;3312928722;-85366615
+7A8;Avery County/Morrison;Spruce Pine;NC;3594457028;-8199566944
+7B2;La Fleur;Northampton;MA;4232816806;-7261151667
+7D2;Troy-Oakland;Troy;MI;4254294389;-8317790861
+7F3;Caddo Mills Municipal;Caddo Mills;TX;3303622222;-9624313889
+7F6;Clarksville-Red River County;Clarksville;TX;3359316472;-9506355528
+7F7;Clifton Municipal;Clifton;TX;3181682333;-9756696361
+7F9;Comanche County-City;Comanche;TX;3191681306;-98600325
+7G0;Ledgedale Airpark;Brockport;NY;4318118194;-7791362333
+7G8;Geauga County;Middlefield;OH;4144960972;-8106292972
+7I7;Bellefontaine Municipal;Bellefontaine;OH;4041208333;-8373686111
+7K0;Pike County-Hatcher;Pikeville;KY;3756173889;-8256660694
+7K2;Skagway SPB;Skagway;AK;5944689528;-1353226633
+7K4;Ohio County;Hartford;KY;3745832417;-8684995194
+7K8;Martin;South Sioux City;NE;4245416111;-9647253111
+7KA;Tatitlek;Tatitlek;AK;6086890528;-1466864653
+7M1;McGehee Municipal;McGehee;AR;3362022111;-9136484056
+7M3;Bearce;Mount Ida;AR;3452926056;-9352713472
+7M4;Osceola Municipal;Osceola;AR;3569114639;-9001012028
+7M5;Ozark-Franklin County;Ozark;AR;3551069583;-938393075
+7M7;Piggott Municipal;Piggott;AR;3637820556;-9016624167
+7N0;New Orleans Downtown Heliport;New Orleans;LA;2995194444;-9008166667
+7N1;Corning-Painted Post;Corning;NY;4217590722;-7711219278
+7N7;Spitfire Aerodrome;Pedrictown;NJ;3973556333;-7539772111
+7S0;Ronan;Ronan;MT;4757076861;-1140967783
+7S1;Twin Bridges;Twin Bridges;MT;4553325917;-1123091656
+7S5;Independence State;Independence;OR;4486676444;-1231982475
+7S6;White Sulphur Springs;White Sulphur Springs;MT;4650410722;-1109132667
+7S7;Valier;Valier;MT;4829997583;-1122508711
+7V1;Buena Vista Muni;Buena Vista;CO;3881416194;-1061206939
+7V7;Red Cloud Municipal;Red Cloud;NE;4008473556;-9854061694
+7W6;Hyde County;Englehard;NC;355623925;-7595518417
+80F;Antlers Municipal;Antlers;OK;3419260083;-9564985889
+81B;Oxford County Regional;Norway;ME;4415742611;-7048129583
+82C;Mauston-New Lisbon Union;New Lisbon;WI;4383872167;-9013768389
+82V;Pine Bluffs Municipal;Pine Bluffs;WY;4115331528;-1041302292
+83D;Mackinac County;St Ignace;MI;4589029056;-8473755083
+84D;Cheyenne Eagle Butte;Eagle Butte;SD;44984375;-1012510417
+84K;Meyers Chuck SPB;Meyers Chuck;AK;5573963611;-1322550183
+84R;Smithville Municipal;Smithville;TX;3003048028;-9716687194
+85V;Ganado;Ganado;AZ;3570140278;-1095103814
+86F;Carnegie Municipal;Carnegie;OK;3512061417;-985806175
+87I;Yazoo County;Yazoo City;MS;32883215;-904636475
+87Y;Blackhawk Airfield;Madison;WI;4310491444;-8918553833
+88C;Palmyra Municipal;Palmyra;WI;4288355556;-8859743056
+88J;Allendale County;Allendale;SC;3299512944;-8127024583
+88M;Eureka;Eureka;MT;4896885444;-1150704464
+89D;Kelleys Island Land;Kelleys Island;OH;4160282583;-82684625
+8A0;Albertville Municipal;Albertville;AL;3422910972;-8625575806
+8A1;Guntersville Municipal;Guntersville;AL;3439944167;-8627016111
+8A3;Livingston Municipal;Livingston;TN;3641217389;-8531154861
+8B0;Rangeley Municipal;Rangeley;ME;44991895;-7066462472
+8D1;New Holstein Municipal;New Holstein;WI;4394424111;-881134775
+8D3;Sisseton Municipal;Sisseton;SD;4567079278;-9699619167
+8D4;Sparta;Sparta;MI;4312860833;-8567689778
+8D7;Clark County;Clark;SD;4489570278;-9771191361
+8D9;Howard Municipal;Howard;SD;4402914056;-9753784778
+8F7;Decatur Municipal;Decatur;TX;3325463889;-9758055556
+8G2;Lawrence;Corry;PA;4190755611;-7964105083
+8G6;Harrison County;Cadiz;OH;4023820667;-8101256917
+8G7;Zelienople;Zelienople;PA;4080161944;-8016072889
+8K8;Cimarron Municipal;Cimarron;KS;3783057667;-1003504222
+8K9;Murphys Pullout SPB;Ketchikan;AK;5538965028;-1317380742
+8M1;Booneville-Baldwyn;Booneville;MS;3458981806;-8864699861
+8S1;Polson;Polson;MT;4769543861;-1141851178
+8S2;Cashmere-Dryden;Cashmere;WA;4751484611;-1204848025
+8S5;East Cooper;Mt Pleasant;SC;3289783333;-7978286111
+8U6;Terry;Terry;MT;4677917333;-1053047083
+8U8;Townsend;Townsend;MT;4633111111;-1114813889
+8V2;Stuart-Atkinson Municipal;Atkinson;NE;4256250167;-9903787611
+8Y2;Buffalo Municipal;Buffalo;MN;4515904694;-9384330361
+91C;Sauk - Prairie;Prairie Du Sac;WI;432969325;-8975595639
+91F;Arrowhead;Canadian;OK;3515426444;-9562026389
+93B;Stonington;Stonington;ME;4417508056;-6867863722
+93C;Richland;Richland Center;WI;4328333333;-9029827778
+93F;Mignon Laird Municipal;Cheyenne;OK;3560393694;-9970343889
+93Y;David City Municipal;David City;NE;4123334583;-9711698111
+94K;Cassville Municipal;Cassville;MO;3669741667;-9390052778
+95F;Cleveland Municipal;Cleveland;OK;3628340306;-9646418833
+96D;Walhalla Municipal;Walhalla;ND;4894057222;-97902775
+96Z;North Whale SPB;North Whale Pass;AK;5611631056;-1331217153
+97M;Ekalaka;Ekalaka;MT;4587791444;-1045375072
+98D;Onida Municipal;Onida;SD;4470414917;-1001087353
+99N;Bamburg County;Bamburg;SC;3330515528;-8110898917
+99Y;Greeley Municipal;Greeley;NE;4155834528;-9854618528
+9A1;Covington Municipal;Covington;GA;336324825;-8384955806
+9A3;Chuathbaluk;Chuathbaluk;AK;6158317306;-1592359667
+9A4;Lawrence County;Courtland;AL;3465938889;-8734883333
+9A5;Barwick-LaFayette;LaFayette;GA;3468896917;-8529023333
+9A6;Chester Municipal;Chester;SC;3478933333;-8119577778
+9A8;Ugashik;Ugashik;AK;575278675;-1573993056
+9C8;Evart Municipal;Evart;MI;438958525;-8527920861
+9D0;Highmore Municipal;Highmore;SD;4454165056;-9944622306
+9D1;Gregory Municipal;Gregory;SD;4322174722;-994033
+9D2;Harding County;Buffalo;SD;4558055222;-1035296356
+9D7;Cando Municipal;Cando;ND;484841675;-9923680389
+9D9;Hastings Municipal;Hastings;MI;4266361778;-8534625944
+9G0;Buffalo Airfield;Buffalo;NY;4286200306;-7871658528
+9G1;West Penn;Tarentum;PA;4060423333;-7982060611
+9G3;Akron;Akron;NY;4302108667;-7848296778
+9G5;Royalton;Gasport;NY;4318200222;-7855780528
+9G8;Ebensburg;Ebensburg;PA;4046121083;-7877524389
+9I0;Havana Regional;Havana;IL;40221155;-9002289361
+9I3;West Liberty;West Liberty;KY;3791453139;-8325212111
+9K2;Kokhanok;Kokhanok;AK;5943264556;-1548027058
+9K4;Skyhaven;Warrensburg;MO;387842425;-9380285417
+9K7;Ellsworth Municipal;Ellsworth;KS;3874750889;-9823061222
+9K8;Kingman Municipal;Kingman;KS;3766660278;-9812264722
+9M4;Ackerman-Choctaw County;Ackerman;MS;333034575;-8922840028
+9M6;Kelly;Oak Grove;LA;3284921361;-9140390611
+9M8;Sheridan-Grant County Regional;Sheridan;AR;3432842917;-9235098583
+9S2;Scobey;Scobey;MT;4880772722;-10543947
+9S4;Mineral County;Superior;MT;4716825944;-1148537411
+9S5;Three Forks;Three Forks;MT;4587852778;-1115691389
+9S7;Winifred;Winifred;MT;4755164778;-1093776792
+9S9;Lexington;Lexington;OR;4545263139;-1196886361
+9U0;Turner;Turner;MT;4885417361;-1084090214
+9U3;Austin;Austin;NV;3946798056;-1171953703
+9U4;Dixon;Dixon;WY;4103829806;-1074972869
+9V5;Modisett;Rushville;NE;4273748639;-1024448947
+9V6;Martin Municipal;Martin;SD;4316564083;-1017126953
+9V9;Chamberlain Municipal;Chamberlain;SD;4376612222;-9932134
+9W7;Currituck County;Currituck;NC;3639893194;-7601631111
+A04;Centre Municipal;Centre;AL;3415987361;-8563512944
+A14;Portage Creek;Portage Creek;AK;58906485;-1577141078
+A29;Sitka SPB;Sitka;AK;5705213778;-1353462086
+A30;Scott Valley;Fort Jones;CA;4155819444;-1228553103
+A32;Butte Valley;Dorris;CA;4188709222;-1219755614
+A61;Tuntutuliak;Tuntutuliak;AK;6033534556;-1626670094
+A63;Twin Hills;Twin Hills;AK;5907562167;-1602730436
+A79;Chignik Lake;Chignik Lake;AK;5625504722;-1587753614
+A85;Kwigillingok;Kwigillingok;AK;5987644778;-1631675583
+AAF;Apalachicola Municipal;Apalachicola;FL;2972754583;-8502744778
+AAO;Colonel James Jabara;Wichita;KS;3774755556;-9722113889
+AAS;Taylor County;Cambellsville;KY;3735827778;-8530941667
+AAT;Alturas Municipal;Alturas;CA;41483;-1205653611
+ABE;Lehigh Valley International;Allentown;PA;4065236278;-7544040167
+ABI;Abilene Regional;Abilene;TX;3241132;-9968189722
+ABO;Antonio (Nery) Juarbe Pol;Arecibo;PR;1845111111;-6667555556
+ABQ;Albuquerque International;Albuquerque;NM;3504022222;-1066091944
+ABR;Aberdeen Regional;Aberdeen;SD;4544905556;-9842183333
+ABY;Southwest Georgia Regional;Albany;GA;31535515;-8419447333
+ACB;Antrim County;Bellaire;MI;4498857611;-85198355
+ACJ;Souther;Americus;GA;3211079917;-8418884806
+ACK;Nantucket Memorial;Nantucket;MA;4125305194;-7006018139
+ACQ;Waseca Municipal;Waseca;MN;4407346389;-9355294361
+ACT;Waco Regional;Waco;TX;3161128833;-9723051917
+ACV;Arcata;Arcata/Eureka;CA;4097811528;-1241086189
+ACY;Atlantic City International;Atlantic City;NJ;3945758333;-7457716667
+ACZ;Henderson;Wallace;NC;3471789028;-7800362444
+ADC;Wadena Municipal;Wadena;MN;4645026972;-9521095472
+ADG;Lenawee County;Adrian;MI;4186943667;-8407480528
+ADH;Ada Municipal;Ada;OK;3480434056;-966712775
+ADK;Adak;Adak;AK;5187796389;-1766460306
+ADM;Ardmore Municipal;Ardmore;OK;3430320667;-9701952167
+ADQ;Kodiak;Kodiak;AK;5774996778;-1524938553
+ADS;Addison;Dallas/Addison;TX;3296855944;-9683644778
+ADT;Atwood-Rawlins County City-County;Atwood;KS;3984013889;-1010420278
+ADU;Audubon Municipal;Audubon;IA;4170137556;-9492054167
+AEG;Double Eagle II;Albuquerque;NM;3514515278;-1067951617
+AEL;Albert Lea Municipal;Albert Lea;MN;4368151278;-9336723778
+AEX;Alexandria International;Alexandria;LA;3132737167;-9254855611
+AFE;Kake;Kake;AK;5696048139;-1339082694
+AFJ;Washington County;Washington;PA;4013648833;-8029020083
+AFK;Nebraska City Municipal;Nebraska City;NE;4060688889;-9586569444
+AFM;Ambler;Ambler;AK;6710610472;-1578536203
+AFN;Jaffrey Municipal Silver Ranch;Jaffrey;NH;4280513417;-7200302194
+AFO;Afton Municipal;Afton;WY;4271124583;-1109421639
+AFW;Fort Worth Alliance;Fort Worth;TX;3298763889;-9731880556
+AGC;Allegheny Cty;Pittsburgh;PA;4035440139;-7993016889
+AGN;Angoon SPB;Angoon;AK;5750355528;-1345850939
+AGO;Magnolia Municipal;Magnolia;AR;3322802111;-9321696861
+AGS;Bush;Augusta;GA;33369955;-8196449611
+AGZ;Wagner Municipal;Wagner;SD;4306332694;-9829618972
+AHH;Amery Municipal;Amery;WI;4528114833;-9237539222
+AHN;Athens Municipal;Athens;GA;3394859528;-8332634694
+AHP;Port Alexander SPB;Port Alexander;AK;5624684222;-1346481539
+AHQ;Wahoo Municipal;Wahoo;NE;4124133333;-9659402778
+AIA;Alliance Municipal;Alliance;NE;4205325;-1028037222
+AID;Anderson Municipal;Anderson;IN;4010862139;-8561299472
+AIG;Langlade County;Antigo;WI;4515419444;-8911072222
+AIK;Aiken Municipal;Aiken;SC;3364955556;-8168447222
+AIO;Atlantic Municipal;Atlantic;IA;4140726722;-9504690639
+AIT;Aitkin Municipal;Aitkin;MN;465484225;-936768
+AIV;George Downer;Aliceville;AL;3310706889;-8819725167
+AIY;Atlantic City Municipal;Atlantic City;NJ;3936002778;-7445608333
+AIZ;Lee C Fine Memorial;Kaiser/Lake Ozark;MO;38096035;-925494875
+AJC;Chignik (Anchorage Bay);Chignik;AK;563114625;-1583732369
+AJG;Mt Carmel Municipal;Mt Carmel;IL;3860654722;-8772669417
+AJO;Corona Municipal;Corona;CA;3389765389;-11760244
+AJR;Habersham County;Cornelia;GA;3450081944;-8355487
+AK5;Perryville;Perryville;AK;5590806056;-1591585781
+AKA;Atka;Atka;AK;5222034833;-1742063503
+AKH;Gastonia Municipal;Gastonia;NC;3520265944;-811498675
+AKI;Akiak;Akiak;AK;6090481194;-1612270189
+AKK;Akhiok;Akhiok;AK;5693869083;-1541825556
+AKN;King Salmon;King Salmon;AK;5867680167;-1566492175
+AKO;Akron-Washington Co;Akron;CO;4017563333;-1032220278
+AKP;Anaktuvuk Pass;Anaktuvuk Pass;AK;681343225;-15174168
+AKR;Akron Fulton Intl.;Akron;OH;410375;-8146693944
+AKW;Klawock;Klawock;AK;5557923333;-1330759972
+AL08;Vaiden;Marion;AL;3251235611;-8738555472
+ALB;Albany Cty;Albany;NY;4274811944;-7380297861
+ALI;Alice International;Alice;TX;2774088889;-9802694444
+ALM;Alamogordo-White Sands Regional;Alamogordo;NM;3283994444;-1059905833
+ALN;St. Louis Regional;Alton/St. Louis;IL;3889029083;-9004604306
+ALO;Waterloo Municipal;Waterloo;IA;4255708139;-9240034361
+ALS;San Luis Valley Regional/Bergman;Alamosa;CO;3743491667;-1058665556
+ALW;Walla Walla Regional;Walla Walla;WA;4609456167;-1182880367
+ALX;Thomas C Russell;Alexander City;AL;3291475167;-8596295611
+AMA;Amarillo International;Amarillo;TX;352193725;-1017059272
+AMG;Bacon County;Alma;GA;3153605556;-8250655556
+AMN;Gratiot Community;Alma;MI;433221425;-8468794917
+AMT;Alexander Salamon;West Union;OH;3885148778;-8356627778
+AMW;Ames Municipal;Ames;IA;4199206972;-9362180139
+ANB;Anniston Metropolitan;Anniston;AL;3358816667;-8585811111
+ANC;Ted Stevens Anchorage International;Anchorage;AK;6117432028;-1499961856
+AND;Anderson County;Anderson;SC;3449494444;-8270902778
+ANE;Anoka County;Minneapolis;MN;45145;-9321138889
+ANI;Aniak;Aniak;AK;6158159694;-1595430428
+ANQ;Steuben County-Tri State;Angola;IN;4163969833;-8508349333
+ANV;Anvik;Anvik;AK;6264858333;-1601898889
+ANW;Ainsworth Municipal;Ainsworth;NE;4257922222;-9999297222
+ANY;Anthony Municipal;Anthony;KS;3715852194;-9807964667
+AOC;Arco-Butte County;Arco;ID;4360343056;-1133340972
+AOH;Allen County;Lima;OH;4070694444;-8402666667
+AOO;Altoona-Blair Cty;Altoona;PA;4029637222;-7832002306
+APA;Centennial;Denver;CO;3957012833;-1048492942
+APC;Napa County;Napa;CA;3821319444;-1222806944
+APF;Naples Municipal;Naples;FL;2615247222;-8177544444
+APN;Alpena County Regional;Alpena;MI;450780675;-8356028583
+APT;Marion County-Brown;Jasper;TN;3506067778;-8558531667
+APV;Apple Valley;Apple Valley;CA;3457528944;-1171861792
+AQC;Klawock SPB;Klawock;AK;555546575;-1331016928
+AQH;Kwinhagak;Quinhagak;AK;5975700722;-1618794789
+AQT;Nuiqsut;Nuiqsut;AK;7020995278;-1510055611
+AQW;Harriman And West;North Adams;MA;4269591417;-7317038306
+AQY;Girdwood;Girdwood;AK;6096609583;-1491257892
+ARA;Acadiana Regional;New Iberia;LA;3003775833;-9188389611
+ARB;Ann Arbor Municipal;Ann Arbor;MI;4222298361;-8374560722
+ARC;Arctic Village;Arctic Village;AK;6811608083;-1455761114
+ARG;Walnut Ridge Regional;Walnut Ridge;AR;3612534667;-9092461944
+ARR;Aurora Municipal;Chicago/Aurora;IL;4177192944;-8847565917
+ART;Watertown Intl;Watertown;NY;4399192222;-7602173861
+ARV;Lakeland;Minocqua-Woodruff;WI;4592792556;-8973094278
+ASD;Slidell;Slidell;LA;30345055;-8982078833
+ASE;Aspen-Pitkin Co/Sardy;Aspen;CO;3922316;-106868845
+ASG;Springdale Municipal;Springdale;AR;3617641056;-9411925833
+ASH;Boire;Nashua;NH;4278176306;-7151477944
+ASJ;Tri-County;Ahoskie;NC;3629752583;-7717085556
+ASL;Marshall - Harrison County;Marshall;TX;325205;-9430777778
+ASN;Talladega Municipal;Talladega;AL;3356991111;-8605085833
+AST;Astoria Regional;Astoria;OR;4615797222;-1238786944
+ASW;Warsaw Municipal;Warsaw;IN;412747;-8584005556
+ASX;John F Kennedy Memorial;Ashland;WI;4654852806;-9091896639
+ATA;Hall-Miller Municipal;Atlanta;TX;33101805;-9419532694
+ATK;Atqasuk;Atqasuk;AK;7046727611;-1574357361
+ATL;William B Hartsfield-Atlanta Intl;Atlanta;GA;3364044444;-8442694444
+ATS;Artesia Municipal;Artesia;NM;3285252806;-1044676864
+ATW;Outagamie County Regional;Appleton;WI;4425740806;-8851947556
+ATY;Watertown Municipal;Watertown;SD;4491398056;-9715471944
+AUG;Augusta State;Augusta;ME;4432064972;-6979731806
+AUH;Aurora Municipal;Aurora;NE;4089413889;-9799455556
+AUK;Alakanuk;Alakanuk;AK;6268004417;-1646599253
+AUM;Austin Municipal;Austin;MN;4366499083;-92933385
+AUN;Auburn Municipal;Auburn;CA;3895476944;-1210820806
+AUO;Auburn-Opelik;Auburn;AL;3261635417;-8543355944
+AUS;Austin-Bergstrom International;Austin;TX;3019453278;-9766987194
+AUW;Wausau Municipal;Wausau;WI;4492847222;-8962661111
+AVC;Mecklenburg-Brunswick Regional;South Hill;VA;3668827778;-7805447222
+AVK;Alva Regional;Alva;OK;3677317;-9866994611
+AVL;Asheville Regional;Asheville;NC;3543619444;-8254180556
+AVO;Avon Park Municipal;Avon Park;FL;27591145;-8152785333
+AVP;Wilkes-Barre/Scranton Intl;Wilkes-Barre/Scranton;PA;4133814944;-757242675
+AVQ;Marana Northwest Regional;Marana;AZ;3240939028;-1112185086
+AVX;Catalina;Avalon;CA;3340494444;-1184158611
+AWG;Washington Municipal;Washington;IA;4127610083;-9167344389
+AWI;Wainwright;Wainwright;AK;70638;-15999475
+AWM;West Memphis Municipal;West Memphis;AR;3513505861;-9023444639
+AWO;Arlington Municipal;Arlington;WA;4816074833;-1221590208
+AXA;Algona Municipal;Algona;IA;4307791056;-9427199278
+AXN;Chandler;Alexandria;MN;4586629833;-9539466806
+AXS;Altus Municipal;Altus;OK;3469878194;-993381
+AXV;Neil Armstrong;Wapakoneta;OH;4049338889;-8429894444
+AXX;Angel Fire;Angel Fire;NM;3642240972;-1052892967
+AYS;Waycross-Ware County;Waycross;GA;3124905556;-8239530556
+AZC;Colorado City Municipal;Colorado City;AZ;3695994444;-1130138889
+AZE;Hazelhurst;Hazelhurst;GA;3188465639;-8264738778
+AZO;Kalamazoo County;Kalamazoo;MI;42234875;-855520575
+B01;Granville;Granville;NY;4342507111;-7326205306
+B08;Silver Springs;Silver Springs;NV;3940324917;-1192518292
+B16;Whitford;Weedsport;NY;4308027611;-7653837556
+B19;Biddeford Municipal;Biddeford;ME;4346411111;-7047238889
+B21;Sugarloaf Regional;Carrabasset;ME;4508616639;-7021617778
+BAF;Barnes Municipal;Westfield;MA;4215773111;-7271562028
+BAK;Columbus Municipal;Columbus;IN;3926191861;-8589634556
+BAM;Battle Mountain;Battle Mountain;NV;4059904583;-1168743358
+BAX;Huron County Memorial;Bad Axe;MI;4378091667;-8298566667
+BAZ;New Braunfels Municipal;New Braunfels;TX;297045;-9804222222
+BBB;Benson Municipal;Benson;MN;453319325;-95650565
+BBD;Curtis;Brady;TX;3117816667;-9932463889
+BBP;Marlboro County;Bennettsville;SC;3462170861;-7973435944
+BBW;Broken Bow Municipal;Broken Bow;NE;4143645056;-9964216861
+BCB;Virginia Tech;Blacksburg;VA;3720782361;-8040832778
+BCE;Bryce Canyon;Bryce Canyon;UT;3770637111;-1121454725
+BCK;Black River Falls Area;Black River Falls;WI;4425073861;-9085528028
+BCT;Boca Raton;Boca Raton;FL;2637848667;-8010769667
+BCV;Birchwood;Birchwood;AK;6141612444;-14950888
+BDE;Baudette International;Baudette;MN;4872741667;-9461030556
+BDG;Blanding Muni;Blanding;UT;3758303472;-1094832889
+BDL;Bradley International;Windsor Locks;CT;4193887417;-7268322833
+BDQ;Morrilton Municipal;Morrilton;AR;3513619528;-9271349722
+BDR;Igor I Sikorsky Memorial;Bridgeport;CT;4116348417;-7312617861
+BDX;Broadus;Broadus;MT;45433325;-1054172133
+BED;Laurence G Hanscom;Bedford;MA;4246995306;-7128903
+BEH;Southwest Michigan Regional;Benton Harbor;MI;4212858333;-864285
+BET;Bethel;Bethel;AK;6077977639;-1618379975
+BFD;Bradford Reg;Bradford;PA;4180306778;-7864012083
+BFF;Scotts Bluff County;Scottsbluff;NE;4187402778;-1035956389
+BFI;Boeing Field/King County Intl;Seattle;WA;4752998917;-1223019561
+BFK;Buffalo Municipal;Buffalo;OK;3686330139;-9961873056
+BFL;Meadows;Bakersfield;CA;3543359806;-1190567681
+BFM;Mobile Downtown;Mobile;AL;3062646944;-8806799861
+BFR;Virgil I Grissom Municipal;Bedford;IN;3884003306;-8644536361
+BFW;Silver Bay Municipal;Silver Bay;MN;4724902778;-9141558333
+BGD;Hutchinson County;Borger;TX;3570004194;-1013940536
+BGE;Decatur County Industrial Airpark;Bainbridge;GA;3097152778;-8463744444
+BGF;Winchester Municipal;Winchester;TN;3517753417;-8606616722
+BGM;Binghamton Regional;Binghamton;NY;4220848278;-7597961361
+BGQ;Big Lake Strip Nr 2;Big Lake;AK;6153556806;-1498138975
+BGR;Bangor International;Bangor;ME;4480744444;-6882813889
+BHB;Hancock Co-Bar Harbor;Bar Harbor;ME;4444969444;-683615
+BHC;Baxley Municipal;Baxley;GA;3171383333;-8239377778
+BHK;Baker Muni;Baker City;MT;4634763639;-1042594475
+BHM;Birmingham International;Birmingham;AL;3356294306;-8675354972
+BID;Block Island State;Block Island;RI;4116811889;-7157784167
+BIE;Beatrice Municipal;Beatrice;NE;4030127778;-9675411111
+BIG;Allen AAF;Delta Junction;AK;6399454722;-1457216417
+BIH;Bishop;Bishop;CA;3737309556;-1183636089
+BIL;Billings Logan Intl;Billings;MT;458076625;-1085428611
+BIS;Bismarck Municipal;Bismarck;ND;4677411111;-1007467222
+BIV;Tulip City;Holland;MI;4274316667;-8610502778
+BJC;Jeffco;Denver;CO;3990878667;-1051172158
+BJI;Bemidji-Beltrami County;Bemidji;MN;4750942417;-9493372333
+BJJ;Wayne County;Wooster;OH;4087480556;-8188825
+BKD;Breckenridge Stephens County;Breckenridge;TX;3271904694;-9889099972
+BKE;Baker City Municipal;Baker City;OR;4483733333;-1178090833
+BKL;Burke Lakefront;Cleveland;OH;415175;-8168333333
+BKV;Hernando County;Brooksville;FL;2847359722;-8245542139
+BKW;Raleigh Cty Memorial;Beckley;WV;3778732833;-8112416417
+BKX;Brookings Municipal;Brookings;SD;4430483333;-9681694444
+BLF;Mercer Cty;Bluefield;WV;3729579944;-8120769056
+BLH;Blythe;Blythe;CA;3361916278;-1147168764
+BLI;Bellingham Intl;Bellingham;WA;4879275;-1225375278
+BLM;Allaire Arpt;Belmar/Farmingdale;NJ;4018691806;-7412488694
+BLV;Scott AFB/MidAmerica;Belleville/St. Louis;IL;3854517861;-8983518444
+BMC;Brigham City;Brigham City;UT;4155239139;-1120622625
+BMG;Monroe County;Bloomington;IN;3914602139;-8661668278
+BMI;Central Illinois Regional;Bloomington;IL;4047798556;-8891595278
+BML;Berlin Municipal;Berlin;NH;4457537278;-7117593167
+BMQ;Burnet Muni-Kate Craddock;Burnet;TX;3073894444;-9823858333
+BMT;Beaumont Municipal;Beaumont;TX;3007044111;-9421553806
+BNA;Nashville International;Nashville;TN;3612447667;-8667818222
+BNF;Baranof Warm Springs SPB;Baranof Warm Springs;AK;5708882583;-1348331414
+BNG;Banning Municipal;Banning;CA;3392307111;-1168505756
+BNL;Barnwell County;Barnwell;SC;3325777778;-8138833333
+BNO;Burns Muni;Burns;OR;4359212778;-1189549789
+BNW;Boone Municipal;Boone;IA;4204956944;-9384757222
+BOI;Boise Air Terminal;Boise;ID;4356444444;-1162227778
+BOK;Brookings;Brookings;OR;4207455556;-1242900939
+BOS;Gen Edw L Logan Intl;Boston;MA;423643475;-7100517917
+BOW;Bartow Municipal;Bartow;FL;279433575;-8178344167
+BPI;Big Piney-Marbleton;Big Piney;WY;4258506972;-1101111531
+BPK;Baxter County Regional;Mountain Home;AR;3636894194;-9247052806
+BPT;Southeast Texas Regional;Beaumont/Port Arthur;TX;2995083333;-9402069444
+BQK;Glynco Jetport;Brunswick;GA;3125902778;-8146630556
+BQN;Rafael Hernandez;Aguadilla;PR;1849486111;-6712944444
+BRD;Brainerd-Crow Wing County Regional;Brainerd;MN;4639785806;-941372275
+BRL;Burlington Municipal;Burlington;IA;40783225;-9112550556
+BRO;Brownsville/S.Padre Island International;Brownsville;TX;2590683333;-9742586111
+BRW;Wiley Post Will Rogers Memorial;Barrow;AK;712854475;-1567660019
+BRY;Samuels;Bardstown;KY;3781432167;-8549963806
+BST;Belfast Municipal;Belfast;ME;4440966667;-6901225
+BTI;Barter Island;Kaktovik;AK;7013390278;-1435770444
+BTL;W K Kellogg Regional;Battle Creek;MI;4230727806;-8525147972
+BTM;Bert Mooney;Butte;MT;4595479528;-11249746
+BTN;Britton Municipal;Britton;SD;4581522222;-9774313889
+BTP;Butler Cty;Butler;PA;4077692611;-7994972417
+BTR;Baton Rouge Metropolitan, Ryan;Baton Rouge;LA;3053316083;-9114963444
+BTT;Bettles;Bettles;AK;6691528667;-1515280556
+BTV;Burlington International;Burlington;VT;4447300361;-731503125
+BTY;Beatty;Beatty;NV;3686105722;-1167870036
+BUB;Cram;Burwell;NE;4177669444;-9914975
+BUF;Buffalo Niagara Intl;Buffalo;NY;4294052472;-7873216667
+BUM;Butler Memorial;Butler;MO;3828977028;-9434012694
+BUR;Burbank-Glendale-Pasadena;Burbank;CA;3420061917;-1183584969
+BUY;Burlington Municipal;Burlington;NC;3604854333;-7947488694
+BVI;Beaver County;Beaver Falls;PA;4077248083;-8039142556
+BVK;Buckland;Buckland;AK;6598228611;-1611519778
+BVN;Albion Municipal;Albion;NE;4172857778;-9805575972
+BVO;Bartlesville Municipal;Bartlesville;OK;3676247611;-9601115167
+BVS;Skagit Regional/Bay View;Burlington/Mount Vernon;WA;4847088889;-1224208611
+BVX;Batesville Regional;Batesville;AR;35726105;-9164736083
+BVY;Beverly Municipal;Beverly;MA;4258417111;-7091651833
+BWC;Brawley Municipal;Brawley;CA;329931;-1155169325
+BWD;Brownwood Municipal;Brownwood;TX;3179362222;-9895649528
+BWG;Bowling Green-Warren County;Bowling Green;KY;3696451667;-8641967917
+BWI;Baltimore-Washington International;Baltimore;MD;3917540167;-7666819833
+BWP;Harry Stern;Wahpeton;ND;4624640083;-966056825
+BXA;George R Carr Memorial;Bogalusa;LA;3081368639;-8986496444
+BXG;Burke County;Waynesboro;GA;3304093056;-8200397917
+BXK;Buckeye Municipal;Buckeye;AZ;3342088556;-1126863
+BYA;Boundary;Boundary;AK;6407830278;-141113375
+BYG;Johnson County;Buffalo;WY;4438108528;-1067217897
+BYI;Burley Municipal;Burley;ID;4254260361;-1137715442
+BZN;Gallatin;Bozeman;MT;4577690139;-1111530072
+C00;Mercer County;Aledo;IL;41248645;-9073708361
+C05;Chenega Bay;Chenega;AK;6007730556;-1479918889
+C09;Morris Municipal;Morris;IL;4142541667;-8841869444
+C15;Pekin Municipal;Pekin;IL;4048820611;-8967591083
+C17;Marion;Marion;IA;4203111083;-9152934222
+C18;Frankfort;Chicago/Frankfort;IL;414775;-8784047222
+C25;Waverly Municipal;Waverly;IA;427419525;-9250793528
+C29;Morey;Middleton;WI;4311424444;-8953073222
+C34;Gibson City Municipal;Gibson City;IL;4048578389;-882672725
+C35;Reedsburg Municipal;Reedsburg;WI;4352589944;-8998322194
+C47;Portage Municipal;Portage;WI;435600925;-8948309278
+C52;Burlington Municipal;Burlington;WI;4269056389;-8830464
+C56;Sanger;Chicago/Monee;IL;4137756167;-8768137528
+C62;Kendallville Municipal;Kendallville;IN;4147271639;-8526080833
+C65;Plymouth Municipal;Plymouth;IN;4136513333;-8630050417
+C66;Monmouth Municipal;Monmouth;IL;4092970444;-9063110722
+C71;Crosby Municipal;Crosby;MS;3129600472;-9105288167
+C73;Dixon Muni-Charles R Walgreen;Dixon;IL;4183369889;-8944621333
+C75;Marshall County;Lacon;IL;4101928583;-8938642222
+C77;Poplar Grove;Poplar Grove;IL;4232268639;-8883651833
+C80;New Coalinga Municipal;Coalinga;CA;3616313889;-1202938139
+C81;Campbell;Chicago/Round Lake Park;IL;4232461111;-8807408806
+C83;Byron;Byron;CA;378284525;-1216258219
+C91;Dowagiac Municipal;Dowagiac;MI;4199293417;-861280125
+CAD;Wexford County;Cadillac;MI;4427531333;-8541892694
+CAE;Columbia Metropolitan;Columbia;SC;3393884;-8111953944
+CAG;Craig-Moffat;Craig;CO;4049522139;-1075216467
+CAK;Akron-Canton Regional;Akron;OH;4091631194;-8144246556
+CAO;Clayton Municipal Airpark;Clayton;NM;3644585972;-1031546583
+CAR;Caribou Municipal;Caribou;ME;468715;-6801791667
+CAV;Clarion Municipal;Clarion;IA;4274194389;-9375890944
+CBE;Cumberland Regional;Cumberland;MD;3961541667;-7876086361
+CBF;Council Bluffs Municipal;Council Bluffs;IA;4125947222;-9575997222
+CBG;Cambridge Municipal;Cambridge;MN;4555854639;-9326464361
+CBK;Shaltz;Colby;KS;3942753083;-1010465719
+CCB;Cable;Upland;CA;3411154056;-1176875897
+CCO;Newnan-Coweta County;Newnan;GA;3331208333;-8477027778
+CCR;Buchanan;Concord;CA;3798965639;-1220568972
+CCY;Charles City Municipal;Charles City;IA;4307260861;-9261077833
+CDB;Cold Bay;Cold Bay;AK;5520559972;-1627242628
+CDC;Cedar City Muni;Cedar City;UT;3770097028;-113098575
+CDH;Harrell;Camden;AR;3362279917;-9276339528
+CDI;Cambridge Municipal;Cambridge;OH;3997504417;-8157759528
+CDK;George T Lewis;Cedar Key;FL;29137745;-8304984361
+CDN;Woodward;Camden;SC;3428358333;-8056486111
+CDR;Chadron Municipal;Chadron;NE;4283755556;-1030954167
+CDV;Merle K (Mudhole) Smith;Cordova;AK;6049183389;-1454776503
+CDW;Essex Cty Arpt;Caldwell;NJ;4087522278;-7428135667
+CEC;Jack McNamara;Crescent City;CA;4178015722;-1242365333
+CEF;Westover AFB;Chicopee;MA;4219826389;-7253425833
+CEK;Crete Municipal;Crete;NE;4061791667;-9692488889
+CEM;Central;Central;AK;6557380667;-1447832908
+CEU;Oconee County Regional;Clemson;SC;3467205556;-8288644444
+CEV;Mettel;Connersville;IN;3969803139;-8513124528
+CEW;Bob Sikes;Crestview;FL;3077883333;-8652211111
+CEY;Kyle-Oakley;Murray;KY;3666458333;-8837277722
+CEZ;Cortez Muni;Cortez;CO;3730299778;-1086280658
+CFD;Coulter;Bryan;TX;3071569444;-9633136111
+CFJ;Crawfordsville Municipal;Crawfordsville;IN;3997562861;-8691986361
+CFK;Chefornak;Chefornak;AK;6014922556;-1642856325
+CFT;Greenlee County;Clifton-Morenci;AZ;3295284306;-1092103453
+CFV;Coffeyville Municipal;Coffeyville;KS;370940475;-9557189417
+CGA;Craig SPB;Craig;AK;5547883139;-1331478011
+CGC;Crystal River;Crystal River;FL;2886727778;-8257130556
+CGE;Cambridge-Dorchester;Cambridge;MD;3853930556;-7603036111
+CGF;Cuyahoga County;Cleveland;OH;4156512389;-8148635389
+CGI;Cape Girardeau Municipal;Cape Girardeau;MO;3722531694;-8957075167
+CGS;College Park;College Park;MD;3898058333;-7692230556
+CGX;Chicago Meigs;Chicago;IL;4185884389;-8760791167
+CGZ;Casa Grande Municipal;Casa Grande;AZ;3295488889;-1117668333
+CHA;Lovell;Chattanooga;TN;3503526833;-8520378778
+CHD;Chandler Municipal;Chandler;AZ;3326908333;-1118111389
+CHK;Chickasha Municipal;Chickasha;OK;3509614694;-9796618361
+CHO;Charlottesville-Albermarle;Charlottesville;VA;3813863889;-7845286111
+CHP;Circle Hot Springs;Circle Hot Springs;AK;6548547222;-1446107836
+CHS;Charleston AFB/International;Charleston;SC;3289864639;-8004050583
+CHT;Chillicothe Municipal;Chillicothe;MO;3978215278;-9349568056
+CHU;Houston County;Caledonia;MN;4359635861;-9150394639
+CIC;Chico Municipal;Chico;CA;3979538278;-1218584231
+CID;Eastern Iowa;Cedar Rapids;IA;4188458833;-9171087222
+CII;Choteau;Choteau;MT;4782528056;-1121662136
+CIK;Chalkyitsik;Chalkyitsik;AK;6664969083;-1437359492
+CIN;Arthur N Neu;Carroll;IA;4204619444;-94789
+CIR;Cairo;Cairo;IL;3706447222;-8921961111
+CIU;Chippewa County International;Sault Ste. Marie;MI;4625075194;-8447238528
+CJR;Culpeper Regional;Culpeper;VA;385267075;-7785885528
+CJX;Crooked Creek;Crooked Creek;AK;6186902194;-1581371178
+CKB;Benedum;Clarksburg;WV;3929663889;-8022808333
+CKC;Grand Marais/Cook County;Grand Marais;MN;4783830556;-9038313889
+CKF;Crisp County - Cordele;Cordele;GA;3198883333;-8377391667
+CKI;Williamsburg County;Kingstree;SC;3371722222;-7985697222
+CKM;Fletcher;Clarksdale;MS;3429971;-9051231611
+CKN;Crookston Muni Kirkwood;Crookston;MN;4784169417;-9662162028
+CKP;Cherokee Municipal;Cherokee;IA;4273147222;-9555613889
+CKU;Cordova Muni;Cordova;AK;6054390333;-1457267042
+CKV;Outlaw;Clarksville;TN;3662188083;-8741495361
+CKX;Chicken;Chicken;AK;6407133833;-1419522792
+CLD;MC Clellan-Palomar Airport;NA;NA;33127231;-117278727
+CLE;Cleveland-Hopkins Intl;Cleveland;OH;4141089417;-8184939667
+CLI;Clintonville Municipal;Clintonville;WI;4461381306;-8873126667
+CLK;Clinton Municipal;Clinton;OK;3553832778;-98932695
+CLL;Easterwood;College Station;TX;3058858944;-9636382417
+CLM;William R Fairchild Intl;Port Angeles;WA;4812019444;-1234996944
+CLP;Clarks Point;Clarks Point;AK;5884230472;-1585452331
+CLS;Chehalis-Centralia;Chehalis;WA;4667649194;-1229792967
+CLT;Charlotte/Douglas International;Charlotte;NC;3521401111;-8094312583
+CLW;Clearwater Air Park;Clearwater;FL;2797668639;-8275874028
+CMA;Camarillo;Camarillo;CA;3421375472;-1190943264
+CMH;Port Columbus Intl;Columbus;OH;3999798528;-8289188278
+CMI;University of Illinois-Willard;Champaign/Urbana;IL;4003925;-8827805556
+CMX;Houghton County Memorial;Hancock;MI;4716841722;-8848906083
+CMY;Sparta/Fort McCoy;Sparta;WI;4395834806;-907378975
+CNC;Chariton Municipal;Chariton;IA;4101962389;-9335968028
+CNH;Claremont Municipal;Claremont;NH;4337043194;-7236867667
+CNK;Blosser Municipal;Concordia;KS;3954925139;-9765231667
+CNM;Cavern City Air Terminal;Carlsbad;NM;3233747222;-1042632778
+CNO;Chino;Chino;CA;3397469444;-1176366111
+CNP;Billy G Ray;Chappell;NE;4107747222;-1024640556
+CNU;Chanute Martin Johnson;Chanute;KS;3766879722;-9548506444
+CNW;TSTC-Waco;Waco;TX;3163783139;-9707413889
+CNY;Canyonlands;Moab;UT;3875495611;-1097548439
+COD;Yellowstone Regional;Cody;WY;4452019417;-1090237961
+COE;Coeur D'Alene Air Terminal;Coeur D'Alene;ID;4777429167;-1168196231
+COI;Merritt Island;Merritt Island;FL;2834158944;-806854975
+COM;Coleman Municipal;Coleman;TX;3184113889;-9940361111
+CON;Concord Municipal;Concord;NH;4320273278;-7150228556
+COQ;Cloquet-Carlton County;Cloquet;MN;4670016833;-9250552861
+COS;City of Colorado Springs Muni;Colorado Springs;CO;3880580556;-10470025
+COT;Cotulla-Lasalle County;Cotulla;TX;2845825583;-9922016389
+COU;Columbia Regional;Columbia;MO;3881809306;-9221962917
+CPC;Columbus County Municipal;Whiteville;NC;3427287278;-7871499278
+CPK;Chesapeake Municipal;Norfolk;VA;3666561833;-7632066389
+CPM;Compton/Woodley;Compton;CA;3389001611;-1182436831
+CPR;Natrona County Intl;Casper;WY;4290835556;-1064644661
+CPS;St. Louis Downtown;Cahokia/St. Louis;IL;3857072444;-9015622111
+CPX;Benjamin Rivera Noriega;Isla De Culebra;PR;1831328917;-6530432444
+CQA;Lakefield;Celina;OH;4048408333;-8456011111
+CQB;Chandler Municipal;Chandler;OK;3572381556;-9682027306
+CQX;Chatham Municipal;Chatham;MA;4168840028;-6998952417
+CRC;Circle City;Circle;AK;6583049389;-1440758128
+CRE;Grand Strand;North Myrtle Beach;SC;3381175;-7872394444
+CRG;Craig Municipal;Jacksonville;FL;3033633333;-8151444444
+CRO;Corcoran;Corcoran;CA;3610245111;-1195948469
+CRP;Corpus Christi International;Corpus Christi;TX;2777036083;-9750121528
+CRQ;McClellan-Palomar;Carlsbad;CA;3312822222;-1172802222
+CRS;C Davis Campbell -Corsicana Muni;Corsicana;TX;3202748861;-9639803611
+CRT;Crossett Municipal;Crossett;AR;3317833278;-9188018806
+CRW;Yeager;Charleston;WV;3837315083;-8159318972
+CRX;Roscoe Turner;Corinth;MS;3491496778;-8860348361
+CSB;Cambridge Municipal;Cambridge;NE;4030658333;-1001620833
+CSG;Columbus Metropolitan;Columbus;GA;3251633333;-8493886111
+CSM;Clinton-Sherman;Clinton;OK;3533983917;-9920049944
+CSQ;Creston Municipal;Creston;IA;4102146139;-9436331917
+CSV;Crossville Memorial;Crossville;TN;3595129194;-8508497806
+CTB;Cut Bank Muni;Cut Bank;MT;4860835444;-1123761464
+CTJ;West Georgia Regional;Carrollton;GA;3363102778;-8515202778
+CTK;Ingersoll;Canton;IL;4056909444;-9007484
+CTY;Cross City;Cross City;FL;2963552778;-8310475
+CTZ;Sampson County;Clinton;NC;3497561194;-7836461528
+CUB;Columbia Owens Downtown;Columbia;SC;3397047222;-8099525
+CUH;Cushing Municipal;Cushing;OK;35949925;-9677305278
+CUL;Carmi Municipal;Carmi;IL;3808947917;-8812306111
+CUT;Custer County;Custer;SD;4373331611;-1036176947
+CVG;Cincinnati Northern Kentucky Intl;Covington;KY;3904614278;-846621725
+CVK;Sharp County Regional;Ash Flat;AR;3626487139;-9156264111
+CVN;Clovis Municipal;Clovis;NM;3442513889;-1030792778
+CVO;Corvallis Muni;Corvallis;OR;4449719361;-1232898297
+CVX;Charlevoix Municipal;Charlevoix;MI;4530477778;-8527477778
+CWA;Central Wisconsin;Mosinee;WI;4477761917;-8966677944
+CWF;Chennault International;Lake Charles;LA;3021059167;-9314318944
+CWI;Clinton Municipal;Clinton;IA;418311125;-9032913056
+CWV;Claxton-Evans County;Claxton;GA;3219505556;-8186955556
+CXC;Chitina;Chitina;AK;6158285917;-1444270969
+CXE;Chase City Municipal;Chase City;VA;3678833556;-7850155361
+CXF;Coldfoot;Coldfoot;AK;6725163417;-1502065672
+CXL;Calexico International;Calexico;CA;3266950333;-1155133281
+CXO;Montgomery County;Conroe;TX;3035183333;-954144675
+CXP;Carson;Carson City;NV;3919222972;-1197343611
+CXU;Camilla-Mitchell County;Camilla;GA;3121291667;-8423680556
+CXY;Capital City;Harrisburg;PA;4021713889;-7685147222
+CYO;Pickaway County Memorial;Circleville;OH;3951600611;-8298215361
+CYS;Cheyenne;Cheyenne;WY;411557225;-1048118381
+CYW;Clay Center Municipal;Clay Center;KS;3938713889;-9715721417
+CZD;Cozad Municipal;Cozad;NE;4086911111;-1000042222
+CZG;Tri-Cities;Endicott;NY;4207853583;-7609633306
+CZL;Tom B David;Calhoun;GA;3445678278;-8493949944
+CZN;Chisana;Chisana;AK;6207118972;-1420483742
+CZT;Dimmit County;Carrizo Springs;TX;2852225111;-9982363444
+D04;Bowman Municipal;Bowman;ND;4618699111;-1034280806
+D05;Garrison Municipal;Garrison;ND;4765594444;-1014372222
+D07;Faith Municipal;Faith;SD;4503609417;-1020198803
+D09;Bottineau Municipal;Bottineau;ND;4883039167;-1004171361
+D19;Quentin Aanenson;Luverne;MN;4362080278;-9621864028
+D22;Angola;Angola;NY;4266010111;-7899115556
+D25;Manitowish Waters;Manitowish Waters;WI;4612197222;-8988233333
+D38;Canandaiga;Canandaiga;NY;4290718611;-7732162639
+D42;Springfield Municipal;Springfield;MN;4423107;-9499893444
+D50;Crosby Municipal;Crosby;ND;4892851556;-1032972514
+D55;Robertson;Langdon;ND;4875301778;-9839333694
+D57;Glen Ullin Municipal;Glen Ullin;ND;4681278306;-1018601556
+D60;Tioga Municipal;Tioga;ND;483805325;-1028979853
+D73;Monroe-Walton County;Monroe;GA;3378149889;-8369355389
+D77;Lancaster;Lancaster;NY;4292228111;-7861224889
+D87;Harbor Springs;Harbor Springs;MI;4542556528;-8491338389
+D95;Dupont-Lapeer;Lapeer;MI;4306703333;-8327244444
+D98;Romeo;Romeo;MI;4279699083;-8297526583
+DAB;Daytona Beach International;Daytona Beach;FL;2917991667;-8105805556
+DAG;Barstow-Daggett;Daggett;CA;3485371333;-1167866875
+DAL;Dallas Love;Dallas;TX;3284711389;-9685177222
+DAN;Danville Regional;Danville;VA;3657286111;-7933611111
+DAW;Skyhaven;Rochester;NH;4328406194;-7092925472
+DAY;James M Cox Dayton Intl;Dayton;OH;3990237583;-84219375
+DBN;"W. H. ""Bud"" Barron";Dublin;GA;3256445806;-8298525556
+DBQ;Dubuque Municipal;Dubuque;IA;4240295944;-9070916722
+DCA;Ronald Reagan Washington National;Arlington;VA;3885208333;-7703772222
+DCK;Dahl Creek;Dahl Creek;AK;6694333806;-1569046739
+DCU;Pryor  Regional;Decatur;AL;3465264667;-8694536778
+DCY;Daviess County;Washington;IN;3870042333;-8712973222
+DDC;Dodge City Regional;Dodge City;KS;3776312194;-9996542389
+DDH;William H. Morse State;Bennington;VT;428913325;-732464075
+DEC;Decatur;Decatur;IL;398345625;-8886568917
+DED;Deland Municipal-Taylor;Deland;FL;2906698056;-8128394167
+DEE;Deering;Deering;AK;6606820583;-1627666028
+DEH;Decorah Municipal;Decorah;IA;4327550139;-9173937389
+DEN;Denver Intl;Denver;CO;3985840806;-1046670019
+DEQ;J Lynn Helms Sevier County;De Queen;AR;3404699556;-9439936556
+DET;Detroit City;Detroit;MI;4240919444;-8300986111
+DEW;Deer Park;Deer Park;WA;4796663889;-1174266667
+DFI;Defiance Memorial;Defiance;OH;413375;-8442880556
+DFW;Dallas-Fort Worth International;Dallas-Fort Worth;TX;3289595056;-970372
+DGW;Converse County;Douglas;WY;4279725;-1053857361
+DHN;Dothan;Dothan;AL;3132133917;-8544962889
+DHT;Dalhart Municipal;Dalhart;TX;36022585;-1025472775
+DIK;Dickinson Municipal;Dickinson;ND;4679738889;-1028019528
+DKB;Dekalb-Taylor Municipal;Dekalb;IL;4193188111;-8870829861
+DKK;Dunkirk Municipal;Dunkirk;NY;4249333528;-7927204167
+DKX;Knoxville Downtown Island;Knoxville;TN;3596383361;-8387365389
+DLG;Dillingham;Dillingham;AK;590454125;-1585033389
+DLH;Duluth International;Duluth;MN;4684209028;-9219364861
+DLL;Baraboo - Wisconsin Dells;Baraboo;WI;4352195389;-8977090222
+DLN;Dillon;Dillon;MT;4525536056;-1125525067
+DLO;Delano Municipal;Delano;CA;3574558056;-1192365039
+DLS;Columbia Gorge Regional;The Dalles;OR;4561854556;-1211673439
+DLZ;Delaware Municipal;Delaware;OH;4027970139;-8311480167
+DM2;Diomede Heliport;Diomede;AK;6575861111;-1689530556
+DMN;Deming Municipal;Deming;NM;3226230917;-1077206397
+DMO;Sedalia Memorial;Sedalia;MO;3870688889;-9317611111
+DMW;Carroll County;Westminster;MD;3960827778;-7700766667
+DNL;Daniel;Augusta;GA;3346663667;-8203933917
+DNN;Dalton Municipal;Dalton;GA;3472174833;-8486910806
+DNS;Denison Municipal;Denison;IA;419864325;-9538072083
+DNV;Vermilion County;Danville;IL;4019946861;-8759553528
+DOV;Dover Air Force Base;Dover;DE;391301125;-7546631028
+DPA;Du Page;Chicago/West Chicago;IL;4190688333;-8824841722
+DPL;P B Raiford;Kenansville;NC;3500006444;-77981695
+DQH;Douglas Municipal;Douglas;GA;3147780833;-8285961556
+DRI;Beauregard Parish;De Ridder;LA;3083152778;-9333963889
+DRO;Durango-La Plata County;Durango;CO;3715151667;-1077537692
+DRT;Del Rio International;Del Rio;TX;2937181222;-1009232339
+DSM;Des Moines International;Des Moines;IA;4153493306;-9366068222
+DSV;Dansville Muni;Dansville;NY;4257089972;-7771305083
+DTA;Delta Municipal;Delta;UT;3938328861;-1125096683
+DTL;Detroit Lakes -Wething;Detroit Lakes;MN;4682520861;-958856875
+DTN;Shreveport Downtown;Shreveport;LA;3254021889;-937450225
+DTO;Denton Municipal;Denton;TX;3320072167;-9719797722
+DTS;Destin-Ft. Walton Beach;Destin;FL;3040006111;-8647147722
+DTW;Detroit Metropolitan-Wayne County;Detroit;MI;4221205889;-8334883583
+DUA;Eaker;Durant;OK;33942265;-9639451806
+DUC;Halliburton;Duncan;OK;34470875;-9795986111
+DUG;Bisbee Douglas International;Douglas Bisbee;AZ;3146902778;-1096036667
+DUJ;Du Bois-Jefferson Cty;Du Bois;PA;4117826611;-7889869778
+DUT;Unalaska;Unalaska;AK;5390013889;-1665435
+DUX;Moore County;Dumas;TX;3585792833;-1020130978
+DUY;Kongiganak;Kongiganak;AK;5995950583;-1628817231
+DVK;Stuart Powell;Danville;KY;3757791667;-8476969444
+DVL;Devils Lake Municipal-Knoke;Devils Lake;ND;4811424528;-9890877833
+DVN;Davenport Municipal;Davenport;IA;416102775;-9058832528
+DVO;Gnoss;Novato;CA;3814351944;-1225572167
+DVT;Phoenix-Deer Valley;Phoenix;AZ;3368831667;-1120825614
+DWH;David Wayne Hooks Memorial;Houston;TX;3006186111;-9555277778
+DWU;Ashland-Boyd County;Ashland;KY;385545;-82738
+DXE;Dexter Municipal;Dexter;MO;3677747;-8994117333
+DXR;Danbury Municipal;Danbury;CT;4137153528;-7348219056
+DXX;Madison-Lac Qui Parle County;Madison;MN;4498624;-9617773611
+DYB;Summerville;Summerville;SC;3306344444;-8027933333
+DYL;Doylestown;Doylestown;PA;4033305028;-7512233833
+DYR;Dyersburg Municipal;Dyersburg;TN;3599850694;-8940608333
+DYT;Sky Harbor;Duluth;MN;4672186083;-9204343889
+E01;Monahans-Roy Hurd Memorial;Monahans;TX;3158246583;-1029090428
+E04;Eunice;Eunice;NM;3245679139;-1032404708
+E05;Hatch Muni;Hatch;NM;3266106083;-1071979339
+E06;Lea County-Zip Franklin Memorial;Lovington;NM;3295394444;-1034087778
+E07;Lea County/Tatum;Tatum;NM;3326122278;-1032768939
+E11;Andrews County;Andrews;TX;3233111111;-1025295278
+E15;Graham Municipal;Graham;TX;3311022222;-9855527861
+E19;Gruver Municipal;Gruver;TX;3623372611;-1014321894
+E24;Whiteriver;Whiteriver;AZ;3381255056;-1099867658
+E25;Wickenburg Municipal;Wickenburg;AZ;3396891833;-1127985128
+E26;Lea County;Jal;NM;3213107833;-1031548506
+E35;Fabens;Fabens;TX;3151567306;-1061471978
+E38;Alpine-Casparis Municipal;Alpine;TX;3038422222;-1036835833
+E42;Spearman Municipal;Spearman;TX;36221;-1011945
+E51;Bagdad;Bagdad;AZ;3459585278;-113170195
+E52;Oldham County;Vega;TX;3523199833;-1023990931
+E60;Eloy Municipal;Eloy;AZ;3280700583;-11158679
+E63;Gila Bend Municipal;Gila Bend;AZ;3295810083;-1126782181
+E80;Alexander Municipal;Belen;NM;3464519778;-1068336958
+E89;Conchas State Park;Conchas Dam;NM;3536671583;-1041880314
+E91;Chinle Municipal;Chinle;AZ;3611088056;-1095754222
+E94;Glenwood-Catron County;Glenwood;NM;3335283972;-1088672858
+E95;Benson Municipal;Benson;AZ;3199972222;-1103572222
+EAA;Eagle;Eagle;AK;6477639306;-1411509206
+EAN;Phifer Airfield;Wheatland;WY;4205552528;-1049327492
+EAR;Kearney Municipal;Kearney;NE;4072702778;-9900677778
+EAT;Pangborn Memorial;Wenatchee;WA;4739886111;-1202068333
+EAU;Chippewa Valley Regional;Eau Claire;WI;4486525722;-9148507194
+EBS;Webster City Municipal;Webster City;IA;4243663889;-9386886111
+ECG;Elizabeth City CG Air Station/Municipal;Elizabeth City;NC;3626057417;-7617459778
+ECS;Mondell;Newcastle;WY;4388545056;-1043179178
+EDE;Edenton Municipal;Edenton;NC;36027735;-7656709333
+EDN;Enterprise Municipal;Enterprise;AL;3129972222;-8589986111
+EED;Needles;Needles;CA;3476619444;-1146232931
+EEK;Eek;Eek;AK;6021590417;-1620056092
+EEN;Dillant-Hopkins;Keene;NH;4289839944;-7227078111
+EEO;Meeker;Meeker;CO;4004886222;-1078859067
+EET;Shelby County;Alabaster;AL;3317781083;-8678323722
+EFC;Belle Fourche Municipal;Belle Fourche;SD;447342075;-1038619925
+EFD;Ellington;Houston;TX;2960733333;-9515875
+EFK;Newport State;Newport;VT;4488879722;-7222915833
+EFT;Monroe Municipal;Monroe;WI;4261493972;-8959075583
+EFW;Jefferson Municipal;Jefferson;IA;4201016667;-9434258333
+EGE;Eagle County Regional;Eagle;CO;3964256778;-1069176953
+EGQ;Emmetsburg Municipal;Emmetsburg;IA;4310202056;-94704675
+EGT;Wellington Municipal;Wellington;KS;3732441028;-9738732333
+EGV;Eagle River Union;Eagle River;WI;4593179639;-8926906778
+EHA;Elkhart-Morton County;Elkhart;KS;3700188194;-1018821258
+EHO;Shelby Municipal;Shelby;NC;3525555556;-8160099722
+EHR;Henderson City-County;Henderson;KY;378078425;-8768569
+EII;Egegik;Egegik;AK;5818837472;-1573809872
+EIW;County Memorial;New Madrid;MO;3653531083;-8959971722
+EKA;Murray;Eureka;CA;4080338889;-1241127917
+EKM;Elkhart Municipal;Elkhart;IN;4171935833;-8600168361
+EKN;Elkins-Randolph Co-Jennings Randolph;Elkins;WV;3888944444;-7985713889
+EKO;Elko Regional;Elko;NV;4082492611;-1157916964
+EKQ;Wayne County;Monticello;KY;3685527778;-8485613889
+EKX;Elizabethtown;Elizabethtown;KY;3768694444;-8592377778
+EKY;Bessemer Municipal;Bessemer;AL;3331288444;-8692591889
+ELA;Eagle Lake Municipal;Eagle Lake;TX;2960301389;-9632248444
+ELD;South Arkansas Regional At Goodwin;El Dorado;AR;332208625;-9281325167
+ELI;Elim;Elim;AK;6461400972;-1622700681
+ELK;Elk City Municipal;Elk City;OK;3542941083;-9939425917
+ELM;Elmira/Corning Regional;Elmira;NY;4215991361;-7689144333
+ELN;Bowers;Ellensburg;WA;4703302778;-1205306944
+ELO;Ely Municipal;Ely;MN;4782454639;-9183073056
+ELP;El Paso International;El Paso;TX;3180666667;-1063778056
+ELV;Elfin Cove SPB;Elfin Cove;AK;5819518417;-1363473928
+ELY;Ely Arpt (Yelland );Ely;NV;3929969444;-1148418889
+ELZ;Wellsville Muni Tarantine;Wellsville;NY;4210951194;-7799194806
+EMM;Kemmerer Municipal;Kemmerer;WY;4182494611;-1105590586
+EMP;Emporia Municipal;Emporia;KS;3833211111;-9619116667
+EMT;El Monte;El Monte;CA;3408600889;-1180348453
+EMV;Emporia-Greensville Regional;Emporia;VA;3668691667;-7748280556
+ENA;Kenai Municipal;Kenai;AK;60572;-1512475278
+ENL;Centralia Municipal;Centralia;IL;3851479889;-8909217944
+ENM;Emmonak;Emmonak;AK;6278518639;-1644910461
+ENN;Nenana Municipal;Nenana;AK;6454898167;-1490735053
+ENV;Wendover;Wendover;UT;4071869528;-11403089
+ENW;Kenosha Regional;Kenosha;WI;425957075;-8792780333
+EOK;Keokuk Municipal;Keokuk;IA;4045990778;-9142850111
+EOS;Neosho Memorial;Neosho;MO;3681080556;-9439169444
+EPH;Ephrata Muni;Ephrata;WA;4730758333;-1195158889
+EPM;Eastport Municipal;Eastport;ME;4491011111;-6701269444
+EQA;Captain Jack Thomas;El Dorado;KS;3777410833;-9681762778
+EQY;Monroe;Monroe;NC;3501884306;-8062023444
+ERI;Erie Intl;Erie;PA;4208202139;-8017621556
+ERV;Kerrville Muni/Louis Schreiner;Kerrville;TX;29976735;-9908567972
+ERY;Luce County Hale;Newberry;MI;4631118694;-8545731639
+ESC;Delta County;Escanaba;MI;4572266972;-8709373139
+ESF;Esler Regional;Alexandria;LA;313949025;-9229577194
+ESN;Easton /Newnam;Easton;MD;3880416667;-76069
+EST;Estherville Municipal;Estherville;IA;4340744444;-9474641667
+ETB;West Bend Municipal;West Bend;WI;4342219444;-8812792667
+ETC;Edgecombe County;Tarboro;NC;3593710083;-7754663833
+ETH;Wheaton Municipal;Wheaton;MN;4578046056;-9654353972
+ETN;Eastland Municipal;Eastland;TX;3241349167;-9880975667
+EUF;Weedon;Eufaula;AL;3195131917;-85128925
+EUG;Mahlon Sweet;Eugene;OR;4412326;-1232186856
+EUL;Caldwell Industrial;Caldwell (Boise);ID;4364186111;-1166357778
+EVB;New Smyrna Beach Municipal;New Smyrna Beach;FL;2905580556;-8094836111
+EVM;Eveleth-Virginia Muni;Eveleth;MN;4742507778;-9249846944
+EVU;Maryville Memorial;Maryville;MO;4035260167;-9491552722
+EVV;Evansville Regional;Evansville;IN;3803799139;-8753062667
+EVW;Evanston-Uinta County Burns;Evanston;WY;4127494528;-1110321286
+EVY;Summit Airpark;Middletown;DE;3952038889;-7572044444
+EWB;New Bedford Municipal;New Bedford;MA;4167614167;-7095694167
+EWK;Newton-City-County;Newton;KS;3805710528;-9727522861
+EWN;Craven County Regional;New Bern;NC;3507297222;-7704294444
+EWR;Newark Intl;Newark;NJ;4069249722;-7416866056
+EWU;Newtok;Newtok;AK;6093865417;-1646412147
+EXI;Excursion Inlet SPB;Excursion Inlet;AK;5842049861;-1354490328
+EXX;Davidson County;Lexington;NC;3578114028;-8030378194
+EYE;Eagle Creek Airpark;Indianapolis;IN;3983070944;-8629438056
+EYW;Key West International;Key West;FL;2455611111;-8175955556
+EZI;Kewanee Municipal;Kewanee;IL;4120520361;-8996386
+EZM;Eastman-Dodge County;Eastman;GA;3221425;-8312802778
+EZZ;Cameron Memorial;Cameron;MO;3972755972;-94276375
+F00;Jones;Bonham;TX;3361172222;-9617938889
+F01;Quanah Municipal;Quanah;TX;3427708306;-9975926861
+F05;Vernon - Wilbarger County;Vernon;TX;3422566806;-9928375
+F06;Marian Airpark;Wellington;TX;3484561083;-1001959481
+F08;Eufaula Municipal;Eufaula;OK;3529593194;-9562526417
+F10;Henryetta Municipal;Henryetta;OK;3540687972;-9601583278
+F12;Rusk County;Henderson;TX;3214172222;-9485172222
+F17;Center Municipal;Center;TX;3183158333;-9415641667
+F18;Cleburne Municipal;Cleburne;TX;3235376389;-9743375
+F21;Memphis Municipal;Memphis;TX;3473958944;-1005297008
+F22;Perry Municipal;Perry;OK;3638559583;-9727721083
+F24;Minden-Webster;Minden;LA;3264601;-9329808556
+F28;El Reno Municipal;El Reno;OK;3547163639;-9800599444
+F29;Clarence E. Page Municipal;Oklahoma City;OK;354880825;-9782354556
+F30;Sulphur Municipal;Sulphur;OK;3452453278;-9698973944
+F31;Lake Texoma State Park;Kingston;OK;3399287639;-9664249722
+F32;Healdton Municipal;Healdton;OK;3424925806;-9747391306
+F36;Cordell Municipal;Cordell;OK;3530421917;-9896702167
+F37;Wauchula Municipal;Wauchula;FL;2751364889;-8188063917
+F39;Grayson County;Sherman/Denison;TX;3371411111;-9667366667
+F41;Ennis Municipal;Ennis;TX;3232969444;-9666388889
+F44;Athens Jones Municipal;Athens;TX;3216384778;-9582835306
+F45;North Palm Beach County General Aviation;West Palm Beach;FL;2684537306;-8022148111
+F46;Rockwall Municipal;Rockwall;TX;3293059444;-9643548556
+F49;Slaton Municipal;Slaton;TX;3348481;-1016607158
+F51;Winnsboro Municipal;Winnsboro;TX;3293884556;-9527886083
+F53;Franklin County;Mount Vernon;TX;3321530583;-952374925
+F55;Granbury Municipal;Granbury;TX;3244441583;-978169475
+F56;Arledge;Stamford;TX;3291019472;-9973422972
+F70;French Valley;Murieta/Temecula;CA;3357605556;-1171279722
+F80;Atoka Municipal;Atoka;OK;3439833889;-9614805972
+F81;Okemah Flying;Okemah;OK;3542925306;-9628778361
+F84;Stigler Municipal;Stigler;OK;3528910556;-9509389722
+F85;Morton-Cochran County;Morton;TX;3372926389;-1027338183
+F87;Farmerville;Farmerville;LA;3272495583;-9233716583
+F88;Jonesboro;Jonesboro;LA;3220199028;-9273293028
+F89;Winnsboro Municipal;Winnsboro;LA;3215431917;-9170012472
+F91;Thomas P Stafford;Weatherford;OK;3554482944;-9866849028
+F99;Holdenville Municipal;Holdenville;OK;35085875;-9641666667
+FAI;Fairbanks International;Fairbanks;AK;648136775;-1478596694
+FAM;Farmington Regional;Farmington;MO;3776107917;-9042859722
+FAQ;Fitiuta;Fitiuta Village;AS;1421577583;-1694239058
+FAR;Hector International;Fargo;ND;4691934889;-9681498889
+FAT;Fresno Yosemite International;Fresno;CA;3677619444;-1197181389
+FAY;Fayetteville Municipal;Fayetteville;NC;3499147222;-7888
+FBL;Faribault Municipal;Faribault;MN;4432468556;-9331082889
+FBR;Fort Bridger;Fort Bridger;WY;4139193583;-1104067961
+FBY;Fairbury Municipal;Fairbury;NE;4018297222;-9716927778
+FCA;Glacier Park Intl;Kalispell;MT;4831140472;-1142550694
+FCH;Fresno-Chandler Downtown;Fresno;CA;36732365;-1198198961
+FCI;Chesterfield County;Richmond;VA;374065375;-7752498667
+FCM;Flying Cloud;Minneapolis;MN;4482724111;-9345714639
+FCY;Forrest City Municipal;Forrest City;AR;3494199806;-9077496611
+FDK;Frederick Municipal;Frederick;MD;3941758333;-7737430556
+FDR;Frederick Municipal;Frederick;OK;3435219472;-9898460222
+FDW;Fairfield County;Winnsboro;SC;3431547222;-8110880556
+FDY;Findlay;Findlay;OH;4101352778;-8366869444
+FEP;Albertus;Freeport;IL;4224626722;-8958223944
+FET;Fremont Municipal;Fremont;NE;4144913889;-9652019444
+FFA;First Flight;Kill Devil Hills;NC;3601822278;-7567128694
+FFC;Peachtree City - Falcon;Atlanta;GA;3335725;-8457183333
+FFL;Fairfield Municipal;Fairfield;IA;4105332417;-9197892333
+FFM;Fergus Falls Muni-Einar Mickelson;Fergus Falls;MN;4628439389;-9615668556
+FFT;Capital City;Frankfort;KY;3818248861;-8490470083
+FFZ;Falcon;Mesa;AZ;3346083333;-1117283333
+FGX;Fleming-Mason;Flemingsburg;KY;3854180556;-8374338889
+FHR;Friday Harbor;Friday Harbor;WA;4852197222;-1230243611
+FHU;Libby AAF-Sierra Vista Municipal;Fort Huachuca-Sierra Vista;AZ;3158847222;-1103443889
+FIG;Clearfield-Lawrence;Clearfield;PA;4104861306;-7841310306
+FIT;Fitchburg Municipal;Fitchburg;MA;4255412194;-7175895639
+FKL;Chess-Lamberton;Franklin;PA;4137787361;-7986036167
+FKN;Franklin Municipal-John Beverly Rose;Franklin;VA;3669817806;-7690312694
+FKR;Frankfort Municipal;Frankfort;IN;4027343083;-8656217028
+FLD;Fond Du Lac County;Fond Du Lac;WI;4377117417;-8848842917
+FLG;Flagstaff Pulliam;Flagstaff;AZ;3513845472;-1116712183
+FLL;Fort Lauderdale-Hollywood Int'l;Ft. Lauderdale;FL;2607258333;-8015275
+FLO;Florence Regional;Florence;SC;3418536111;-7972388889
+FLP;Marion County Regional;Flippin;AR;3629087528;-9259023417
+FLT;Flat;Flat;AK;6245264889;-15798907
+FLX;Fallon Municipal;Fallon;NV;39499545;-1187490197
+FME;Tipton;Odenton;MD;3908538667;-7675941444
+FMN;Four Corners Regional;Farmington;NM;3674125;-1082299444
+FMY;Page;Ft. Myers;FL;2658661111;-8186325
+FMZ;Fairmont State;Fairmont;NE;4058569444;-9757305556
+FNB;Brenner;Falls City;NE;4007878611;-9559199167
+FNL;Fort Collins-Loveland;Fort Collins/Loveland;CO;4045182722;-1050113356
+FNR;Funter Bay SPB;Funter Bay;AK;5825438583;-1348979067
+FNT;Bishop;Flint;MI;4296550333;-8374345639
+FOA;Flora;Flora;IL;3866494528;-8845299556
+FOD;Fort Dodge Municipal;Fort Dodge;IA;4255145611;-9419255111
+FOE;Forbes;Topeka;KS;3895095194;-9566361444
+FOK;Francis Gabreski;Westhampton Beach;NY;4084365472;-7263178917
+FOT;Rohnerville;Fortuna;CA;4055393583;-1241326589
+FPR;St. Lucie County International;Ft. Pierce;FL;2749505556;-8036827778
+FQD;Rutherford County-Marchman;Rutherfordton;NC;3542822222;-8193507778
+FRG;Republic;Farmingdale;NY;4072878111;-7341340722
+FRH;French Lick Municipal;French Lick;IN;3850622139;-8663693528
+FRM;Fairmont Municipal;Fairmont;MN;4364394111;-9441561556
+FRR;Front Royal-Warren County;Front Royal;VA;389175325;-7825351472
+FSD;Joe Foss;Sioux Falls;SD;4358135111;-9674170028
+FSE;Fosston Municipal;Fosston;MN;4759282028;-9577349889
+FSK;Fort Scott Municipal;Fort Scott;KS;3779843056;-9476938111
+FSM;Fort Smith Regional;Fort Smith;AR;3533659028;-9436744111
+FSO;Franklin County State;Highgate;VT;4494028083;-7309746
+FST;Fort Stockton - Pecos County;Fort Stockton;TX;3091566667;-1029161389
+FSU;Fort Sumner Municipal;Fort Sumner;NM;3448339944;-1042171967
+FSW;Fort Madison Municipal;Fort Madison;IA;406592625;-913268175
+FTG;Front Range;Denver;CO;3978525;-1045431389
+FTT;Elton Hensley Memorial;Fulton;MO;3883987472;-9200421056
+FTW;Fort Worth Meacham International;Fort Worth;TX;3281977778;-9736244444
+FTY;Fulton County - Brown;Atlanta;GA;3377913889;-8452136111
+FUL;Fullerton Municipal;Fullerton;CA;3387201417;-1179797842
+FVE;Northern Aroostook Regional;Frenchville;ME;4728550417;-6831275
+FVX;Farmville Municipal;Farmville;VA;3735752861;-7843779806
+FWA;Fort Wayne International;Fort Wayne;IN;4097846583;-8519514639
+FWC;Fairfield Municipal;Fairfield;IL;3837863306;-8841265222
+FWN;Sussex;Sussex;NJ;4120020667;-7462305056
+FWS;Spinks;Fort Worth;TX;3256522778;-9730807778
+FXE;Fort Lauderdale Executive;Ft. Lauderdale;FL;2619728;-8017070833
+FXY;Forest City Municipal;Forest City;IA;4323473417;-936241025
+FYE;Fayette County;Somerville;TN;3520592;-8939441667
+FYM;Fayetteville Municipal;Fayetteville;TN;3505836278;-8656441139
+FYU;Fort Yukon;Fort Yukon;AK;6657149028;-1452504169
+FYV;Fayetteville Municipal;Fayetteville;AR;3600509472;-9417005694
+FZG;Fitzgerald Municipal;Fitzgerald;GA;3168368667;-8327046056
+FZI;Fostoria Metropolitan;Fostoria;OH;4119083111;-8339453639
+FZY;Oswego Cty;Fulton;NY;4335077528;-7638805361
+GAB;Gabbs;Gabbs;NV;3892409111;-1179590072
+GAD;Gadsden Municipal;Gadsden;AL;3397262528;-8608900139
+GAF;Grafton Municipal;Grafton;ND;4840469444;-9737094444
+GAG;Gage;Gage;OK;3629553889;-9977642361
+GAI;Montgomery Co Airpark;Gaithersburg;MD;3916833611;-77166
+GAL;Edward G. Pitka Sr.;Galena;AK;6473617806;-1569374164
+GAM;Gambell;Gambell;AK;6376676556;-1717328236
+GAS;Gallia - Meigs Regional;Gallipolis;OH;3883410833;-8216342306
+GBD;Great Bend Municipal;Great Bend;KS;3834441861;-9885917028
+GBG;Galesburg Municipal;Galesburg;IL;4093800194;-9043112556
+GBH;Galbraith Lake;Galbraith Lake;AK;6847906306;-1494900214
+GBR;Great Barrington;Great Barrington;MA;4218421417;-7340324056
+GCC;Gillette-Campbell County;Gillette;WY;4434889806;-1055393614
+GCK;Garden City Regional;Garden City;KS;3792751556;-1007244147
+GCM;Claremore Regional;Claremore;OK;3629441667;-9547966667
+GCN;Grand Canyon National Park;Grand Canyon;AZ;3595235389;-1121469647
+GCT;Guthrie County Regional;Guthrie Center;IA;4168776417;-9443524611
+GCY;Greeneville Municipal;Greeneville;TN;3619299083;-8281507028
+GDM;Gardner Municipal;Gardner;MA;4254986639;-7201602194
+GDV;Dawson Community;Glendive;MT;4713871861;-1048071994
+GDW;Gladwin;Gladwin;MI;4397063278;-8447503861
+GDY;Grundy Municipal;Grundy;VA;3723240111;-8212499083
+GED;Sussex Cty Arpt;Georgetown;DE;3868919444;-7535888889
+GEG;Spokane Intl;Spokane;WA;4761985556;-1175338425
+GEO;Brown County;Georgetown;OH;3888195778;-8388273278
+GEU;Glendale Municipal;Glendale;AZ;3352726278;-1122951564
+GEY;South Big Horn County;Greybull;WY;4451644444;-1080831944
+GEZ;Shelbyville Municipal;Shelbyville;IN;3958316583;-8580481
+GFK;Grand Forks International;Grand Forks;ND;47949255;-9717611111
+GFL;Floyd D. Bennett;Glens Falls;NY;4334121;-736103075
+GFZ;Greenfield Municipal;Greenfield;IA;4132702778;-9444572222
+GGE;Georgetown County;Georgetown;SC;3331169444;-7931958333
+GGF;Grant Municipal;Grant;NE;4086952778;-1017328611
+GGG;Gregg County;Longview;TX;3238486111;-9471171
+GGI;Grinnell Municipal;Grinnell;IA;4170916083;-9273491278
+GGP;Logansport Municipal;Logansport;IN;4071126139;-8637449917
+GGW;Wokal Field/Glasgow Intl;Glasgow;MT;4821246417;-1066148231
+GHM;Centerville Municipal;Centerville;TN;3583742722;-87445375
+GHW;Glenwood Municipal;Glenwood;MN;4564389167;-9532043056
+GIF;Winter Havens Gilbert;Winter Haven;FL;2806291667;-8175330556
+GJT;Walker;Grand Junction;CO;391224125;-1085267347
+GKJ;Port Meadville;Meadville;PA;4162652667;-802147275
+GKN;Gulkana;Gulkana;AK;6215488889;-1454566389
+GKT;Gatlinburg-Pigeon Forge;Sevierville;TN;3585775889;-8352870472
+GKY;Arlington Municipal;Arlington;TX;3266241528;-9709391139
+GLD;Renner Field/Goodland Municipal;Goodland;KS;3937062194;-1016989919
+GLE;Gainesville Municipal;Gainesville;TX;3365136111;-9719702778
+GLH;Mid Delta Regional;Greenville;MS;3348288111;-9098561389
+GLR;Otsego County;Gaylord;MI;4501354806;-8470318944
+GLS;Galveston-Scholes;Galveston;TX;2926532333;-9486040667
+GLW;Glasgow Municipal;Glasgow;KY;3703205556;-8595261111
+GLY;Clinton Memorial;Clinton;MO;3835657306;-9368417694
+GMJ;Grove Municipal;Grove;OK;3660527056;-9473856667
+GMU;Greenville Downtown;Greenville;SC;3484794444;-8235
+GNB;Granby-Grand County;Granby;CO;4008970806;-1059172367
+GNF;Grenada Municipal;Grenada;MS;3383253;-8979822806
+GNG;Gooding Municipal;Gooding;ID;4291716639;-1147651575
+GNT;Grants-Milan Municipal;Grants;NM;3516531472;-1079006142
+GNU;Goodnews;Goodnews;AK;5911727556;-1615813967
+GNV;Gainesville Regional;Gainesville;FL;2969005556;-8227177778
+GOK;Guthrie Municipal;Guthrie;OK;3584980556;-9741560833
+GON;Groton-New London;Groton;CT;4133005778;-7204513556
+GPH;Clay County Regional;Mosby;MO;3933046528;-9430997361
+GPM;Grand Prairie Municipal;Grand Prairie;TX;3269858333;-9704652778
+GPT;Gulfport-Biloxi Regional;Gulfport-Biloxi;MS;3040728028;-8907009278
+GPZ;Grand Rapids-Itasca County;Grand Rapids;MN;4721110333;-9350984472
+GQQ;Galion Municipal;Galion;OH;4075338889;-8272380556
+GRB;Austin Straubel International;Green Bay;WI;4448507333;-8812959
+GRD;Greenwood County;Greenwood;SC;3424872222;-8215908333
+GRE;Greenville;Greenville;IL;3883615778;-8937841111
+GRI;Central Nebraska Regional;Grand Island;NE;4096747222;-9830861111
+GRK;Robert Gray AAF;Killeen;TX;3106489778;-9782779778
+GRN;Gordon Municipal;Gordon;NE;4280597222;-10217525
+GRO;Rota International;Rota Island;CQ;141743075;-1452425353
+GRR;Kent County International;Grand Rapids;MI;4288081972;-8552276778
+GSH;Goshen Municipal;Goshen;IN;4152716028;-8579210278
+GSN;Saipan International;Obyan;CQ;1511900139;-1457293561
+GSO;Piedmont Triad International;Greensboro;NC;3609774694;-799372975
+GSP;Greenville-Spartanburg;Greer;SC;3489566722;-8221885833
+GST;Gustavus;Gustavus;AK;5842438139;-1357073814
+GTF;Great Falls Intl;Great Falls;MT;4748200194;-1113706853
+GTR;Golden Triangle Regional;Columbus-Starkville-West Point;MS;3345033444;-8859136861
+GTU;Georgetown Municipal;Georgetown;TX;3067880889;-9767938389
+GUC;Gunnison County;Gunnison;CO;3853396333;-1069331817
+GUM;Guam International;Agana;GU;1348345;-1447959825
+GUP;Gallup Municipal;Gallup;NM;3551105833;-1087893094
+GUY;Guymon Municipal;Guymon;OK;3668507194;-1015077817
+GVL;Lee Gilmer Memorial;Gainesville;GA;3427290389;-8382681333
+GVQ;Genesee Cty;Batavia;NY;4303172639;-7816759972
+GVT;Majors;Greenville;TX;3306783889;-960653325
+GWO;Greenwood-Leflore;Greenwood;MS;3349432667;-90084705
+GWR;Gwinner-Roger Melroe;Gwinner;ND;4621872222;-9764325
+GWW;Goldsboro-Wayne Municipal;Goldsboro;NC;3546055444;-7796493306
+GXY;Greeley-Weld County;Greeley;CO;4043561833;-1046321156
+GYH;Donaldson Center;Greenville;SC;3475831917;-82376415
+GYR;Phoenix Goodyear;Goodyear;AZ;3342281972;-1123759919
+GYY;Gary/Chicago;Gary;IN;4161627306;-8741278806
+GZH;Middleton;Evergreen;AL;3141580111;-8704404333
+GZS;Abernathy;Pulaski;TN;3515371972;-8705681444
+H04;Vinita Municipal;Vinita;OK;3663301806;-9515136111
+H05;Wilburton Municipal;Wilburton;OK;3491954278;-9539469722
+H19;Bowling Green Municipal;Bowling Green;MO;3936993361;-9121925556
+H21;Camdenton Memorial;Camdenton;MO;3797468528;-9269161528
+H30;Hamilton Municipal;Hamilton;NY;4284381889;-7556140194
+H35;Clarksville Municipal;Clarksville;AR;3547069417;-93427155
+H41;Memorial;Mexico;MO;3915751389;-9181826667
+H45;Seminole Municipal;Seminole;OK;3527467806;-9667516194
+H66;Nowata Municipal;Nowata;OK;3672092222;-9562525583
+H71;Mid-America Industrial;Pryor;OK;3622539389;-9533006333
+H79;Eldon Model Airpark;Eldon;MO;3836062611;-9257157139
+H88;Municipal;Fredericktown;MO;37605825;-9028731389
+H92;Hominy;Hominy;OK;3643340222;-9638362861
+H96;Benton Municipal;Benton;IL;3800675111;-8893441528
+H97;Pawnee Municipal;Pawnee;OK;3638338556;-968103125
+HAB;Marion County;Hamilton;AL;3411757222;-8799819583
+HAE;Hannibal Municipal;Hannibal;MO;3972448944;-9144367944
+HAF;Half Moon Bay;Half Moon Bay;CA;3751382944;-1225010892
+HAI;Three Rivers Municipal;Three Rivers;MI;4195975;-8559338889
+HAO;Hamilton-Fairfield;Hamilton;OH;3936448861;-8452457722
+HAY;Haycock;Haycock;AK;6520098944;-1611567792
+HBC;Mohall Municipal;Mohall;ND;4876838333;-1015369953
+HBG;Bobby L. Chain Municipal;Hattiesburg;MS;3126506556;-892530325
+HBR;Hobart Municipal;Hobart;OK;349913075;-990513525
+HBV;Jim Hogg County;Hebbronville;TX;2734955556;-9873697222
+HBZ;Heber Springs Municipal;Heber Springs;AR;3551169389;-9201300944
+HCD;Hutchinson Municipal;Hutchinson;MN;4485890667;-9438178917
+HCO;Hallock Municipal;Hallock;MN;4875273139;-9694300306
+HDC;Hammond Municipal;Hammond;LA;3052096889;-9041762056
+HDE;Brewster;Holdredge;NE;4045269444;-9933733333
+HDH;Dillingham Airfield;Mokuleia;HI;2157947361;-1581972814
+HDI;Hardwick;Cleveland;TN;3522007306;-8483244333
+HDN;Yampa Valley;Hayden;CO;4048118028;-1072176597
+HDO;Hondo Municipal;Hondo;TX;2935952778;-9917666667
+HEE;Thompson-Robbins;Helena-West Helena;AR;3457648972;-9067588639
+HEF;Manassas Reg./Harry P Davis;Manassas;VA;3872141667;-7751544444
+HEI;Hettinger Municipal;Hettinger;ND;4601494444;-1026559722
+HEQ;Holyoke;Holyoke;CO;4056943056;-1022726875
+HEZ;Natchez-Adams County;Natchez;MS;3161366111;-9129733639
+HFD;Hartford Brainard;Hartford;CT;4173626861;-7265021389
+HFY;Greenwood Municipal;Indianapolis/Greenwood;IN;3962841667;-8608788889
+HGR;Hagerstown Regional-Richard Henson;Hagerstown;MD;3970794444;-777295
+HHF;Hemphill County;Canadian;TX;3589530778;-1004036397
+HHG;Huntington Municipal;Huntington;IN;4085299;-8545941917
+HHH;Hilton Head;NA;NA;32224384;-80697629
+HHR;Jack Northrop Field/Hawthorne Municipal;Hawthorne;CA;3392283972;-1183351872
+HHW;Stan Stamper Municipal;Hugo;OK;3403482556;-9554190611
+HI01;Princeville;Hanalei;HI;2220919;-1594455339
+HIB;Chisholm-Hibbing;Hibbing;MN;4738659917;-9283899333
+HIE;Mt Washington Regional;Whitefield;NH;4436761639;-7154447111
+HIG;Higginsville Industrial Municipal;Higginsville;MO;3907334639;-9367716083
+HII;Lake Havasu City;Lake Havasu City;AZ;3456816056;-1143561783
+HIO;Portland-Hillsboro;Hillsboro (Portland);OR;4554039389;-1229498258
+HJH;Hebron Municipal;Hebron;NE;4015225;-9758697222
+HJO;Hanford Municipal;Hanford;CA;3631852194;-1196288675
+HKA;Blytheville Municipal;Blytheville;AR;3594040667;-8983080583
+HKS;Hawkins;Jackson;MS;323347725;-9022253167
+HKY;Hickory Municipal;Hickory;NC;3574114639;-8138954889
+HLC;Hill City Municipal;Hill City;KS;3937883611;-9983149444
+HLG;Wheeling-Ohio Cty;Wheeling;WV;40175;-8064627778
+HLN;Helena Regional;Helena;MT;4660681806;-1119827503
+HLX;Twin County;Galax;VA;3676611472;-8082356556
+HMT;Hemet-Ryan;Hemet;CA;3373398167;-1170225258
+HMZ;Bedford County;Bedford;PA;4008536861;-7851221778
+HNB;Huntingburg;Huntingburg;IN;3824902583;-8695371833
+HNH;Hoonah;Hoonah;AK;5809609139;-1354096975
+HNL;Honolulu International;Honolulu;HI;2131869111;-1579224072
+HNM;Hana;Hana;HI;2079563722;-1560144378
+HNR;Harlan Municipal;Harlan;IA;4158438889;-9533963889
+HNS;Haines;Haines;AK;5924522806;-1355221086
+HNZ;Henderson-Oxford;Oxford;NC;3636156111;-7852916639
+HOB;Lea County Regional;Hobbs;NM;3268752778;-1032170278
+HOC;Highland County;Hillsboro;OH;3918875944;-8353880694
+HOE;Homerville;Homerville;GA;3105591667;-8277413889
+HOM;Homer;Homer;AK;5964555556;-1514765833
+HON;Huron Regional;Huron;SD;4438520056;-982285425
+HOT;Memorial;Hot Springs;AR;3447803389;-9309620833
+HOU;William P Hobby;Houston;TX;2964541861;-9527888889
+HPB;Hooper Bay;Hooper Bay;AK;6152418306;-1661467797
+HPN;Westchester Cty;White Plains;NY;4106695778;-7370757444
+HPT;Hampton Municipal;Hampton;IA;4272372361;-9322634056
+HQG;Hugoton Municipal;Hugoton;KS;3716308056;-1013705267
+HQM;Bowerman;Hoquiam;WA;4697120167;-1239365581
+HQU;Thomson-McDuffie County;Thomson;GA;3352972639;-8251678556
+HQZ;Mesquite Metro;Mesquite;TX;3274696278;-9653041722
+HRI;Hermiston Muni;Hermiston;OR;4582822222;-1192591667
+HRL;Valley International;Harlingen;TX;2622850611;-9765439389
+HRO;Boone County;Harrison;AR;3626152056;-9315472889
+HRR;Healy River;Healy;AK;6386620806;-1489689842
+HRU;Herington Municipal;Herington;KS;3868322389;-9680800639
+HRX;Hereford Municipal;Hereford;TX;3485761639;-1023272017
+HSA;Stennis International;Bay St Louis;MS;3036780778;-8945461083
+HSB;Harrisburg-Raleigh;Harrisburg;IL;378115;-8854913889
+HSE;Billy Mitchell;Hatteras;NC;352327875;-75617795
+HSI;Hastings Municipal;Hastings;NE;4060525;-9842788889
+HSL;Huslia;Huslia;AK;6570055556;-1563875
+HSP;Ingalls;Hot Springs;VA;3795144444;-7983389444
+HSR;Hot Springs Municipal;Hot Springs;SD;4336824528;-1033881378
+HSV;Huntsville International;Huntsville;AL;346404475;-8677310944
+HTH;Hawthorne Municipal;Hawthorne;NV;3854436583;-1186343003
+HTL;Roscommon County;Houghton Lake;MI;4435980556;-8467111111
+HTO;East Hampton;East Hampton;NY;4095957778;-7225185056
+HTS;Tri-State/Walker-Long;Huntington;WV;3836666667;-8255802778
+HTW;Lawrence County Airpark,Inc;Chesapeake;OH;3841924861;-824943225
+HUF;Terre Haute International-Hulman;Terre Haute;IN;3945146361;-8730756111
+HUL;Houlton International;Houlton;ME;4612308333;-6779205556
+HUM;Houma-Terrebonne;Houma;LA;295665;-9066041667
+HUS;Hughes;Hughes;AK;6604112167;-1542631903
+HUT;Hutchinson Municipal;Hutchinson;KS;3806548306;-9786063361
+HVC;Hopkinsville-Christian County;Hopkinsville;KY;3685658333;-8745725
+HVE;Hanksville;Hanksville;UT;3841803722;-1107040378
+HVN;Tweed-New Haven;New Haven;CT;4126389889;-728871
+HVR;Havre City-County;Havre;MT;48542985;-1097623419
+HVS;Hartsville Municipal;Hartsville;SC;3440308333;-8011922222
+HWD;Hayward Executive;Hayward;CA;3765926528;-1221224083
+HWI;Hawk Inlet SPB;Hawk Inlet;AK;5812744139;-1347559531
+HWO;North Perry;Hollywood;FL;2600142417;-8024052056
+HWQ;Wheatland County  At Harlowton;Harlowton;MT;464541225;-1098549061
+HWV;Brookhaven;Shirley;NY;4081676528;-7286204722
+HXD;Hilton Head;Hilton Head Island;SC;3222436111;-8069747222
+HXF;Hartford Municipal;Hartford;WI;4334927806;-8839112528
+HYA;Barnstable Mun Boardman/Polando;Hyannis;MA;4166933639;-7028035583
+HYG;Hydaburg SPB;Hydaburg;AK;5520631611;-1328283131
+HYI;San Marcos Municipal;San Marcos;TX;2989361111;-9786469444
+HYL;Hollis SPB;Hollis;AK;5548158833;-1326460942
+HYR;Sawyer County;Hayward;WI;4602585722;-9144424278
+HYS;Hays Municipal;Hays;KS;3884494167;-9927403361
+HYW;Conway-Horry County;Conway;SC;338285;-7912216667
+HZD;Carroll County;Huntingdon;TN;3608930722;-8846329778
+HZE;Mercer County Regional;Hazen;ND;4728986111;-1015809444
+HZL;Hazleton Muni;Hazleton;PA;4098677778;-7599488889
+HZR;False River Air Park;New Roads;LA;3071832333;-9147866972
+HZY;Ashtabula County;Ashtabula;OH;4177797528;-8069551333
+I05;Sturgis Municipal;Sturgis;KY;3754083333;-8795183333
+I12;Sidney Municipal;Sidney;OH;4024127944;-8415101167
+I16;Kee;Pineville;WV;3760044444;-8155927778
+I18;Jackson County;Ravenswood;WV;3892977778;-8181947222
+I19;Greene County;Dayton;OH;3969172639;-8399023806
+I22;Randolph County;Winchester;IN;4016885083;-8492585333
+I23;Fayette County;Washington Court House;OH;3957040167;-8342052444
+I25;Welch Muni;Welch;WV;3741678056;-8152899417
+I32;Morehead-Rowan County;Morehead;KY;3813341472;-8353796528
+I34;Greensburg-Decatur County;Greensburg;IN;3932691111;-8552252694
+I35;Tucker-Guthrie Memorial;Harlan;KY;3685981028;-8336101639
+I39;Madison County;Richmond;KY;3763152778;-8433244444
+I40;Richard Downing;Coshocton;OH;4030918056;-8185338194
+I42;Paoli Municipal;Paoli;IN;3858338806;-8646248778
+I43;James A Rhodes;Jackson;OH;3898135194;-8257785667
+I50;Stanton;Stanton;KY;3785008167;-8384575194
+I57;Pike County;Waverly;OH;3916693333;-82928175
+I63;Mt. Sterling Municipal;Mt. Sterling;IL;399875;-9080416667
+I66;Clinton;Wilmington;OH;3950286111;-8386305556
+I67;Cincinnati West;Harrison;OH;3925894444;-8477430556
+I68;Lebanon-Warren County;Lebanon;OH;3946217306;-8425184722
+I69;Clermont County;Batavia;OH;3907839722;-8421020722
+I74;Grimes;Urbana;OH;4012928306;-837548775
+I75;Osceola Municipal;Osceola;IA;4105221889;-9368966222
+I76;Peru Municipal;Peru;IN;4078631889;-8614638306
+I78;Union County;Marysville;OH;4022469444;-8335161111
+I83;Salem Municipal;Salem;IN;3860200167;-8613997889
+I86;Perry County;New Lexington;OH;3969159667;-8219778583
+I88;Pontiac Municipal;Pontiac;IL;4092372222;-886255
+I93;Breckinridge County;Hardinsburg;KY;3778505944;-8644192194
+I95;Hardin County;Kenton;OH;4061072;-8364359694
+IAD;Washington Dulles International;Chantilly;VA;3894453194;-7745580972
+IAG;Niagara Falls Intl;Niagara Falls;NY;4310725861;-7894538139
+IAH;George Bush Intercontinental;Houston;TX;2998047222;-9533972222
+IAN;Bob Baker Memorial;Kiana;AK;6697937611;-1604358597
+IBM;Robert E. Arraj;Kimball;NE;4118805556;-1036773889
+ICL;Schenck;Clarinda;IA;4072178361;-9502642667
+ICT;Wichita Mid-Continent;Wichita;KS;3764995889;-9743304583
+IDA;Idaho Falls Regional;Idaho Falls;ID;4351455556;-1120701667
+IDI;Indiana Cty/Jimmy Stewart;Indiana;PA;4063222222;-7910552778
+IDL;Indianola Municipal;Indianola;MS;3348574611;-9067887611
+IDP;Independence Municipal;Independence;KS;3715837222;-9577838333
+IEM;Whittier;Whittier;AK;607772125;-1487215775
+IEN;Pine Ridge;Pine Ridge;SD;4302257694;-1025110728
+IER;Natchitoches Municipal;Natchitoches;LA;3173572;-9309913639
+IFA;Iowa Falls Municipal;Iowa Falls;IA;4247078639;-9326995361
+IFP;Laughlin/Bullhead International;Bullhead City;AZ;3515738889;-1145595278
+IGG;Igiugig;Igiugig;AK;5932373528;-1559032733
+IGM;Kingman;Kingman;AZ;3525947222;-1139380556
+IGQ;Lansing Municipal;Chicago/Lansing;IL;4153988889;-8753216667
+IGT;Nightmute;Nightmute;AK;6047032722;-1646856414
+IIB;Independence Municipal;Independence;IA;4245359833;-9194761833
+IIK;Kipnuk;Kipnuk;AK;5993295111;-1640305131
+IIY;Washington-Wilkes County;Washington;GA;3377987528;-8281661639
+IJD;Windham;Willimantic;CT;4174404028;-7218023583
+IJX;Jacksonville Municipal;Jacksonville;IL;3977429694;-9023856583
+IKK;Greater Kankakee;Kankakee;IL;4107140417;-8784626861
+IKV;Ankeny Regional;Ankeny;IA;4169128556;-9356630333
+ILE;Killeen Municipal;Killeen;TX;3108583333;-976865
+ILG;New Castle County;Wilmington;DE;3967872222;-7560652778
+ILI;Iliamna;Iliamna;AK;5975380028;-1549109597
+ILM;Wilmington International;Wilmington;NC;3427061111;-7790255556
+IML;Imperial Municipal;Imperial;NE;4050930556;-1016205278
+IMM;Immokalee;Immokalee;FL;2643316667;-8140102778
+IMS;Madison Municipal;Madison;IN;3875888889;-8546552778
+IMT;Ford;Iron Mountain/Kingsford;MI;4581835417;-881145425
+IN03;Indianapolis Downtown;Indianapolis;IN;3976587639;-86148875
+IND;Indianapolis International;Indianapolis;IN;3971732917;-8629438417
+INK;Winkler County;Wink;TX;3177962833;-1032013619
+INL;Falls International;International Falls;MN;4856618722;-9340306667
+INT;Smith Reynolds;Winston-Salem;NC;3613372222;-80222
+INW;Winslow-Lindbergh Regional;Winslow;AZ;3502191667;-1107225278
+IOB;Mt Sterling-Montgomery County;Mount Sterling;KY;3805813889;-8397958333
+IOW;Iowa City Municipal;Iowa City;IA;4163924389;-9154650333
+IPJ;Lincoln County;Lincolnton;NC;3548332889;-8116125833
+IPL;Imperial County;Imperial;CA;3283422028;-1155787456
+IPT;Williamsport-Lycoming Cty;Williamsport;PA;4124183583;-7692109556
+IRK;Kirksville Regional;Kirksville;MO;4009364444;-9254496917
+IRS;Kirsch Municipal;Sturgis;MI;418128725;-8543906111
+ISM;Kissimmee Municipal;Orlando;FL;2828980556;-8143708333
+ISN;Sloulin Field International;Williston;ND;4817793861;-1036423467
+ISO;Kinston Regional Jetport At Stallin;Kinston;NC;3532807944;-7761552611
+ISP;Long Island - MacArthur;Islip;NY;407952425;-7310021194
+ISQ;Schoolcraft County;Manistique;MI;4597464056;-8617183056
+ISW;Alexander;Wisconsin Rapids;WI;4436033833;-8983897056
+ISZ;Cincinnati-Blue Ash;Cincinnati;OH;3924669444;-8438897222
+ITH;Tompkins Cty;Ithaca;NY;4249102778;-7645844444
+ITO;Hilo International;Hilo;HI;1972026306;-1550484703
+ITR;Kit Carson County;Burlington;CO;392425;-1022853889
+IWA;Williams Gateway;Phoenix;AZ;3330783333;-1116554722
+IWD;Gogebic County;Ironwood;MI;4652747472;-9013139667
+IWH;Wabash Municipal;Wabash;IN;4076195972;-8579873417
+IWI;Wiscasset;Wiscasset;ME;4396141667;-6971255556
+IWK;Wales;Wales;AK;6562394028;-1680991719
+IWS;West Houston;Houston;TX;2981819444;-9567261111
+IXD;New Century Aircenter;Olathe;KS;3883090472;-9489030333
+IYK;Inyokern;Inyokern;CA;3565884306;-1178295122
+IYS;Wasilla;Wasilla;AK;6157196083;-1495405556
+IZA;Santa Ynez;Santa Ynez;CA;3460682028;-1200755617
+IZG;Eastern Slopes Regional;Fryeburg;ME;4399114472;-7094787444
+JAC;Jackson Hole;Jackson;WY;4360732417;-1107377389
+JAN;Jackson International;Jackson;MS;3231116667;-9007588889
+JAS;Jasper County -Bell;Jasper;TX;3089058333;-9403483333
+JAU;Campbell County;Jacksboro;TN;3633457556;-8416234472
+JAX;Jacksonville International;Jacksonville;FL;3049405556;-8168786111
+JBR;Jonesboro Municipal;Jonesboro;AR;3583186111;-9064616667
+JCT;Kimble County;Junction;TX;3051126;-9976345528
+JDN;Jordan;Jordan;MT;4733333417;-1069339564
+JEF;Jefferson City Memorial;Jefferson City;MO;3859117917;-9215614389
+JER;Jerome County;Jerome;ID;4272663639;-1144571506
+JES;Jesup-Wayne County;Jesup;GA;3155408333;-8188344444
+JFK;John F Kennedy Intl;New York;NY;4063975111;-7377892556
+JFX;Walker County;Jasper;AL;3390199528;-8731416639
+JHM;Kapalua;Lahaina;HI;2096293639;-1566730317
+JHW;Chautauqua Cty;Jamestown;NY;4215336861;-79258035
+JKA;Jack Edwards;Gulf Shores;AL;3028951667;-8767371472
+JKJ;Moorhead Municipal;Moorhead;MN;4683919194;-9666313028
+JKL;Julian Carroll;Jackson;KY;3759386111;-8331725
+JLN;Joplin Regional;Joplin;MO;3715181361;-9449826833
+JMR;Mora Municipal;Mora;MN;4588609722;-9327177833
+JMS;Jamestown Municipal;Jamestown;ND;4692971944;-9867819528
+JNU;Juneau International;Juneau;AK;5835496194;-1345762764
+JNX;Johnston County;Smithfield;NC;3554094139;-7839032944
+JOT;Joliet Park District;Chicago/Joliet;IL;4151805833;-8817525583
+JQF;Concord Regional;Concord;NC;3538520694;-8070971389
+JRA;Port Authority-W 30th St Midtown Heliport;New York;NY;4075454583;-7400708389
+JRB;Downtown Manhattan/Wall St. Heliport;New York;NY;4070121361;-7400902833
+JRF;Kalaeloa (John Rodgers );Kapolei;HI;2130735389;-1580703017
+JSO;Jacksonville-Cherokee County;Jacksonville;TX;3186933667;-9521739028
+JST;Johnstown-Cambria Cty;Johnstown;PA;4031611111;-7883394444
+JVL;Rock County;Janesville;WI;4261958222;-8904034028
+JVY;Clark County;Jeffersonville;IN;3836562278;-8573829639
+JWG;Watonga;Watonga;OK;3586469444;-9842075
+JWN;John C. Tune;Nashville;TN;3618236194;-8688672278
+JXN;Jackson County Reynolds;Jackson;MI;4225978556;-8445940361
+JYG;St James Municipal;St James;MN;4398631833;-9455793722
+JYL;Plantation Airpark;Sylvania;GA;3264544861;-8159649722
+JYM;Hillsdale Municipal;Hillsdale;MI;4192126083;-845857625
+JYO;Leesburg Executive;Leesburg;VA;3907797222;-775575
+JYR;Municipal;York;NE;4089675;-9762277778
+JZI;Charleston Executive;Charleston;SC;3270086111;-8000291667
+JZP;Pickens County;Jasper;GA;3445147972;-8445659278
+JZZ;Koliganek;Koliganek;AK;5972664194;-1572594722
+K01;Farington;Auburn;NE;4038750167;-9578916167
+K02;Perryville Municipal;Perryville;MO;3786866667;-8986213889
+K06;Greater Beardstown;Beardstown;IL;3997338139;-9040373556
+K09;Piseco Muni;Piseco;NY;4345340222;-7451765083
+K15;Linn Creek-Grand Glaize Memorial;Osage Beach;MO;3811045;-9268054583
+K20;Wendell H. Ford;Hazard;KY;3738783833;-8326205889
+K22;Big Sandy Regional;Prestonburg;KY;3775102778;-8263669444
+K24;Russell County;Jamestown;KY;3700888889;-8510277778
+K29;Council;Council;AK;6489788278;-1637034472
+K33;Salem Memorial;Salem;MO;3761523333;-9160444167
+K34;Municipal;Gardner;KS;3880708333;-9495602778
+K39;St Clair Memorial;St Clair;MO;3837594333;-9097073944
+K46;Blair Municipal;Blair;NE;4141805139;-961136275
+K54;Teller;Teller;AK;6524089806;-1663360067
+K57;Gould Peterson Municipal;Tarkio;MO;4044583139;-9536275806
+K59;Amelia Earhart;Atchison;KS;3957052472;-9518033139
+K61;Moritz Memorial;Beloit;KS;3947115222;-9812878389
+K62;Falmouth Pendleton County;Falmouth;KY;3870423611;-8439160417
+K67;Oswego Municipal;Oswego;KS;3715978667;-9504246222
+K68;Garnett Municipal;Garnett;KS;3827918833;-9521691833
+K78;Abilene Municipal;Abilene.;KS;3890405583;-9723585389
+K81;Miami County;Paola;KS;3853751389;-9492524194
+K82;Smith Center Municipal;Smith Center;KS;3976112278;-9879343639
+K83;Sabetha Municipal;Sabetha;KS;3990416667;-957794325
+K88;Allen County;Iola;KS;3787008333;-9538638889
+K89;Macon-Fower Memorial;Macon;MO;3972870694;-92464455
+K96;Tuscola;Tuscola;IL;3978086528;-8830616
+KAE;Kake SPB;Kake;AK;5697299639;-1339456147
+KAL;Kaltag;Kaltag;AK;6432571917;-1587441475
+KCC;Coffman Cove SPB;Coffman Cove;AK;5600324444;-1328419689
+KCL;Chignik Lagoon;Chignik Flats;AK;5631116306;-1585359264
+KEB;English Bay;English Bay;AK;5935214833;-1519251558
+KEK;Ekwok;Ekwok;AK;5935399444;-1574744092
+KFP;False Pass;False Pass;AK;5484744583;-1634103222
+KGX;Grayling;Grayling;AK;6289456056;-1600649042
+KIB;Ivanof Bay SPB;Ivanof Bay;AK;5589753333;-1594886689
+KIC;Mesa Del Rey;King City;CA;3622802139;-1211218614
+KKA;Koyuk;Koyuk;AK;6493404056;-161158145
+KKB;Kitoi Bay SPB;Kitoi Bay;AK;5819094611;-1523704875
+KLG;Kalskag;Kalskag;AK;6153627389;-1603413306
+KLL;Levelock;Levelock;AK;5911816472;-1568652169
+KLS;Kelso-Longview;Kelso;WA;46118;-1228983889
+KNB;Kanab Muni;Kanab;UT;3701110583;-1125311936
+KNW;Stuyahok;New Stuyahok;AK;5944955333;-1573271908
+KOA;Kona International At Keahole;Kailua/Kona;HI;1973876583;-1560456314
+KPB;Point Baker SPB;Point Baker;AK;5635185972;-1336225864
+KPH;Pauloff Harbor SPB;Pauloff Harbor;AK;5445912028;-1626936406
+KQA;Akutan SPB;Akutan;AK;5413246694;-1657853111
+KSM;St. Mary's;St. Mary's;AK;6206048639;-1633021108
+KTB;Thorne Bay;Thorne Bay;AK;5568796194;-1325366758
+KTN;Ketchikan International;Ketchikan;AK;5535556861;-13171374
+KTS;Brevig Mission;Brevig Mission;AK;6533136111;-1664631667
+KVC;King Cove;King Cove;AK;551163475;-1622662272
+KVL;Kivalina;Kivalina;AK;6773125333;-1645518019
+KWT;Kwethluk;Kwethluk;AK;6080425194;-16144535
+KXA;Kasaan SPB;Kasaan;AK;5553741389;-1323975144
+KYK;Karluk;Karluk;AK;5756706389;-1544503714
+KYU;Koyukuk;Koyukuk;AK;6487714278;-1577158358
+L04;Holtville;Holtville;CA;3284032361;-1152674806
+L05;Kern Valley;Kernville;CA;3572828472;-1184198069
+L06;Furnace Creek;Death Valley National Park;CA;3646383694;-1168814425
+L08;Borrego Valley;Borrego Springs;CA;3325902778;-1163209722
+L12;Redlands Municipal;Redlands;CA;3408526167;-1171463789
+L15;Henderson;Las Vegas;NV;3597636444;-1151327708
+L17;Taft-Kern County;Taft;CA;3514107806;-1194412294
+L18;Fallbrook Community Airpark;Fallbrook;CA;3335419806;-1172508686
+L19;Wasco-Kern County;Wasco;CA;3561967889;-1193537242
+L26;Hesperia;Hesperia;CA;3437722333;-1173158783
+L31;Greater St. Tammany Parish;Covington;LA;3044505417;-8998887889
+L35;Big Bear City;Big Bear;CA;3426361944;-116854475
+L38;Louisiana Regional;Gonzales;LA;3017135306;-9094039583
+L39;Leesville;Leesville;LA;3116819444;-9334245833
+L42;Allen Parish;Oakdale;LA;3075016667;-9268847222
+L45;Bakersfield Municipal;Bakersfield;CA;3532483333;-1189958333
+L49;South Lafourche;Galliano;LA;2944482222;-9026111667
+L52;Oceano County;Oceano;CA;3510136472;-1206221153
+L67;Rialto Municipal;Rialto;CA;3412934361;-1174016303
+L70;Agua Dulce Airpark;Agua Dulce;CA;3450415889;-1183128561
+L71;California City Municipal;California City;CA;3515125306;-1180166667
+L72;Trona;Trona;CA;3581245333;-1173272783
+L75;Southland;Sulphur;LA;3013138889;-9337611111
+L83;Thibodaux Municipal;Thibodaux;LA;2974779194;-9083289889
+L84;Lost Hills-Kern County;Lost Hills;CA;3562357083;-1196862383
+L92;Alamo Landing;Alamo;NV;3736246083;-1151944622
+LAA;Lamar Muni;Lamar;CO;3806969444;-1026885
+LAF;Purdue University;Lafayette;IN;4041231694;-8693689889
+LAL;Lakeland Linder Regional;Lakeland;FL;2798891667;-8201855556
+LAM;Los Alamos;Los Alamos;NM;3587980194;-1062694153
+LAN;Capital City;Lansing;MI;427787;-8458735806
+LAR;Laramie Regional;Laramie;WY;4131205;-1056749864
+LAS;McCarran International;Las Vegas;NV;3608036111;-1151523333
+LAW;Lawton-Ft Sill Regional;Lawton;OK;3456771444;-9841663667
+LAX;Los Angeles International;Los Angeles;CA;3394253611;-1184080744
+LBB;Lubbock International;Lubbock;TX;3366363889;-1018227778
+LBE;Arnold Palmer Regional;Latrobe;PA;4027594;-7940479722
+LBF;North Platte Regional;North Platte;NE;4112621194;-1006836542
+LBL;Liberal Municipal;Liberal;KS;3704420944;-1009598611
+LBO;Floyd W Jones Lebanon;Lebanon;MO;3764718056;-9265375778
+LBT;Lumberton Municipal;Lumberton;NC;3460991667;-7905944444
+LBX;Brazoria County;Angleton;TX;2910863889;-9546208056
+LCG;Wayne Municipal;Wayne;NE;4224188889;-9698141667
+LCH;Lake Charles Regional;Lake Charles;LA;301260975;-9322340361
+LCI;Laconia Municipal;Laconia;NH;4357272806;-7141890028
+LCK;Rickenbacker International;Columbus;OH;3981375917;-8292786472
+LCQ;Lake City Municipal;Lake City;FL;3018205556;-8257686111
+LDJ;Linden;Linden;NJ;4061744722;-7424459417
+LDM;Mason County;Ludington;MI;4396253278;-8640791528
+LEB;Lebanon Municipal;Lebanon;NH;4362637222;-7230426722
+LEE;Leesburg Regional;Leesburg;FL;2882274417;-8180900722
+LEM;Lemmon Municipal;Lemmon;SD;4591869722;-1021061778
+LEW;Auburn-Lewiston Municipal;Auburn-Lewiston;ME;4404847278;-702835075
+LEX;Blue Grass;Lexington;KY;3803697222;-8460538889
+LFK;Lufkin-Angelina County;Lufkin;TX;3123401389;-9475
+LFT;Lafayette Regional;Lafayette;LA;3020527972;-91987655
+LGA;LaGuardia;New York;NY;4077724306;-7387260917
+LGB;Long Beach (Daugherty );Long Beach;CA;3381772222;-1181516111
+LGC;LaGrange-Callaway;Lagrange;GA;3300884694;-8507260556
+LGD;La Grande/Union County;La Grande;OR;4529020944;-1180071108
+LGU;Logan-Cache;Logan;UT;4178773083;-1118526822
+LHD;Lake Hood SPB;Anchorage;AK;6118000361;-1499719322
+LHM;Lincoln Regional;Lincoln;CA;3890916111;-1213513361
+LHQ;Fairfield County;Lancaster;OH;3975564722;-8265711
+LHV;Wm T Piper Memorial;Lock Haven;PA;4113618028;-7742053556
+LHX;La Junta Muni;La Junta;CO;3805134111;-1035106908
+LHZ;Franklin County;Louisburg;NC;3602334528;-7833027139
+LIC;Limon Municipal;Limon;CO;39272765;-1036663392
+LIH;Lihue;Lihue;HI;2197598306;-1593389581
+LIT;Adams;Little Rock;AR;3472939611;-9222424556
+LJF;Litchfield Municipal;Litchfield;MN;4509712889;-9450726833
+LKP;Lake Placid;Lake Placid;NY;4426447361;-7396186639
+LKR;Lancaster County;Lancaster;SC;3472291667;-8085458333
+LKU;Louisa County / Freeman;Louisa;VA;3800983333;-7797013889
+LKV;Lake County;Lakeview;OR;4216111111;-1203990703
+LLJ;Challis;Challis;ID;4452297806;-1142175642
+LLQ;Monticello Municipal;Monticello;AR;336385525;-9175101833
+LLU;Lamar Municipal;Lamar;MO;374894925;-9431150444
+LMS;Louisville-Winston County;Louisville;MS;3314620944;-8906247917
+LMT;Klamath Falls International;Klamath Falls;OR;4215614361;-1217332081
+LNA;Palm Beach County Park;Lantana;FL;26593;-8008505556
+LNC;Lancaster;Lancaster;TX;3257919111;-9671905111
+LND;Hunt;Lander;WY;4281523611;-1087298392
+LNK;Lincoln Municipal;Lincoln;NE;4085097222;-9675925
+LNL;Kings Land O' Lakes;Land O' Lakes;WI;4615387722;-8921194417
+LNN;Lost Nation;Willoughby;OH;4168391667;-8139030556
+LNP;Lonesome Pine;Wise;VA;3698743194;-8253017361
+LNS;Lancaster;Lancaster;PA;4012171528;-7629609778
+LNY;Lanai;Lanai City;HI;2078561111;-1569514181
+LOL;Derby;Lovelock;NV;40066405;-1185651664
+LOT;Lewis University;Chicago/Romeoville;IL;4160844444;-8809094444
+LOU;Bowman;Louisville;KY;38228;-8566372222
+LOZ;London-Corbin  Magee;London;KY;3708727778;-8407677778
+LPC;Lompoc;Lompoc;CA;3466561028;-1204667883
+LPR;Lorain Co Regional;Lorain/Elyria;OH;4134427778;-8217763889
+LQK;Pickens County;Pickens;SC;3480997222;-8270288889
+LQR;Larned-Pawnee County;Larned;KS;3820809667;-9908607306
+LRD;Laredo International;Laredo;TX;2754373861;-9946154361
+LRG;Lincoln Regional;Lincoln;ME;4536216083;-6853474694
+LRJ;Le Mars Municipal;Le Mars;IA;4277801778;-9619368944
+LRU;Las Cruces International;Las Cruces;NM;3228941667;-1069219722
+LSB;Lordsburg Municipal;Lordsburg;NM;3233278083;-1086909742
+LSE;La Crosse Municipal;La Crosse;WI;4387937972;-9125653778
+LSK;Lusk Muni;Lusk;WY;4275380806;-1044045536
+LSN;Los Banos Municipal;Los Banos;CA;3706290556;-1208692511
+LUG;Ellington;Lewisburg;TN;35506975;-8680388611
+LUK;Cincinnati Muni-Lunken;Cincinnati;OH;3910334417;-8441861417
+LUL;Hesler-Noble;Laurel;MS;3167255139;-8917222417
+LUP;Kalaupapa;Kalaupapa;HI;2121104028;-1569735972
+LVJ;Clover;Houston;TX;2952130556;-9524216667
+LVK;Livermore Municipal;Livermore;CA;3769339944;-1218203519
+LVM;Mission;Livingston;MT;4569938889;-1104483056
+LVN;Airlake;Minneapolis;MN;4462785361;-9322810806
+LVS;Las Vegas Municipal;Las Vegas;NM;3565422222;-1051423889
+LWB;Greenbrier Valley;Lewisburg;WV;3785830556;-8039947222
+LWC;Lawrence Municipal;Lawrence;KS;3901115222;-9521657694
+LWD;Lamoni Municipal;Lamoni;IA;4063333306;-9390217028
+LWL;Wells Municipal/Harriet;Wells;NV;4111853306;-1149222661
+LWM;Lawrence Municipal;Lawrence;MA;4271720944;-7112343
+LWS;Lewiston-Nez Perce County;Lewiston;ID;4637449806;-1170153944
+LWT;Lewistown Muni;Lewistown;MT;4704913944;-1094666006
+LWV;Lawrenceville-Vincennes Municipal;Lawrenceville;IL;3876429639;-8760549556
+LXL;Little Falls - Morrison County;Little Falls;MN;4594943778;-9434708472
+LXN;Lexington (Jim Kelly );Lexington;NE;40791;-9977727778
+LXT;Lee's Summit Municipal;Lee's Summit;MO;3895975;-9437158333
+LXV;Lake County;Leadville;CO;392202675;-1063166906
+LXY;Mexia-Limestone County;Mexia;TX;3163983472;-9651472222
+LYH;Lynchburg Municipal-Preston Glenn;Lynchburg;VA;3732668528;-7920043056
+LYO;Lyons-Rice County Municipal;Lyons;KS;3834261472;-9822709639
+LZU;Gwinnett County;Lawrenceville;GA;3397807611;-8396237722
+M01;General Dewitt Spain;Memphis;TN;3520069278;-9005397694
+M02;Dickson Municipal;Dickson;TN;3612931722;-8743007056
+M03;Dennis F Cantrell;Conway;AR;3508080778;-9242496167
+M04;Covington Municipal;Covington;TN;35583365;-8958722167
+M05;Caruthersville Memorial;Caruthersville;MO;3617506917;-8967508
+M08;William L. Whitehurst;Bolivar;TN;3521445944;-8904336222
+M09;Piedmont Municipal;Piedmont;MO;3712671694;-907128975
+M11;Copiah County;Crystal Springs;MS;3190293639;-9036870222
+M13;Poplarville-Pearl River County;Poplarville;MS;3078602056;-8950450694
+M15;Perry County;Linden;TN;3559590306;-8787669361
+M16;John Bell Williams;Raymond;MS;3230334111;-9040848333
+M17;Bolivar Municipal;Bolivar;MO;3759693194;-9334765
+M18;Hope Municipal;Hope;AR;3372008889;-9365884556
+M19;Newport Municipal;Newport;AR;3563771778;-9117637556
+M21;Muhlenberg County;Greenville;KY;3722561111;-8715752778
+M22;Russellville Municipal;Russellville;AL;3444953972;-8771030833
+M23;James H. Easom;Newton;MS;3231181111;-8913589194
+M24;Dean Griffin Memorial;Wiggins;MS;3084324389;-8915977333
+M25;Mayfield-Graves County;Mayfield;KY;3676911111;-8858472222
+M27;Waldron Municipal;Waldron;AR;3487509944;-9410993056
+M29;Hassel;Clifton;TN;3538507528;-8796752833
+M30;Metropolis Municipal;Metropolis;IL;3718588722;-8875061
+M32;Lake Village Municipal;Lake Village;AR;333459775;-9131569833
+M33;Sumner County Regional;Gallatin;TN;3637684472;-8640875861
+M34;Kentucky Dam State Park;Gilbertsville;KY;3700950028;-8829586639
+M36;Frank Federer Memorial;Brinkley;AR;3488000194;-911764375
+M37;Ruleville-Drew;Drew;MS;3377639167;-9052500833
+M39;Mena Intermountain Municipal;Mena;AR;3454539444;-9420265278
+M40;Monroe County;Aberdeen-Amory;MS;3387374861;-8848967833
+M41;Holly Springs-Marshall County;Holly Springs;MS;3480434611;-895211075
+M43;Prentiss-Jefferson Davis County;Prentiss;MS;3159544583;-8990619056
+M44;Houston Municipal;Houston;MS;3389177944;-8902367194
+M46;Colstrip;Colstrip;MT;4585285;-1067092722
+M48;Houston Memorial;Houston;MO;3733009167;-9197316944
+M52;Franklin-Wilkins;Lexington;TN;3565131944;-8837893444
+M53;Humboldt Municipal;Humboldt;TN;3580218;-8887494944
+M54;Lebanon Municipal;Lebanon;TN;3619041667;-8631569444
+M58;Monett Municipal;Monett;MO;3690621528;-9401275833
+M59;Richton-Perry County;Richton;MS;3131739944;-8893504778
+M60;Woodruff County;Augusta;AR;3527175278;-9127040417
+M65;Wynne Municipal;Wynne;AR;3523160167;-9076155111
+M70;Pocahontas Municipal;Pocahontas;AR;3624551111;-9095520444
+M72;New Albany-Union County;New Albany;MS;3454722222;-8902416667
+M73;Almyra Municipal;Almyra;AR;3441232833;-9146634722
+M75;Malta;Malta;MT;4836694167;-1079193444
+M76;Picayune Municipal;Picayune;MS;3048748472;-8965119306
+M77;Howard County;Nashville;AR;3399673833;-9383813583
+M78;Malvern Municipal;Malvern;AR;3433331583;-9276149944
+M79;John H Hooks Jr Memorial;Rayville;LA;3248633611;-9177087528
+M82;Madison County Executive;Huntsville;AL;3485645028;-8655621472
+M83;McCharen;West Point;MS;3358403556;-8866668694
+M89;Dexter B. Florence Memorial;Arkadelphia;AR;3409984639;-9306611694
+M91;Springfield-Robertson County;Springfield;TN;3653726194;-8692068917
+M95;Richard Arthur;Fayette;AL;3371221972;-8781504639
+M97;Tunica Municipal;Tunica;MS;3469232306;-9035065389
+M99;Saline County/Watts;Benton;AR;3455656472;-9260693972
+MAC;Herbert Smart Downtown;Macon;GA;3282213889;-8356202778
+MAE;Madera Municipal;Madera;CA;369857175;-1201119844
+MAF;Midland International;Midland;TX;3194252778;-1022019139
+MAI;Marianna Municipal;Marianna;FL;3083780556;-8518188889
+MAL;Malone-Dufort;Malone;NY;4485365722;-7432894972
+MAO;Marion County;Marion;SC;3418116667;-7933472222
+MAW;Malden Municipal;Malden;MO;3660055694;-8999220278
+MAZ;Eugenio Maria De Hostos;Mayaguez;PR;1825569444;-6714847222
+MBG;Mobridge Municipal;Mobridge;SD;4554650361;-1004079192
+MBL;Manistee County Blacker;Manistee;MI;4427319722;-862490025
+MBO;Bruce Campbell;Madison;MS;3243866444;-9010309222
+MBS;Mbs International;Saginaw;MI;4353291472;-8407964722
+MBT;Murfreesboro Municipal;Murfreesboro;TN;3587748444;-8637753222
+MBY;Omar N Bradley;Moberly;MO;3946392583;-9242759778
+MCB;McComb-Pike County;McComb;MS;3117845444;-9047187528
+MCD;Mackinac Island;Mackinac Island;MI;4586493444;-8463734444
+MCE;Merced Municipal/MacReady;Merced;CA;3728472861;-1205138858
+MCG;McGrath;McGrath;AK;6295287361;-1556057625
+MCI;Kansas City International;Kansas City;MO;3929760528;-9471390556
+MCK;McCook Municipal;McCook;NE;4020638889;-1005918056
+MCN;Middle Georgia Regional;Macon;GA;3269284944;-8364921083
+MCO;Orlando International;Orlando;FL;2842888889;-8131602778
+MCW;Mason City Municipal;Mason City;IA;431577925;-9333126056
+MCX;White County;Monticello;IN;4070881639;-8676676139
+MCZ;Martin County;Williamston;NC;3586219306;-7717820278
+MDD;Midland Airpark;Midland;TX;3203652444;-1021010278
+MDF;Mooreland Municipal;Mooreland;OK;3648475778;-9919415778
+MDH;Southern Illinois;Carbondale;IL;3777809583;-8925203111
+MDR;Medfra;Medfra;AK;6310577694;-1547189806
+MDS;Madison Municipal;Madison;SD;4401597222;-9708593333
+MDT;Harrisburg Intl;Harrisburg;PA;4019349528;-7676340361
+MDW;Chicago Midway;Chicago;IL;417859825;-8775242444
+MDZ;Taylor County;Medford;WI;4510097556;-9030341
+MEB;Laurinburg-Maxton;Maxton;NC;3479193917;-7936584778
+MEI;Key;Meridian;MS;3233313333;-8875120556
+MEJ;Meade Municipal;Meade;KS;3727938889;-1003563056
+MEM;Memphis International;Memphis;TN;3504241667;-8997666667
+MER;Castle;Atwater;CA;3738048056;-1205681889
+MEV;Minden-Tahoe;Minden;NV;3900030889;-1197508064
+MEY;Mapleton Municipal;Mapleton;IA;42178295;-9579364528
+MFD;Mansfield Lahm Municipal;Mansfield;OH;4082141667;-8251663889
+MFE;McAllen Miller International;McAllen;TX;2617583333;-9823861111
+MFI;Marshfield Municipal;Marshfield;WI;4463687972;-9018932667
+MFR;Rogue Valley International;Medford;OR;4237422778;-1228734978
+MFV;Accomack County;Melfa;VA;3764688889;-7576105556
+MGC;Michigan City Municipal;Michigan City;IN;4170331694;-8682124167
+MGJ;Orange Cty;Montgomery;NY;4150998278;-7426465056
+MGM;Montgomery Regional Apt;Montgomery;AL;3230064417;-8639397611
+MGR;Moultrie Municipal;Moultrie;GA;3108490917;-8380325528
+MGW;Morgantown Muni-Walter L. Bill Hart Fld.;Morgantown;WV;396429075;-7991631417
+MGY;Dayton Wright Brothers;Dayton;OH;3958897222;-8422486111
+MHE;Mitchell Municipal;Mitchell;SD;4377483333;-9803861111
+MHK;Manhattan Regional;Manhattan;KS;3914096722;-9667083278
+MHL;Marshall Memorial Municipal;Marshall;MO;3909575472;-9320287889
+MHM;Minchumina;Minchumina;AK;63880565;-1523006756
+MHP;Metter Municipal;Metter;GA;3237388889;-8207919444
+MHR;Sacramento Mather;Sacramento;CA;3855389694;-1212975908
+MHT;Manchester;Manchester;NH;4293451639;-7143705583
+MHV;Mojave;Mojave;CA;3505936472;-1181518561
+MIA;Miami International;Miami;FL;2579325;-8029055556
+MIB;Minot AFB;NA;NA;48415769;-101358039
+MIC;Crystal;Minneapolis;MN;4506198611;-933539375
+MIE;Delaware County;Muncie;IN;4024234806;-8539586
+MIO;Miami Municipal;Miami;OK;3690922083;-9488750028
+MIT;Shafter-Minter;Shafter;CA;3550592944;-1191915236
+MIV;Millville Muni;Millville;NJ;3936780556;-7507222222
+MIW;Marshalltown Municipal;Marshalltown;IA;4211272639;-9291778778
+MJQ;Jackson Municipal;Jackson;MN;4365004111;-9498654611
+MJX;Robert J. Miller Airpark;Toms River;NJ;3992749806;-7429237917
+MKA;Miller Municipal;Miller;SD;4452524444;-9895811444
+MKC;Downtown;Kansas City;MO;3912324111;-94592735
+MKE;General Mitchell International;Milwaukee;WI;4294722222;-8789658333
+MKG;Muskegon County;Muskegon;MI;4316948806;-8623822306
+MKJ;Mountain Empire;Marion;VA;368948525;-81349955
+MKK;Molokai;Kaunakakai;HI;2115288583;-1570962561
+MKL;McKellar-Sipes Regional;Jackson;TN;3559987944;-8891561611
+MKO;Davis;Muskogee;OK;3565773028;-9536164889
+MKT;Mankato Regional;Mankato;MN;4422164528;-9391874333
+MKV;Marksville Municipal;Marksville;LA;3109466;-9206906861
+MKY;Marco Island;Marco Island;FL;2599502778;-8167252778
+MLB;Melbourne International;Melbourne;FL;2810275;-8064580556
+MLC;McAlester Regional;McAlester;OK;3488240194;-9578346278
+MLE;Millard;Omaha;NE;41196;-9611227778
+MLF;Milford Municipal;Milford;UT;384266325;-1130124564
+MLI;Quad City;Moline;IL;4144852639;-9050753917
+MLJ;Baldwin County;Milledgeville;GA;3315419444;-8324061111
+MLL;Marshall;Marshall;AK;618659225;-1620690456
+MLS;Frank Wiley;Miles City;MT;4642795972;-1058862397
+MLT;Millinocket Municipal;Millinocket;ME;4564783611;-6868556194
+MLU;Monroe Regional;Monroe;LA;3251086556;-9203768778
+MLY;Manley Hot Springs;Manley Hot Springs;AK;6499756472;-1506441297
+MMH;Mammoth Yosemite;Mammoth Lakes;CA;3762404861;-1188377722
+MMI;McMinn County;Athens;TN;3539730333;-8456256861
+MMK;Meriden-Markham Municipal;Meriden;CT;4150871472;-7282947833
+MML;Marshall Muni - Ryan;Marshall;MN;4445006611;-9582234028
+MMU;Morristown Municipal;Morristown;NJ;4079935;-7441487472
+MMV;McMinnville Muni;McMinnville;OR;4519444444;-1231359444
+MNF;Mountain View;Mountain View;MO;3699282694;-9171445611
+MNI;Clarendon County;Manning;SC;3358711111;-8020866667
+MNM;Menominee-Marinette Twin County;Menominee;MI;4512665028;-8763844056
+MNN;Marion Municipal;Marion;OH;4061625;-8306347222
+MNV;Monroe County;Madisonville;TN;3554537222;-84380235
+MNZ;Hamilton Municipal;Hamilton;TX;3166592639;-981486375
+MO6;Washington Memorial;Washington;MO;3859163472;-9099761444
+MO85;Lawrence Smith Memorial;Harrisonville;MO;3861102222;-9434213056
+MOB;Mobile Regional;Mobile;AL;3069141667;-8824283333
+MOD;Modesto City-County-Harry Sham;Modesto;CA;3762581722;-1209544214
+MOP;Mount Pleasant Municipal;Mount Pleasant;MI;4362166833;-84737485
+MOR;Moore-Murrell;Morristown;TN;3617939639;-8337544944
+MOT;Minot International;Minot;ND;4825937778;-1012803339
+MOU;Mountain Village;Mountain Village;AK;6209536222;-1636820594
+MOX;Morris Municipal;Morris;MN;4556651667;-9596763611
+MPE;Philadelphia Municipal;Philadelphia;MS;327995775;-8912589472
+MPJ;Petit Jean Park;Morrilton;AR;3513886306;-9290919694
+MPO;Pocono Mountains Muni;Mount Pocono;PA;411374775;-7537887833
+MPR;McPherson;McPherson;KS;3835243722;-9769133028
+MPV;Edward F Knapp State;Barre-Montpelier;VT;44203505;-7256232944
+MPZ;Mount Pleasant Municipal;Mount Pleasant;IA;4094661389;-91511075
+MQB;Macomb Municipal;Macomb;IL;4052034556;-9065246389
+MQI;Dare County Regional;Manteo;NC;3591898806;-7569553944
+MQJ;Mount Comfort;Indianapolis;IN;3984348556;-8589706389
+MQT;Marquette County Airport;NA;NA;46353639;-87395361
+MQW;Telfair-Wheeler;McRae;GA;3209577778;-8288002778
+MQY;Smyrna;Smyrna;TN;3600897944;-8652007667
+MRB;Eastern Wv Reg/Shephard;Martinsburg;WV;3940193278;-7798458139
+MRC;Maury County;Columbia-Mt Pleasant;TN;3555413889;-8717891667
+MRF;Marfa Municipal;Marfa;TX;3037147222;-1040166944
+MRH;Michael J. Smith;Beaufort;NC;3473355028;-7666059611
+MRI;Merrill;Anchorage;AK;6121437861;-1498461614
+MRJ;Iowa County;Mineral Point;WI;4288532917;-9023198583
+MRN;Morganton-Lenoir;Morganton;NC;3582149222;-8161073639
+MRY;Monterey Peninsula;Monterey;CA;365869825;-1218429478
+MSA;Mount Pleasant Municipal;Mount Pleasant;TX;3312936111;-9497563889
+MSL;Northwest Alabama Regional;Muscle Shoals;AL;3474532028;-8761023222
+MSN;Dane County Regional;Madison;WI;4313985778;-8933751361
+MSO;Missoula International;Missoula;MT;4691630556;-1140905556
+MSP;Minneapolis-St Paul Intl;Minneapolis;MN;4488054694;-932169225
+MSS;Massena Int'l-Richards;Massena;NY;4493582722;-7484554583
+MSV;Sullivan Cty Intl;Monticello;NY;4170164917;-7479501389
+MSY;New Orleans International;New Orleans;LA;2999338889;-9025802778
+MTH;Florida Keys Marathon;Marathon;FL;2472614083;-8105137806
+MTJ;Montrose Regional;Montrose;CO;3850886722;-1078938333
+MTM;Metlakatla SPB;Metlakatla;AK;5513104528;-1315780675
+MTN;Martin State;Baltimore;MD;3932566333;-7641376556
+MTO;Coles County Memorial;Mattoon-Charleston;IL;3947793722;-8827923833
+MTP;Montauk;Montauk;NY;4107694333;-7192039972
+MTV;Blue Ridge;Martinsville;VA;3663074861;-8001834917
+MTW;Manitowoc County;Manitowoc;WI;441287725;-8768058472
+MUE;Waimea-Kohala;Kamuela;HI;2000132694;-1556681072
+MUT;Muscatine Municipal;Muscatine;IA;4136786333;-9114821639
+MVC;Monroe County;Monroeville;AL;3145805306;-8735104028
+MVE;Montevideo-Chippewa County;Montevideo;MN;4496905556;-9571025
+MVI;Monte Vista Muni;Monte Vista;CO;3752855833;-1060460533
+MVL;Morrisville-Stowe State;Morrisville;VT;4453460806;-7261400444
+MVM;Machias Valley;Machias;ME;4470311111;-6747861111
+MVN;Mt Vernon-Outland;Mt. Vernon;IL;3832335444;-8885847917
+MVY;Marthas Vineyard;Marthas Vineyard;MA;4139302583;-706143325
+MWA;Williamson County;Marion;IL;3775313528;-8901159694
+MWC;Lawrence J Timmerman;Milwaukee;WI;4311092694;-8803442194
+MWH;Grant County;Moses Lake;WA;4720770806;-1193201897
+MWK;Mount Airy-Surry County;Mount Airy;NC;36459735;-8055295722
+MWL;Mineral Wells Municipal;Mineral Wells;TX;3278160556;-98060175
+MWM;Windom Municipal;Windom;MN;4391340167;-9510940833
+MWO;Hook Field Municipal;Middletown;OH;3953102778;-8439527778
+MXA;Manila Municipal;Manila;AR;3589444444;-9015456944
+MXO;Monticello Municipal;Monticello;IA;4222611111;-9116708333
+MYF;Montgomery;San Diego;CA;3281573306;-1171395664
+MYK;May Creek;May Creek;AK;6133567417;-142686775
+MYL;McCall;McCall;ID;4488879556;-1161017497
+MYR;Myrtle Beach International;Myrtle Beach;SC;3367975;-7892833333
+MYU;Mekoryuk;Mekoryuk;AK;6037142;-1662706083
+MYV;Yuba County;Marysville;CA;3909777278;-121569825
+MYZ;Marysville Municipal;Marysville;KS;3985416833;-9663021389
+MZJ;Pinal Airpark;Marana;AZ;3250984389;-1113253339
+MZZ;Marion Municipal;Marion;IN;4049037278;-8567914389
+N00;Maben;Lexington;NY;4227230778;-7439403667
+N03;Cortland Cty-Chase;Cortland;NY;4259264528;-762148825
+N04;Griswold;Madison;CT;4127118222;-7254972972
+N07;Lincoln Park;Lincoln Park;NJ;4094752444;-7431450139
+N10;Perkiomen Valley;Collegeville;PA;4020404833;-7543026306
+N12;Lakewood;Lakewood;NJ;400667825;-7417764167
+N13;Bloomsburg Muni;Bloomsburg;PA;4099778111;-7643605583
+N14;Flying W;Lumbrerton;NJ;3993427778;-7480725
+N23;Sidney Muni;Sidney;NY;4230258;-7541595639
+N24;Questa Municipal Nr 2;Questa;NM;3680030556;-1055975
+N25;Westport;Westport, NY;NY;4415838611;-7343290444
+N27;Bradford County;Towanda;PA;4174324028;-7644457083
+N29;Magdalena;Magdalena;NM;3409450778;-1072978142
+N30;Cherry Ridge;Honesdale;PA;4151533861;-7525148139
+N35;Punxsutawney Muni;Punxsutawney;PA;4096667472;-7893000528
+N37;Monticello;Monticello;NY;4162249167;-7470141111
+N38;Grand Canyon State;Wellsboro;PA;4172790028;-7739651139
+N40;Sky Manor;Pittstown;NJ;4056626889;-7497864139
+N47;Pottstown Muni;Pottstown;PA;4026040083;-7567085306
+N51;Solberg-Hunterdon;Readington;NJ;4058286278;-7473656222
+N53;Stroudsburg-Pocono;East Stroudsburg;PA;4103587167;-7516067889
+N57;New Garden Flying;Toughkenamon;PA;3983052639;-7576974472
+N66;Oneonta Muni;Oneonta;NY;4252476694;-7506446167
+N67;Wings;Ambler;PA;4013647333;-7526702972
+N68;Chambersburg Muni;Chambersburg;PA;3997295167;-7764326778
+N69;Stormville;Stormville;NY;4157698222;-7373235278
+N72;Warwick Muni;Warwick;NY;4128759361;-7428709472
+N73;Red Lion;Vincentown;NJ;3990415167;-7474954917
+N79;Northumberland Cty;Shamokin;PA;4083692306;-7655245611
+N81;Hammonton Muni;Hammonton;NJ;3966746889;-7475773444
+N82;Wurtsboro-Sullivan Cty;Wurtsboro;NY;4159720444;-7445840722
+N85;Alexandria;Pittstown;NJ;4058757389;-7501942056
+N87;Trenton-Robbinsville;Robbinsville;NJ;4021394333;-7460179472
+N89;Joseph Y. Resnick;Ellenville;NY;4172787111;-7437737583
+N93;New Golovin;Golovin;AK;6455305556;-1630088889
+N99;Brandywine;West Chester;PA;3999472222;-7558333333
+NC14;Rockingham County NC Shiloh;Reidsville;NC;3643722083;-7985101
+NC67;Ashe County;West Jefferson;NC;3643243111;-8141968472
+ND06;Cavalier Municipal;Cavalier;ND;4878388139;-9762981028
+ND12;Ellendale Municipal;Ellendale;ND;4601247194;-9851287889
+ND17;Harvey Municipal;Harvey;ND;4779123306;-9993174222
+ND26;Kenmare Municipal;Kenmare;ND;4866758278;-1020475944
+ND28;Lakota Municipal;Lakota;ND;480313875;-9832788111
+ND29;La Moure Rott Municipal;La Moure (New Site);ND;4634663556;-9828371
+ND33;Linton Municipal;Linton;ND;4621830472;-1002450028
+ND44;Mott Municipal;Mott;ND;46359725;-1023229389
+ND66;Washburn Municipal;Washburn;ND;4735305;-1010273681
+NEW;Lakefront;New Orleans;LA;3004242056;-9002825694
+NH12;Plymouth Municipal;Plymouth;NH;4377923806;-7175369056
+NK03;Kamp;Durhamville;NY;4313472111;-7564890417
+NQA;Millington Municipal;Millington;TN;3535666667;-8987027778
+NRN;Norton Municipal;Norton;KS;3984914444;-9989320583
+NUL;Nulato;Nulato;AK;6472981944;-1580731889
+NVD;Nevada Municipal;Nevada;MO;3785206528;-9430486472
+NY0;Fulton Cty;Johnstown;NY;4299821222;-7432955111
+O02;Nervino;Beckwourth;CA;3982073556;-1203543767
+O05;Rogers;Chester;CA;4028235278;-1212411683
+O08;Colusa County;Colusa;CA;3917903;-1219933611
+O09;Round Valley;Covelo;CA;3979015444;-1232664025
+O11;Cherokee Nation;Stilwell;OK;3575703083;-9464994417
+O15;Turlock Municipal;Turlock;CA;3748743556;-1206968669
+O16;Garberville;Garberville;CA;4008597806;-1238136397
+O17;Nevada County  Air Park;Grass Valley;CA;3922402778;-1210030833
+O19;Kneeland;Eureka;CA;407193;-1239275531
+O21;Hoopa;Hoopa;CA;4104290778;-1236683894
+O22;Columbia;Columbia;CA;3803042306;-1204145556
+O24;Lee Vining;Lee Vining;CA;3795825861;-1191065375
+O26;Lone Pine;Lone Pine;CA;3658826667;-1180520314
+O27;Oakdale;Oakdale;CA;3775634472;-1208002089
+O28;Ells Field-Willits Municipal;Willits;CA;3945129778;-1233722844
+O31;Healdsburg Municipal;Healdsburg;CA;3865352083;-1228994397
+O32;Reedley Municipal;Reedley;CA;3666633917;-1194498483
+O35;Hollis Municipal;Hollis;OK;3470839417;-9990871194
+O37;Haigh;Orland;CA;3972124194;-1221466508
+O41;Watts-Woodland;Woodland;CA;3867387639;-1218720772
+O42;Woodlake;Woodlake;CA;3639883833;-1191073289
+O43;Yerington Municipal;Yerington;NV;3900408444;-1191579303
+O45;Hooker Municipal;Hooker;OK;3685708306;-1012270903
+O46;Weed;Weed;CA;4147487;-1224530739
+O47;Prague Municipal;Prague;OK;3548201417;-9671862944
+O48;Little River;Little River;CA;3926203778;-1237537347
+O52;Sutter County;Yuba City;CA;3912655889;-1216091328
+O53;Medford Municipal;Medford;OK;3679058417;-9774899722
+O54;Lonnie Pool /Weaverville;Weaverville;CA;407457;-12292197
+O57;Bryant;Bridgeport;CA;3826241917;-1192257094
+O59;Cedarville;Cedarville;CA;4155267139;-1201663339
+O60;Cloverdale Municipal;Cloverdale;CA;387743525;-1229922217
+O61;Cameron Airpark;Cameron Park;CA;3868407028;-1209871642
+O65;Okeene Municipal;Okeene;OK;3611253667;-983086825
+O68;Mariposa-Yosemite;Mariposa;CA;3751077;-1200418439
+O69;Petaluma Municipal;Petaluma;CA;382578325;-1226055406
+O70;Westover Field Amador County;Jackson;CA;3837680111;-1207939075
+O81;Tulelake Municipal;Tulelake;CA;4188738;-1213594331
+O85;Benton;Redding;CA;4057487278;-1224080642
+O86;Trinity Center;Trinity Center;CA;4098320111;-1226941889
+O88;Rio Vista Municipal;Rio Vista;CA;381935;-1217023889
+O89;Fall River Mills;Fall River Mills;CA;4101877417;-1214333136
+OAJ;Albert J Ellis;Jacksonville;NC;3482916444;-7761213778
+OAK;Metropolitan Oakland International;Oakland;CA;3772129083;-1222207167
+OAR;Marina Municipal;Marina;CA;3668190278;-1217624492
+OBE;Okeechobee County;Okeechobee;FL;2726282306;-8084978306
+OBU;Kobuk;Kobuk;AK;6690917056;-1568610575
+OCF;Ocala Regional/Jim Taylor;Ocala;FL;2917261111;-8222416667
+OCH;Nacogdoches-A.L. Mangham Jr. Regional;Nacogdoches;TX;3157802778;-9470954167
+OCQ;Oconto Municipal;Oconto;WI;448735825;-879090525
+OCW;Warren;Washington;NC;3557046806;-7704981306
+ODO;Odessa-Schlemeyer;Odessa;TX;3192056722;-1023870892
+ODX;Evelyn Sharp;Ord;NE;4162425;-9895236111
+OEB;Branch County Memorial;Coldwater;MI;4193344861;-85052585
+OEL;Oakley Municipal;Oakley;KS;3910994444;-1008164444
+OEO;L. O. Simenstad Municipal;Osceola;WI;4530858944;-9269008056
+OFK;Karl Stefan Memorial;Norfolk;NE;4198546389;-9743511111
+OFP;Hanover County Municipal;Richmond;VA;377080325;-7743601028
+OGA;Searle;Ogallala;NE;4111961111;-1017689444
+OGB;Orangeburg Municipal;Orangeburg;SC;3346094444;-8085891667
+OGD;Ogden-Hinckley;Ogden;UT;4119594417;-112012175
+OGG;Kahului;Kahului;HI;2089864972;-1564304578
+OGM;Ontonagon County;Ontonagon;MI;4684547028;-8936708806
+OGS;Ogdensburg Intl;Ogdensburg;NY;4468185361;-7546549917
+OH17;Henry County;Napoleon;OH;4137427778;-8406791667
+OH21;Huron County;Norwalk;OH;4124476583;-8255122722
+OH30;Put In Bay;Put In Bay;OH;4163674333;-8282833333
+OIC;Lt Warren Eaton;Norwich;NY;4256655417;-7552411167
+OIN;Oberlin Municipal;Oberlin;KS;3983378278;-1005394236
+OJC;Johnson County Executive;Olathe;KS;3884760194;-9473758583
+OKB;Oceanside Municipal;Oceanside;CA;3321797639;-1173515075
+OKC;Will Rogers World;Oklahoma City;OK;3539308833;-9760073389
+OKK;Kokomo Municipal;Kokomo;IN;405281775;-8605899
+OKM;Okmulgee Municipal;Okmulgee;OK;3566813889;-9594869444
+OKS;Garden County;Oshkosh;NE;4140097222;-1023550278
+OKV;Winchester Regional;Winchester;VA;3914352139;-7814444444
+OKZ;Kaolin;Sandersville;GA;3296672222;-8283816667
+OLD;Dewitt Field-Old Town Municipal;Old Town;ME;449525;-6867433333
+OLE;Olean Muni;Olean;NY;4224006611;-78371685
+OLF;L M Clayton;Wolf Point;MT;4809451778;-1055750536
+OLM;Olympia;Olympia;WA;469705;-1229022083
+OLS;Nogales International;Nogales;AZ;3141772222;-1108478889
+OLU;Columbus Municipal;Columbus;NE;41448;-9734263889
+OLV;Olive Branch;Olive Branch;MS;3497875;-8978683333
+OLY;Olney-Noble;Olney-Noble;IL;3872182722;-8817643278
+OLZ;Oelwein Municipal;Oelwein;IA;4268084472;-9197447833
+OMA;Eppley Airfield;Omaha;NE;4130251861;-9589417306
+OME;Nome;Nome;AK;6451220222;-1654452458
+OMH;Orange County;Orange;VA;3824721639;-7804561028
+OMK;Omak;Omak;WA;4846440222;-1195180503
+OMN;Ormond Beach Municipal;Ormond Beach;FL;2930113889;-8111380556
+ONA;Winona Muni-Max Conrad;Winona;MN;4407721306;-9170831694
+ONL;O Neill Municipal;O Neill;NE;4246988889;-9868805556
+ONM;Socorro Municipal;Socorro;NM;3402247222;-1069031389
+ONO;Ontario Muni;Ontario;OR;4402052417;-117013635
+ONP;Newport Muni;Newport;OR;4458036111;-1240579167
+ONT;Ontario International;Ontario;CA;34056;-1176011944
+ONY;Olney Municipal;Olney;TX;3335088056;-9881916667
+ONZ;Grosse Ile Municipal;Detroit - Grosse Ile;MI;4209860472;-8316105861
+OOA;Oskaloosa Municipal;Oskaloosa;IA;4122614944;-9249388278
+OOH;Hoonah SPB;Hoonah;AK;5811215944;-135451805
+OOK;Toksook Bay;Toksook Bay;AK;6053337639;-1651139636
+OPF;Opa-Locka;Miami;FL;25907;-8027838889
+OPL;St Landry Parish - Ahart;Opelousas;LA;3055840556;-92099375
+OPN;Thomaston-Upton County;Thomaston;GA;3295458861;-8426315222
+OQU;Quonset State;North Kingstown;RI;415971525;-7141215333
+OQW;Maquoketa Municipal;Maquoketa;IA;42050075;-9073880472
+OR33;Boardman;Boardman;OR;45814825;-1198205006
+ORB;Orr Regional;Orr;MN;4801592194;-9285605139
+ORC;Orange City Municipal;Orange City;IA;4299026444;-9606279667
+ORD;Chicago O'Hare International;Chicago;IL;41979595;-8790446417
+ORE;Orange Municipal;Orange;MA;4257011889;-7228860667
+ORF;Norfolk International;Norfolk;VA;3689461111;-7620122222
+ORG;Orange County;Orange;TX;3006916667;-9380091667
+ORH;Worcester Regional;Worcester;MA;4226733944;-7187570944
+ORI;Port Lions;Port Lions;AK;578853775;-1528461011
+ORL;Executive;Orlando;FL;2854547222;-8133294444
+ORS;Orcas Island;Eastsound;WA;4870816;-1229137961
+ORT;Northway;Northway;AK;6296133361;-1419291369
+ORV;Robert(Bob) Curtis Memorial;Noorvik;AK;6682852667;-1610277908
+OSC;Oscoda - Wurtsmith;Oscoda;MI;4445260972;-8338036389
+OSH;Wittman Regional;Oshkosh;WI;4398436639;-8855705944
+OSU;Ohio State University;Columbus;OH;4007977778;-8307302778
+OSX;Kosciusko-Attala County;Kosciusko;MS;3309025889;-8954201722
+OTG;Worthington Municipal;Worthington;MN;4365506611;-9557920917
+OTH;North Bend Muni;North Bend;OR;4341713889;-1242460278
+OTM;Ottumwa Industrial;Ottumwa;IA;4110659611;-9244793972
+OTZ;Ralph Wien Memorial;Kotzebue;AK;6688467694;-1625985497
+OUN;University of Oklahoma Westheimer;Norman;OK;3524556444;-9747212861
+OVE;Oroville Municipal;Oroville;CA;3948775;-121622
+OVO;North Vernon;North Vernon;IN;3904563667;-8560533
+OVS;Boscobel;Boscobel;WI;4316063056;-9067421833
+OWA;Owatonna Degner Regional;Owatonna;MN;4412339722;-9326061667
+OWB;Owensboro-Daviess County;Owensboro;KY;3774011111;-8716683333
+OWD;Norwood Memorial;Norwood;MA;4219079694;-7117310389
+OWI;Ottawa Municipal;Ottawa;KS;3853866667;-9525297222
+OWK;Central Maine;Norridgewock;ME;447155;-6986647222
+OWX;Putnam County;Ottawa;OH;410355825;-8398202444
+OXB;Ocean City;Ocean City;MD;3831044444;-7512397222
+OXC;Waterbury-Oxford;Oxford;CT;4147855556;-7313525
+OXD;Miami University;Oxford;OH;3950203917;-847841425
+OXI;Starke County;Knox;IN;413301875;-8666473194
+OXR;Oxnard;Oxnard;CA;3420080083;-1192072164
+OXV;Knoxville Municipal;Knoxville;IA;4129888556;-9311381556
+OYM;St Marys Muni;St Marys;PA;4141247778;-7850263139
+OZA;Ozona Municipal;Ozona;TX;3073528028;-1012029719
+OZW;Livingston County;Howell;MI;4262950694;-8398417361
+P01;Ajo Municipal;Ajo;AZ;3245005694;-1128673778
+P04;Bisbee Municipal;Bisbee;AZ;3136399028;-1098831286
+P08;Coolidge Municipal;Coolidge;AZ;3293594444;-1114265278
+P13;San Carlos Apache;Globe;AZ;3335314722;-1106673611
+P14;Holbrook Municipal;Holbrook;AZ;3493891389;-1101395656
+P20;Avi Suquilla;Parker;AZ;3415063889;-1142712222
+P32;H.A. Clark Memorial;Williams;AZ;3530223222;-1121940575
+P33;Cochise County;Willcox;AZ;3224540278;-1098946319
+P45;Mount Pleasant-Scottdale;Mount Pleasant;PA;4010840556;-7954142694
+P52;Cottonwood;Cottonwood;AZ;3473002111;-1120351569
+P53;Rostraver;Monongahela;PA;4020972222;-7983144444
+PAE;Snohomish County;Everett;WA;4790762861;-1222815892
+PAH;Barkley Regional;Paducah;KY;3706083333;-8877375
+PAK;Port Allen;Hanapepe;HI;2189686833;-1596033217
+PAN;Payson;Payson;AZ;3425683639;-1113392558
+PAO;Palo Alto Arpt of Santa Clara Co;Palo Alto;CA;3746111944;-1221150444
+PAQ;Palmer Municipal;Palmer;AK;6159474194;-1490888242
+PBF;Grider;Pine Bluff;AR;3417498722;-9193472028
+PBH;Price County;Phillips;WI;4570895028;-9040248472
+PBI;Palm Beach International;West Palm Beach;FL;2668316194;-8009559417
+PBV;St. George;St. George;AK;5657735278;-1696637361
+PCK;Porcupine Creek;Porcupine Creek;AK;6723789833;-1502860608
+PCM;Plant City Municipal;Plant City;FL;2800021667;-8216424167
+PCW;Carl R. Keller;Port Clinton;OH;4151627778;-8286869444
+PCZ;Waupaca Municipal;Waupaca;WI;4433368778;-8901549861
+PDC;Prairie Du Chien Municipal;Prairie Du Chien;WI;4301928889;-9112374722
+PDK;Dekalb-Peachtree;Atlanta;GA;3387560444;-8430196778
+PDT;Eastern Oregon Regional At Pendleton;Pendleton;OR;4569505556;-1188414444
+PDX;Portland Intl;Portland;OR;4558872222;-1225975
+PEA;Pella Municipal;Pella;IA;4140006667;-9294588333
+PEC;Pelican SPB;Pelican;AK;5795517222;-1362362733
+PEO;Penn Yan;Penn Yan;NY;4263813556;-7705306083
+PEQ;Pecos Municipal;Pecos City;TX;313823575;-1035107017
+PEZ;Pleasanton Municipal;Pleasanton;TX;2895419444;-9851998917
+PFN;Panama City-Bay County International;Panama City;FL;3021208333;-8568280556
+PGA;Page Municipal;Page;AZ;3692611111;-1114483611
+PGD;Charlotte County;Punta Gorda;FL;2692019444;-8199052778
+PGM;Port Graham;Port Graham;AK;5934825944;-1518315389
+PGR;Kirk;Paragould;AR;3606352944;-9050986028
+PGV;Pitt-Greenville;Greenville;NC;3563523944;-7738532028
+PHD;Harry Clever;New Philadelphia;OH;4047091667;-8141975
+PHF;Newport News/Williamsburg International;Newport News;VA;3713189556;-764929875
+PHG;Phillipsburg Municipal;Phillipsburg;KS;3973530556;-9931741667
+PHH;Andrews Municipal;Andrews;SC;3345169472;-7952620111
+PHK;Palm Beach County Glades;Pahokee;FL;2678503861;-8069335528
+PHL;Philadelphia Intl;Philadelphia;PA;3987195278;-7524114083
+PHN;St Clair County International;Port Huron;MI;4291095778;-8252886139
+PHO;Point Hope;Point Hope;AK;6834877417;-1667993086
+PHP;Philip;Philip;SD;4404862722;-1015990603
+PHT;Henry County;Paris;TN;3633822472;-8838287861
+PHX;Phoenix Sky Harbor International;Phoenix;AZ;3343416667;-1120080556
+PIA;Greater Peoria Regional;Peoria;IL;4066424333;-8969330556
+PIB;Hattiesburg-Laurel Regional;Hattiesburg-Laurel;MS;3146714944;-8933705778
+PIE;St. Petersburg-Clearwater International;St. Petersburg;FL;2791076333;-8268743944
+PIH;Pocatello Regional;Pocatello;ID;4291130556;-1125958611
+PIL;Port Isabel-Cameron County;Port Isabel;TX;2616621;-9734588611
+PIM;Callaway Gardens-Harris County;Pine Mountain;GA;3284069444;-8488244444
+PIR;Pierre Regional;Pierre;SD;4438267694;-100285965
+PIT;Pittsburgh International;Pittsburgh;PA;4049146583;-8023287083
+PIZ;Point Lay Dew Station;Point Lay;AK;69732875;-1630053417
+PJY;Pinckneyville-Duquoin;Pinckneyville-Duquoin;IL;3797788417;-8936044889
+PKA;Napaskiak;Napaskiak;AK;6070369056;-1617767367
+PKB;Wood Cty/Gill Robb Wilson;Parkersburg;WV;3934510333;-8143920194
+PKD;Park Rapids Municipal;Park Rapids;MN;4690062583;-9507313278
+PKF;Park Falls Municipal;Park Falls;WI;4595502361;-9042441806
+PLB;Clinton Cty;Plattsburgh;NY;4468751861;-7352452306
+PLD;Portland Municipal;Portland;IN;4045076167;-8499007917
+PLN;Pellston Regional  of Emmet County;Pellston;MI;455709275;-84796715
+PLR;St Clair County;Pell City;AL;3355883333;-8624905556
+PMB;Pembina Municipal;Pembina;ND;489425;-9724083333
+PMD;Palmdale Production Flight;Palmdale;CA;3462938889;-1180845528
+PMH;Greater Portsmouth Regional;Portsmouth;OH;3884047;-8284731361
+PMP;Pompano Beach Airpark;Pompano Beach;FL;2624713889;-8011105556
+PMV;Plattsmouth Municipal;Plattsmouth;NE;4095025;-9591788889
+PMX;Metropolitan;Palmer;MA;4222328722;-7231138694
+PMZ;Plymouth Municipal;Plymouth;NC;3580843944;-7675927694
+PNA;Ralph Wenz;Pinedale;WY;4279549917;-1098070944
+PNC;Ponca City Municipal;Ponca City;OK;3673058417;-9709976833
+PNE;Northeast Philadelphia;Philadelphia;PA;4008194417;-7501058667
+PNM;Princeton Municipal;Princeton;MN;4555986778;-9360821611
+PNN;Princeton Municipal;Princeton;ME;4520066667;-6756438889
+PNP;Pilot Point;Pilot Point;AK;5758038056;-1575674444
+PNS;Pensacola Regional;Pensacola;FL;3047330556;-8718744444
+POC;Brackett;La Verne;CA;3409164833;-1177817803
+POF;Poplar Bluff Municipal;Poplar Bluff;MO;3677394444;-9032484722
+POH;Pocahontas Municipal;Pocahontas;IA;4274280556;-9464730556
+POU;Dutchess Cty;Poughkeepsie;NY;4162661111;-7388411111
+POY;Powell Muni;Powell;WY;4486797222;-108793
+PPA;Perry Lefors;Pampa;TX;3561298806;-1009962608
+PPC;Prospect Creek;Prospect Creek;AK;6681288139;-1506437925
+PPF;Tri City;Parsons;KS;3733125778;-9550900667
+PPG;Pago Pago International;Pago Pago;AS;1433102278;-1707105258
+PPO;La Porte Municipal;La Porte;IN;4157276194;-8673413139
+PPQ;Pittsfield Penstone Municipal;Pittsfield;IL;3963885556;-9077843111
+PQI;Northern Maine Regional;Presque Isle;ME;4668896;-6804479972
+PQL;Trent Lott International;Pascagoula;MS;3046278111;-8852922778
+PQN;Pipestone Municipal;Pipestone;MN;4398330333;-9630031083
+PR03;Fajardo Harbor Seaplane Base;Fajardo;PR;18339675;-6562460583
+PRB;Paso Robles Municipal;Paso Robles;CA;3567288611;-1206270558
+PRC;Ernest A. Love;Prescott;AZ;3465447222;-1124195833
+PRG;Edgar County;Paris;IL;3970015944;-8766961861
+PRN;Greenville Municipal;Greenville;AL;3184540222;-8661044583
+PRO;Perry Municipal;Perry;IA;4182801306;-9415990361
+PRX;Cox;Paris;TX;3363660667;-9545073194
+PSB;Mid-State;Philipsburg;PA;4088439139;-7808734167
+PSC;Tri-Cities;Pasco;WA;4626468028;-1191190292
+PSE;Mercedita;Ponce;PR;1800830278;-6656301194
+PSF;Pittsfield Municipal;Pittsfield;MA;4242684667;-7329292806
+PSG;James C. Johnson Petersburg;Petersburg;AK;5680165194;-1329452781
+PSK;New River Valley;Dublin;VA;3713734528;-8067848167
+PSM;Pease International Tradeport;Portsmouth;NH;4307795889;-7082327333
+PSN;Palestine Municipal;Palestine;TX;3177969444;-9570630556
+PSP;Palm Springs International;Palm Springs;CA;3382921556;-1165062531
+PSX;Palacios Municipal;Palacios;TX;2872751778;-962509675
+PTB;Dinwiddie County;Petersburg;VA;3718375833;-7750738889
+PTD;Potsdam Muni-Damon;Potsdam;NY;4467666917;-7494844639
+PTH;Port Heiden;Port Heiden;AK;5695943333;-1586318208
+PTK;Oakland-Pontiac;Pontiac;MI;4266520389;-8341870917
+PTN;Harry P. Williams Memorial;Patterson;LA;2971081917;-9133971778
+PTS;Atkinson Municipal;Pittsburg;KS;3744855556;-9473133333
+PTT;Pratt Industrial;Pratt;KS;377000175;-987462025
+PTU;Platinum;Platinum;AK;5901135611;-1618196661
+PTV;Porterville Municipal;Porterville;CA;3602960778;-1190627311
+PTW;Pottstown Limerick;Pottstown;PA;4023957167;-7555662528
+PUB;Pueblo Memorial;Pueblo;CO;3828908722;-1044965722
+PUC;Carbon County;Price;UT;3961391556;-1107514183
+PUW;Pullman/Moscow Regional;Pullman/Moscow,ID;WA;4674386111;-1171095833
+PVB;Platteville Municipal;Platteville;WI;4268935583;-9044439278
+PVC;Provincetown Municipal;Provincetown;MA;4207199833;-7022137667
+PVD;Theodore F Green State;Providence;RI;4172399917;-7142822111
+PVF;Placerville;Placerville;CA;3872421806;-120753325
+PVG;Hampton Roads Executive;Portsmouth;VA;3678014889;-7644883472
+PVJ;Pauls Valley Municipal;Pauls Valley;OK;3471105361;-9722321694
+PVU;Provo Muni;Provo;UT;4021919444;-1117233611
+PVW;Hale County;Plainview;TX;3416814722;-1017173361
+PWA;Wiley Post;Oklahoma City;OK;3553455;-9764721556
+PWC;Pine River Regional;Pine River;MN;467247875;-943817
+PWD;Sher-Wood;Plentywood;MT;4879030583;-104533845
+PWG;McGregor Exectuive;Waco;TX;3148491667;-9731652778
+PWK;Palwaukee;Chicago/Wheeling/Prospect Heights;IL;4211418083;-8790148083
+PWM;Portland International Jetport;Portland;ME;4364616667;-7030875
+PWT;Bremerton National;Bremerton;WA;4749275361;-1227624286
+PXE;Perry-Houston Couty;Perry;GA;3251058333;-8376733333
+PYG;Pageland;Pageland;SC;3474213889;-8034519444
+PYM;Plymouth Municipal;Plymouth;MA;4190902444;-7072878778
+PYX;Perryton Ochiltree County;Perryton;TX;3641200333;-1007517883
+PZQ;Presque Isle County;Rogers City;MI;4540709667;-8381288556
+Q00;Littlefield Municipal;Littlefield;TX;3392395306;-1023866831
+Q06;City of Tulia/Swisher County Municipal;Tulia;TX;3456682472;-1017814611
+Q14;San Juan Pueblo;Espanola;NM;3602502306;-1060464114
+Q16;Reserve;Reserve;NM;3370005472;-1088506214
+Q17;Boonville;Boonville;CA;390126775;-1233827864
+Q21;Brownsville;Brownsville;CA;3945544417;-1212913511
+Q24;Levelland Municipal;Levelland;TX;3354980833;-1023727333
+Q25;Dinsmore;Dinsmore;CA;4049291944;-1235997589
+Q26;Terry County;Brownfield;TX;33173675;-1021926208
+Q31;Sequoia;Visalia;CA;3644856139;-1193190056
+Q34;Portales Municipal;Portales;NM;3414547222;-1034103333
+Q35;Springerville Babbitt;Springerville;AZ;341286575;-1093114756
+Q37;Carrizozo Municipal;Carrizozo;NM;3364886139;-105895685
+Q41;Floydada Municipal;Floydada;TX;3400230056;-101330435
+Q42;Springer Municipal;Springer;NM;3632697806;-1046197117
+Q44;Beaver Municipal;Beaver;OK;3679891472;-1005298708
+Q49;Firebaugh;Firebaugh;CA;3685998861;-1204644675
+Q53;Franklin;Franklin;CA;3830491306;-1214296736
+Q55;Dimmitt Municipal;Dimmitt;TX;3456673556;-1023226947
+Q58;Santa Rosa Municipal;Santa Rosa;NM;3493442472;-104643065
+Q61;Georgetown;Georgetown;CA;3892111389;-1208647944
+Q68;Pine Mountain Lake;Groveland;CA;3786166667;-1201778889
+Q72;Hayfork;Hayfork;CA;4054708833;-1231816953
+Q84;Mendota;Mendota;CA;3675800528;-1203712794
+Q88;Paradise Skypark;Paradise;CA;3970960639;-1216163617
+Q94;Rio Linda;Rio Linda;CA;3867601389;-1214455092
+Q95;Ruth;Ruth;CA;4021125917;-1232975231
+Q99;South County  of Santa Clara Co;San Martin;CA;3708158611;-1215968056
+RAC;John H Batten;Racine;WI;4276119139;-8781389806
+RAL;Riverside Municipal;Riverside;CA;3395187528;-1174451017
+RAP;Rapid City Regional;Rapid City;SD;4404532139;-1030573708
+RBD;Redbird;Dallas;TX;3268086111;-9686819444
+RBE;Bassett Municipal;Bassett;NE;4256966667;-9956836111
+RBG;Roseburg Regional;Roseburg;OR;4323878306;-1233558617
+RBL;Red Bluff Municipal;Red Bluff;CA;4015065667;-1222522903
+RBW;Walterboro Municipal;Walterboro;SC;3292052778;-8064125
+RBY;Ruby;Ruby;AK;6472721556;-1554698886
+RCA;Ellsworth AFB;NA;NA;44145094;-103103567
+RCR;Fulton County;Rochester;IN;4106554833;-8618170444
+RCX;Rusk County;Ladysmith;WI;4549825694;-9100186361
+RDD;Redding Municipal;Redding;CA;4050898361;-1222934019
+RDG;Reading Muni,Gen Carl A Spaatz;Reading;PA;403785;-7596525
+RDK;Red Oak Municipal;Red Oak;IA;4101052778;-9525986111
+RDM;Roberts;Redmond;OR;4425406722;-1211499633
+RDR;Grand Forks AFB;NA;NA;47961167;-97401167
+RDU;Raleigh-Durham International;Raleigh;NC;3587763889;-7878747222
+RDV;Red Devil;Red Devil;AK;6178764333;-1573479344
+RED;Red Lodge;Red Lodge;MT;4518744472;-1092673778
+RFD;Greater Rockford;Rockford;IL;4219536389;-8909721111
+RFG;Refugio-Rooke;Refugio;TX;2829361694;-9732304833
+RGK;Red Wing Municipal;Red Wing;MN;4458935611;-9248496889
+RHI;Rhinelander-Oneida County;Rhinelander;WI;4563119306;-8946745361
+RHV;Reid-Hillview of Santa Clara Co;San Jose;CA;3733287306;-1218197947
+RIC;Richmond International;Richmond;VA;3750516667;-7731966667
+RID;Richmond Municipal;Richmond;IN;3975721528;-8484282
+RIF;Richfield Muni;Richfield;UT;3873643611;-1120989444
+RIL;Garfield County Regional;Rifle;CO;39526315;-1077269403
+RIU;Rancho Murieta;Rancho Murieta;CA;384887975;-1211024447
+RIV;March;Riverside;CA;3388057333;-1172594836
+RIW;Riverton Regional;Riverton;WY;43064235;-1084598411
+RKD;Knox County Regional;Rockland;ME;4406008333;-6909925
+RKP;Aransas County;Rockport;TX;2808677778;-9704461111
+RKR;Robert S Kerr;Poteau;OK;3502162639;-946212525
+RKS;Rock Springs-Sweetwater County;Rock Springs;WY;415942175;-1090651928
+RKW;Rockwood Municipal;Rockwood;TN;35922295;-8468966278
+RLD;Richland;Richland;WA;46305635;-1193041853
+RME;Griffis Airpark;Rome;NY;4323379861;-7540703333
+RMG;Richard B Russell;Rome;GA;3435060111;-8515801389
+RMP;Rampart;Rampart;AK;6550786222;-1501428047
+RMY;Brooks;Marshall;MI;4225118111;-849554525
+RNC;Warren County Memorial;McMinnville;TN;3569870944;-8584381722
+RNH;New Richmond Municipal;New Richmond;WI;4514831139;-9253806139
+RNM;Ramona;Ramona;CA;33038905;-1169136392
+RNO;Reno/Tahoe International;Reno;NV;3949857611;-1197680647
+RNT;Renton Municipal;Renton;WA;4749313889;-12221575
+RNV;Cleveland Municipal;Cleveland;MS;3376114056;-9075787528
+ROA;Roanoke Regional/ Woodrum;Roanoke;VA;3732546833;-7997542833
+ROC;Greater Rochester Int'l;Rochester;NY;4311886611;-7767238389
+ROG;Rogers Municipal-Carter;Rogers;AR;3637229667;-9410686972
+ROP;Prachinburi;NA;NA;14078333;101378334
+ROR;Babelthoup/Koror;NA;NA;7367222;134544167
+ROS;Rush City Regional;Rush City;MN;4569801389;-9295298972
+ROW;Roswell Industrial Air Center;Roswell;NM;3330155556;-1045305556
+ROX;Roseau Municipal;Roseau;MN;4885603806;-9569703861
+RPB;Belleville Municipal;Belleville;KS;3981790861;-97659625
+RPD;Rice Lake Regional-Carl's;Rice Lake;WI;4541809056;-9177365194
+RPX;Roundup;Roundup;MT;4647357528;-1085576333
+RQB;Roben-Hood;Big Rapids;MI;4372263278;-8550407333
+RQE;Window Rock;Window Rock;AZ;3565205556;-1090673889
+RRL;Merrill Municipal;Merrill;WI;4519927083;-8971143389
+RRT;Warroad Intl Swede Carlson;Warroad;MN;4894138889;-9534838889
+RSH;Russian Mission;Russian Mission;AK;6177967583;-1613194772
+RSL;Russell Municipal;Russell;KS;3887212222;-9881177611
+RSN;Ruston Regional;Ruston;LA;3251444444;-9258833333
+RST;Rochester International;Rochester;MN;4390882639;-9249798722
+RSV;Robinson Municipal;Robinson;IL;3901604222;-87649775
+RSW;Southwest Florida International;Ft. Myers;FL;2653616667;-8175516667
+RTN;Raton Municipal/Crews;Raton;NM;3674152778;-1045021833
+RUE;Russellville Municipal;Russellville;AR;3525914667;-9309326611
+RUG;Rugby Municipal;Rugby;ND;4839035917;-1000242739
+RUQ;Rowan County;Salisbury;NC;3564588583;-8052029306
+RUT;Rutland State;Rutland;VT;4352990694;-72949615
+RVJ;Reidsville;Reidsville;GA;3205897222;-8215172222
+RVL;Mifflin Cty;Reedsville;PA;4067737417;-7762682833
+RVN;Hawkins County;Rogersville;TN;3645757917;-8288503722
+RVS;Richard Lloyd Jones, Jr.;Tulsa;OK;360396275;-95984635
+RWF;Redwood Falls Muni;Redwood Falls;MN;4454720389;-95082255
+RWI;Rocky Mount Wilson;Rocky Mount;NC;3585498861;-7789295611
+RWL;Rawlins Muni;Rawlins;WY;418055975;-10719994
+RWN;Arens;Winamac;IN;4109226306;-8661287111
+RXE;Rexburg-Madison County;Rexburg;ID;4383391139;-111805105
+RYN;Ryan;Tucson;AZ;3214308333;-1111728611
+RYV;Watertown Municipal;Watertown;WI;4316963222;-8872321222
+RYY;Cobb County-McCollum;Marietta;GA;3401315611;-8459854472
+RZL;Jasper County;Rensselaer;IN;4094789861;-8718257944
+RZN;Burnett County;Siren;WI;458227275;-9237250083
+RZT;Ross County;Chillicothe;OH;3944136778;-8302251556
+RZZ;Halifax County;Roanoke Rapids;NC;3643945583;-7770934139
+S01;Conrad;Conrad;MT;4816863889;-1119764722
+S03;Ashland Muni-Sumner Parker;Ashland;OR;4219028361;-1226606283
+S05;Bandon State;Bandon;OR;4308733083;-1244095578
+S07;Bend Muni;Bend;OR;4409483333;-1212006389
+S10;Chelan Muni;Chelan;WA;4786597139;-1199427053
+S12;Albany Municipal;Albany;OR;4463781639;-1230594486
+S18;Forks;Forks;WA;4794146583;-1243929867
+S21;Sunriver;Sunriver;OR;4387633333;-1214530556
+S23;Ione Municipal;Ione;WA;4870727528;-1174126036
+S24;Sandusky Co;Fremont;OH;4129570556;-8303723056
+S25;Watford City Municipal;Watford City;ND;4779569972;-1032536992
+S27;Kalispell City;Kalispell;MT;4817856944;-1143037408
+S28;International Peace Garden;Dunseith;ND;4899778194;-1000434589
+S30;Lebanon State;Lebanon;OR;44529845;-1229295336
+S31;Lopez Island;Lopez;WA;4848259944;-1229368444
+S32;Cooperstown Municipal;Cooperstown;ND;4742277361;-9810587139
+S33;City-County;Madras;OR;4466623139;-1211631
+S34;Plains;Plains;MT;4747243611;-114900135
+S39;Prineville;Prineville;OR;4428699389;-1209038328
+S40;Prosser;Prosser;WA;46212355;-1197928122
+S43;Harvey;Snohomish;WA;4790815306;-1221054072
+S45;Siletz Bay State;Siletz Bay (Gleneden Beach);OR;4487761139;-1240284472
+S47;Tillamook;Tillamook;OR;4541824194;-1238143839
+S50;Auburn Municipal;Auburn;WA;4732815583;-1222265092
+S52;Methow Valley State;Winthrop;WA;4842070056;-1201470264
+S59;Libby;Libby;MT;4828384528;-1154902453
+S60;Kenmore Air Harbor Inc;Kenmore;WA;4775482;-1222592931
+S64;Stanford;Stanford;MT;4714718944;-1102299289
+S66;Homedale Municipal;Homedale;ID;4361488056;-1169215372
+S67;Nampa Muni;Nampa;ID;4358133333;-1165230556
+S68;Orofino Municipal;Orofino;ID;4649129139;-1162768061
+S69;Lincoln;Lincoln;MT;4697494083;-1126447606
+S70;Othello Muni;Othello;WA;4679486278;-1190802875
+S71;Edgar G Obie;Chinook;MT;4859194444;-1092488889
+S72;St Maries Municipal;St Maries;ID;4732768722;-1165773906
+S73;Kamiah Municipal;Kamiah;ID;4621934028;-1160134736
+S80;Idaho County;Grangeville;ID;4594255806;-1161234158
+S83;Shoshone County;Kellogg;ID;4754769889;-1161885008
+S85;Big Sky;Culbertson;MT;4815333333;-1045038889
+S87;Weiser Municipal;Weiser;ID;4420683056;-1169623869
+S89;Craigmont Municipal;Craigmont;ID;4624710917;-1164801447
+S93;Cle Elum Municipal;Cle Elum;WA;4718317583;-120884525
+S94;Whitman County Memorial;Colfax;WA;468584975;-1174137964
+S97;Anderson;Brewster;WA;4810486806;-1197206128
+SAA;Shively;Saratoga;WY;4144485944;-1068235264
+SAC;Sacramento Executive;Sacramento;CA;3851252389;-1214934689
+SAD;Safford Regional;Safford;AZ;3285331278;-1096349708
+SAF;Santa Fe Municipal;Santa Fe;NM;3561677778;-1060881389
+SAN;San Diego International-Lindbergh;San Diego;CA;3273355611;-1171896567
+SAR;Sparta Community-Hunter;Sparta;IL;3814893833;-8969870972
+SAT;San Antonio International;San Antonio;TX;2953369444;-9846977778
+SAV;Savannah International;Savannah;GA;3212758333;-8120213889
+SAW;Sawyer;Gwinn;MI;4635361111;-8739583222
+SAZ;Staples Municipal;Staples;MN;4638087944;-9480660167
+SBA;Santa Barbara Municipal;Santa Barbara;CA;3442621194;-1198403733
+SBD;San Bernardino International;San Bernardino;CA;3409535361;-1172348742
+SBM;Sheboygan County Memorial;Sheboygan;WI;4376949444;-8785158944
+SBN;South Bend Regional;South Bend;IN;4170895361;-8631847417
+SBO;Emanuel County;Swainsboro;GA;3260825;-8236869444
+SBP;San Luis Obispo Co-McChesney;San Luis Obispo;CA;3523705806;-1206423931
+SBS;Steamboat Springs;Steamboat Springs;CO;4051625944;-1068663006
+SBU;Blue Earth Municipal;Blue Earth;MN;4359534389;-9409284833
+SBX;Shelby;Shelby;MT;4854125278;-1118720722
+SBY;Salisbury-Ocean City: Wicomico Regional;Salisbury;MD;3834052611;-7551028806
+SCB;Scribner State;Scribner;NE;4161033333;-9662986111
+SCC;Deadhorse;Deadhorse;AK;7019475583;-1484651608
+SCD;Merkel Field Sylacauga Municipal;Sylacauga;AL;3317183583;-8630553778
+SCE;University Park;NA;NA;40851206;-77846302
+SCH;Schenectady Cty;Schenectady;NY;4285245556;-739288675
+SCK;Stockton Metro;Stockton;CA;3789426694;-1212386203
+SCM;Scammon Bay;Scammon Bay;AK;6184454111;-1655737492
+SCX;Scott Municipal;Oneida;TN;3645569444;-8458575
+SD07;Bison Municipal;Bison;SD;4551859778;-1024671042
+SD10;Canton Municipal;Canton;SD;4330888889;-96571
+SD12;Wilder;De Smet;SD;4443080278;-9756118861
+SD16;Eureka Municipal;Eureka;SD;4579998111;-996420625
+SD18;Flandreau Municipal;Flandreau;SD;4400386056;-9659310139
+SD22;Hoven Municipal;Hoven;SD;4525755861;-9979783944
+SD28;McLaughlin Municipal;McLaughlin;SD;4579680833;-1007842503
+SD32;Murdo Municipal;Murdo;SD;4385165639;-1007120811
+SD33;Parkston Municipal;Parkston;SD;4337915361;-9797118278
+SD34;Presho Municipal;Presho;SD;4390637833;-1000370669
+SDA;Shenandoah Municipal;Shenandoah;IA;4075148167;-9541347222
+SDF;Louisville International-Standiford;Louisville;KY;3817438889;-85736
+SDL;Scottsdale;Scottsdale;AZ;33622875;-1119105333
+SDM;Brown  Municipal;San Diego;CA;3257230556;-11698025
+SDP;Sand Point Municipal;Sand Point;AK;5531502778;-1605176944
+SDY;Sidney-Richland Municipal;Sidney;MT;4770685778;-1041925544
+SEA;Seattle-Tacoma Intl;Seattle;WA;4744898194;-1223093131
+SEE;Gillespie;San Diego (El Cajon);CA;3282623111;-1169724497
+SEF;Sebring  And Industrial Park;Sebring;FL;2745640278;-813424
+SEG;Penn Valley;Selinsgrove;PA;4082052917;-7686377611
+SEM;Craig;Selma;AL;3234394667;-8698780333
+SEP;Clark Field Municipal;Stephenville;TX;3221532333;-9817766722
+SER;Freeman Municipal;Seymour;IN;3892355361;-8590736556
+SET;St Charles County Smart;St Charles;MO;3892969444;-9042996111
+SEZ;Sedona;Sedona;AZ;3484862889;-1117884614
+SFB;Orlando Sanford;Orlando;FL;2877764;-8123748944
+SFD;Bob Wiley;Winner;SD;4339058278;-9984256194
+SFF;Felts;Spokane;WA;4768281806;-1173225583
+SFM;Sanford Regional;Sanford;ME;4339386111;-7070800028
+SFO;San Francisco International;San Francisco;CA;3761900194;-1223748433
+SFQ;Suffolk Municipal;Suffolk;VA;3668235361;-7660187333
+SFY;Tri-Township;Savanna;IL;4204581972;-9010760056
+SFZ;North Central State;Pawtucket;RI;4192076333;-7149138139
+SGF;Springfield-Branson Regional;Springfield;MO;3724432611;-9338685806
+SGH;Springfield-Beckley Municipal;Springfield;OH;3984028194;-8384015056
+SGJ;St. Augustine;St. Augustine;FL;2995925;-8133975
+SGR;Sugar Land Municipal/Hull;Houston;TX;2962225306;-9565652889
+SGS;South St.Paul Municipal;South St Paul;MN;4485713278;-9303285389
+SGT;Stuttgart Municipal;Stuttgart;AR;3460054;-9157457417
+SGU;St George Muni;St George;UT;3709058333;-1135930556
+SGY;Skagway;Skagway;AK;5946006194;-1353156636
+SHD;Shenandoah Valley Regional;Staunton/Harrisonburg;VA;3826384333;-7889643806
+SHG;Shungnak;Shungnak;AK;6688916556;-1571505119
+SHH;Shishmaref;Shishmaref;AK;6624956861;-1660895589
+SHL;Sheldon Municipal;Sheldon;IA;4320839361;-9583343306
+SHN;Sanderson;Shelton;WA;4723355556;-1231475556
+SHR;Sheridan County;Sheridan;WY;4476919556;-1069802794
+SHV;Shreveport Regional;Shreveport;LA;324466275;-9382559833
+SHX;Shageluk;Shageluk;AK;6269511944;-1595690614
+SIG;Fernando Luis Ribas Dominicci;San Juan;PR;1845675;-6609883333
+SIK;Sikeston Memorial Municipal;Sikeston;MO;3689888889;-8956175
+SIT;Sitka;Sitka;AK;5704713806;-1353615983
+SIV;Sullivan County;Sullivan;IN;391147125;-8744832917
+SIY;Siskiyou County;Montague;CA;4178144167;-1224681094
+SJC;San Jose International;San Jose;CA;3736186194;-1219290089
+SJN;St Johns Industrial Air Park;St Johns;AZ;3451855556;-10937875
+SJT;San Angelo Regional /Mathis;San Angelo;TX;3135775;-1004963056
+SJU;Luis Munoz Marin International;San Juan;PR;1843941667;-6600183333
+SJX;Beaver Island;St James;MI;4569227778;-8556630556
+SKA;Fairchild AFB;NA;NA;47615058;-117655803
+SKI;Sac City Municipal;Sac City;IA;4237908333;-9497958333
+SKW;Skwentna;Skwentna;AK;61965295;-1511913661
+SKX;Taos Municipal;Taos;NM;3645819;-1056724289
+SLB;Storm Lake Municipal;Storm Lake;IA;4259719444;-9524066667
+SLC;Salt Lake City Intl;Salt Lake City;UT;4078838778;-1119777731
+SLE;McNary Fld;Salem;OR;4490952778;-1230025
+SLG;Smith;Siloam Springs;AR;3619060778;-9449088306
+SLK;Adirondack;Saranac Lake;NY;4438531;-7420618472
+SLN;Salina Municipal;Salina;KS;387914825;-9765060333
+SLO;Salem-Leckrone;Salem;IL;3864287222;-8896418528
+SLQ;Sleetmute;Sleetmute;AK;6170931139;-1571557008
+SLR;Sulphur Springs Municipal;Sulphur Springs;TX;3315983333;-9562113889
+SMD;Smith;Fort Wayne;IN;4114335389;-8515277694
+SME;Somerset-Pulaski County;Somerset;KY;3705419722;-8461494139
+SMF;Sacramento International;Sacramento;CA;3869542167;-1215907669
+SMN;Lemhi County;Salmon;ID;4512047778;-1138820103
+SMO;Santa Monica Municipal;Santa Monica;CA;3401582194;-1184512961
+SMQ;Somerset;Somerville;NJ;4062599083;-7467024333
+SMS;Sumter Municipal;Sumter;SC;3399569444;-803615
+SMX;Santa Maria Pub/Capt G Allan Hancock;Santa Maria;CA;3489924833;-1204575825
+SNA;John Wayne /Orange Co;Santa Ana;CA;3367565861;-1178682225
+SNH;Savannah Hardin County;Savannah;TN;3517036;-8821587
+SNK;Winston;Snyder;TX;3269338667;-1009504525
+SNL;Shawnee Municipal;Shawnee;OK;3535730333;-9694282833
+SNP;St. Paul;St. Paul;AK;5716733333;-1702204444
+SNS;Salinas Municipal;Salinas;CA;3666279222;-1216063603
+SNY;Sidney Municipal;Sidney;NE;4110133333;-1029852778
+SOP;Moore County;Pinehurst/Southern Pines;NC;3523735278;-7939116944
+SOV;Seldovia;Seldovia;AK;5944243917;-1517040503
+SOW;Show Low Municipal;Show Low;AZ;3426527194;-1100054075
+SPA;Spartanburg Downtown Memorial;Spartanburg;SC;3491572222;-819565
+SPB;Scappoose Industrial Airpark;Scappoose;OR;4577250444;-1228623611
+SPF;Black Hills-Clyde Ice;Spearfish;SD;4448022222;-1037768889
+SPG;Albert Whitted Municipal;St. Petersburg;FL;2776511111;-8262697222
+SPH;Springhill;Springhill;LA;3298316472;-9341081028
+SPI;Capital;Springfield;IL;3984395194;-8967761861
+SPN;Tinian International Airport;NA;NA;14996111;145621384
+SPS;Sheppard AFB/Wichita Falls Municipal;Wichita Falls;TX;3398879611;-9849189333
+SPW;Spencer Municipal;Spencer;IA;4316552778;-9520280556
+SPX;Houston-Gulf;Houston;TX;2950836111;-9505133333
+SQI;Whiteside Co;Sterling Rockfalls;IL;4174284139;-8967629028
+SQL;San Carlos;San Carlos;CA;37511855;-1222495236
+SRB;Upper Cumberland Regional;Sparta;TN;3605593278;-855307475
+SRC;Searcy Municipal;Searcy;AR;3521194639;-91737165
+SRQ;Sarasota Bradenton International;Sarasota;FL;2739533333;-8255411111
+SRR;Sierra Blanca Regional;Ruidoso;NM;3346285;-1055347508
+SRV;Stony River 2;Stony River;AK;61789875;-1565881861
+SSF;Stinson Municipal;San Antonio;TX;293370075;-9847114056
+SSI;Malcolm McKinnon;Brunswick;GA;311515925;-8139134667
+SSQ;Shell Lake Municipal;Shell Lake;WI;4573138139;-9192066194
+STC;St Cloud Regional;St Cloud;MN;4554532417;-9405833667
+STE;Stevens Point Municipal;Stevens Point;WI;4454513556;-8953028444
+STF;George M Bryan;Starkville;MS;3343381667;-8884863806
+STJ;Rosecrans Memorial;St Joseph;MO;3977194444;-9490970556
+STK;Crosson;Sterling;CO;406152625;-1032646556
+STL;Lambert-St Louis International;St Louis;MO;3874768694;-9035998972
+STP;St Paul Downtown Holman;St Paul;MN;449344725;-9305999861
+STS;Sonoma Co;Santa Rosa;CA;3850897694;-1228128803
+STT;Cyril E. King;Charlotte Amalie;VI;1833730556;-6497336111
+STX;Henry E. Rohlsen;Christiansted;VI;1770188889;-6479855556
+SUA;Witham;Stuart;FL;2718169444;-8022108333
+SUD;Stroud Municipal;Stroud;OK;3578756833;-9665862861
+SUE;Door County Cherryland;Sturgeon Bay;WI;4484366222;-8742154111
+SUN;Friedman Memorial;Hailey;ID;4350484139;-1142965903
+SUS;Spirit of St Louis;St Louis;MO;3866187028;-9065123
+SUT;Brunswick County;Southport;NC;3392925694;-7807499167
+SUW;Richard I Bong;Superior;WI;466897175;-92094655
+SUX;Sioux Gateway;Sioux City;IA;4240260333;-9638436694
+SVA;Savoonga;Savoonga;AK;6368639444;-1704926361
+SVC;Grant County;Silver City;NM;3263654694;-1081563853
+SVE;Susanville Municipal;Susanville;CA;4037684111;-1205730033
+SVH;Statesville Municipal;Statesville;NC;3576526389;-8095673611
+SVS;Stevens Village;Stevens Village;AK;6600900528;-1490959153
+SWD;Seward;Seward;AK;6012693833;-1494188122
+SWF;Stewart;Newburgh;NY;4150409361;-7410483833
+SWO;Stillwater Regional;Stillwater;OK;3616025194;-9708577028
+SWT;Seward Municipal;Seward;NE;4086525806;-9710931306
+SWW;Avenger;Sweetwater;TX;3246736806;-1004665508
+SXL;Summersville;Summersville;WV;3823163889;-8087080556
+SXP;Sheldon Point;Sheldon Point;AK;6252055556;-1648477778
+SXQ;Soldotna;Soldotna;AK;6047613889;-1510324444
+SYF;Cheyenne County Municipal;St Francis;KS;3976104833;-1017958414
+SYI;Bomar Field-Shelbyville Municipal;Shelbyville;TN;3556009889;-8644249333
+SYR;Syracuse-Hancock Intl;Syracuse;NY;4311118694;-7610631056
+SYV;Sylvester;Sylvester;GA;3155851111;-8389573389
+SZP;Santa Paula;Santa Paula;CA;3434722167;-119061215
+SZT;Sandpoint;Sandpoint;ID;4829965139;-1165597681
+SZY;Robert Sibley;Selmer;TN;3520295;-8849836139
+T00;Chambers County;Anahauac;TX;2977;-9466361194
+T03;Tuba City;Tuba City;AZ;3609276972;-1113826419
+T08;Tomahawk Regional;Tomahawk;WI;4546913889;-8980569444
+T18;Brooks County;Falfurrias;TX;2720683333;-9812117083
+T28;Lampasas Municipal;Lampasas;TX;3110672694;-9819600194
+T35;Cameron Municipal Airpark;Cameron;TX;3087935556;-9697109694
+T36;Paul Pittman Memorial;Tylertown;MS;3114601111;-90168145
+T41;La Porte Municipal;La Porte;TX;2966925;-9506419444
+T44;Trident Basin;Kodiak;AK;5778083333;-1523913889
+T47;Kickapoo Downtown Airpark;Wichita Falls;TX;3386122222;-984904425
+T49;Big Spring McMahon-Wrinkle;Big Spring;TX;3221261111;-1015216389
+T53;Robstown-Nueces County;Robstown;TX;2777854306;-9769052389
+T56;Crockett-Houston County;Crockett;TX;3130696111;-9540383056
+T57;Garland Heliport;Garland;TX;32887625;-966836075
+T60;Stonewall County;Aspermont;TX;3317231861;-1001976044
+T65;Mid Valley;Weslaco;TX;2617763889;-9797305556
+T69;Sinton-San Patricio County;Sinton;TX;2803925;-9754244444
+T71;Cuero Municipal;Cuero;TX;2908358806;-9726693417
+T72;Hearne Municipal;Hearne;TX;3087182917;-9662222639
+T74;Taylor Municipal;Taylor;TX;3057194444;-9744316667
+T78;Liberty Municipal;Liberty;TX;3007780556;-9469855556
+T80;Kleberg County;Kingsville;TX;2755086111;-9803091833
+T82;Gillespie County;Fredericksburg;TX;3024369444;-9890952778
+T89;Castroville Municipal;Castroville;TX;2934192083;-9885090056
+T90;Chambers County;Winnie/Stowell;TX;2980411;-9443102306
+T97;Calhoun County;Port Lavaca;TX;2865405111;-966813125
+TAD;Perry Stokes;Trinidad;CO;3725937778;-104340675
+TAL;Ralph M Calhoun Memorial;Tanana;AK;6517439528;-1521093886
+TAN;Taunton Municipal;Taunton;MA;4187460139;-7101687583
+TAZ;Taylorville Municipal;Taylorville;IL;3953418583;-8932781222
+TBN;Forney AAF;Fort Leonard Wood;MO;3774163111;-9214073611
+TBR;Statesboro Municipal;Statesboro;GA;3248316667;-8173727778
+TCC;Tucumcari Municipal;Tucumcari;NM;3518277806;-1036031853
+TCL;Tuscaloosa Municipal;Tuscaloosa;AL;332206275;-8761140139
+TCS;Truth Or Consequences Municipal;Truth Or Consequences;NM;3323694444;-10727175
+TCT;Takotna;Takotna;AK;6299270417;-1560681903
+TCY;Tracy Municipal;Tracy;CA;3768910778;-1214418172
+TDF;Person County;Roxboro;NC;3628489194;-7898422694
+TDO;Toledo-Winlock Ed Carlson Memorial;Toledo;WA;4647709083;-12280686
+TDZ;Toledo Metcalf;Toledo;OH;4156487194;-8348226139
+TEB;Teterboro;Teterboro;NJ;4085010139;-7406083611
+TEL;Perry County Municipal;Tell City;IN;3801769694;-8669093
+TEW;Mason Jewett;Mason;MI;4256576833;-8442321861
+TEX;Telluride Regional;Telluride;CO;3795375861;-10790848
+TGC;Gibson County;Trenton;TN;3593245472;-8884894028
+TGI;Tangier Island;Tangier;VA;3782513889;-7599777778
+THA;Tullahoma Regional;Tullahoma;TN;3538015694;-8624602333
+THM;Thompson Falls;Thompson Falls;MT;4757493556;-1152843164
+THP;Hot Springs County-Thermopolis Municipal;Thermopolis;WY;4365828917;-1082131542
+THV;York;York;PA;39916995;-7687302611
+TIW;Tacoma Narrows;Tacoma;WA;4726793111;-1225780997
+TIX;Space Cost Regional;Titusville;FL;2851479944;-807992275
+TKA;Talkeetna;Talkeetna;AK;623205;-1500936944
+TKE;Tenakee SPB;Tenakee Springs;AK;5777965833;-1352184439
+TKI;McKinney Municipal;McKinney;TX;3317794778;-965905275
+TKX;Kennett Memorial;Kennett;MO;3623087083;-9003466806
+TLH;Tallahassee Regional;Tallahassee;FL;3039652778;-8435033333
+TLR;Mefford;Tulare;CA;3615630556;-1193261667
+TLT;Tuluksak;Tuluksak;AK;6109676222;-1609684167
+TMA;Henry Tift Myers;Tifton;GA;3142879528;-8348787167
+TMB;Kendall-Tamiami Executive;Miami;FL;2564788889;-8043277778
+TNI;West Tinian;Peipeinimaru;CQ;1499685028;-1456180383
+TNP;Twentynine Palms;Twentynine Palms;CA;3413208528;-1159458319
+TNT;Dade Collier T And T;Miami;FL;2586180556;-80897
+TNU;Newton Municipal;Newton;IA;4167442972;-9302172917
+TOA;Zamperini;Torrance;CA;338033775;-1183396
+TOB;Dodge Center;Dodge Center;MN;44018;-928315
+TOC;Toccoa, R G Le Tourneau;Toccoa;GA;3459376444;-832958
+TOG;Togiak Village;Togiak;AK;5905284222;-1603969339
+TOI;Troy Municipal;Troy;AL;3186041667;-8601213889
+TOL;Toledo Express;Toledo;OH;4158680556;-8380783333
+TOP;Philip Billard Municipal;Topeka;KS;390686575;-9562248361
+TOR;Torrington Muni;Torrington;WY;420645475;-1041526986
+TPA;Tampa International;Tampa;FL;2797547222;-8253325
+TPF;Peter O. Knight;Tampa;FL;2791557833;-8244926083
+TPH;Tonopah;Tonopah;NV;3806020222;-1170871536
+TPL;Draughon-Miller Central Texas Regional;Temple;TX;311525;-9740777778
+TPO;Port Alsworth;Port Alsworth;AK;6020433333;-1543188728
+TQE;Municipal;Tekamah;NE;4176352778;-9617794444
+TQH;Tahlequah Municipal;Tahlequah;OK;3592891667;-9500452778
+TQK;Scott City Municipal;Scott City;KS;3847427778;-1008849444
+TRI;Tri-Cities Regional;Bristol;TN;3647521417;-8240742056
+TRK;Truckee-Tahoe;Truckee;CA;3932004222;-1201395628
+TRL;Terrell Municipal;Terrell;TX;3271004667;-9626742306
+TRM;Desert Resorts Regional;Palm Springs;CA;3362789944;-1161601194
+TRX;Trenton Municipal;Trenton;MO;4008351333;-9359063472
+TSO;Carroll County-Tolson;Carrollton;OH;4056186833;-8107748611
+TSP;Tehachapi Municipal;Tehachapi;CA;3513497222;-11843925
+TT01;Pagan Airstrip;Shomu-Shon;CQ;1812444444;-1457686111
+TTA;Sanford-Lee County Regional;Sanford;NC;3558247222;-7910136111
+TTD;Portland-Troutdale;Portland;OR;4554936889;-1224012519
+TTF;Monroe Custer;Monroe;MI;4193990639;-8343468306
+TTN;Trenton-Mercer County;Trenton;NJ;4027669111;-7481346833
+TUL;Tulsa International;Tulsa;OK;3619837222;-9588824167
+TUP;Tupelo Municipal;Tupelo;MS;3426810833;-88769895
+TUS;Tucson International;Tucson;AZ;3211608333;-1109410278
+TVB;Cabool Memorial;Cabool;MO;3713244083;-9208396167
+TVC;Cherry Capital;Traverse City;MI;4474144472;-85582235
+TVF;Thief River Falls Regional;Thief River Falls;MN;4806550028;-9618336083
+TVI;Thomasville Municipal;Thomasville;GA;3090155194;-8388133556
+TVK;Centerville Municipal;Centerville;IA;4068390306;-9290103333
+TVL;Lake Tahoe;South Lake Tahoe;CA;3889388167;-1199953347
+TVR;Vicksburg Tallulah Regional;Tallulah;LA;3235160639;-9102768917
+TVY;Tooele Valley;Tooele;UT;406122725;-1123507719
+TWF;Joslin Field - Magic Valley;Twin Falls;ID;4248180389;-1144877356
+TWM;Richard B. Helgeson;Two Harbors;MN;47049225;-9174514167
+TXK;Texarkana Regional-Webb;Texarkana;AR;3345370806;-9399102
+TYL;Taylor;Taylor;AZ;3445283333;-1101148056
+TYQ;Indianapolis Terry;Indianapolis;IN;4003064972;-862514375
+TYR;Tyler Pounds;Tyler;TX;3235413889;-9540238611
+TYS;McGhee-Tyson;Knoxville;TN;3581248722;-8399285583
+TZR;Bolton;Columbus;OH;3990081778;-8313719361
+TZT;Belle Plaine Municipal;Belle Plaine;IA;4187877778;-9228456944
+TZV;Tompkinsville-Monroe County;Tompkinsville;KY;3672978;-8565191556
+U02;McCarley;Blackfoot;ID;4320925;-1123495861
+U03;Buhl Municipal;Buhl;ID;4259157139;-1147967178
+U05;Riddick;Philipsburg;MT;4631936972;-1133050642
+U08;Perkins;Overton;NV;3656803;-1144433133
+U10;Preston;Preston;ID;4210690806;-1119125389
+U14;Nephi Municipal;Nephi;UT;3973884333;-1118716011
+U25;Dubois Municipal;Dubois;WY;4354834722;-1096902611
+U30;Temple Bar;Temple Bar;AZ;3602054056;-1143352461
+U34;Green River Muni;Green River;UT;3896136167;-1102273619
+U36;Aberdeen Municipal;Aberdeen;ID;4292102222;-1128811053
+U42;Salt Lake City Municipal 2;Salt Lake City;UT;4061954;-1119928858
+U43;Monticello;Monticello;UT;37937215;-1093465053
+U52;Beaver Municipal;Beaver;UT;3823071;-1126753497
+U55;Panguitch Municipal;Panguitch;UT;3784523333;-1123918731
+U59;Driggs-Reed Memorial;Driggs;ID;4374193056;-1110978608
+U68;North Big Horn County;Cowley/Lovell/Byron;WY;4491167028;-1084455092
+U69;Duchesne Municipal;Duchesne;UT;4019190167;-1103809886
+U70;Cascade;Cascade;ID;444937825;-1160162422
+U76;Mountain Home Municipal;Mountain Home;ID;4313125278;-1157295944
+U77;Spanish Fork-Springville;Spanish Fork;UT;4014162139;-1116613125
+U82;Council Municipal;Council;ID;447498875;-1164468092
+U96;Cal Black Memorial;Halls Crossing;UT;3744221444;-1105695836
+UAO;Aurora State;Aurora;OR;4524713889;-1227700556
+UBE;Cumberland Municipal;Cumberland;WI;4550597028;-9198108694
+UBS;Columbus-Lowndes County;Columbus;MS;3346539667;-8838031639
+UBX;Cuba Municipal;Cuba;MO;3806877667;-9142885694
+UCA;Oneida Cty;Utica;NY;4314511944;-7538385889
+UCP;New Castle Muni;New Castle;PA;4102533778;-8041337194
+UCY;Everett-Stewart;Union City;TN;3638025;-8898547778
+UDD;Bermuda Dunes;Palm Springs;CA;337484375;-1162748133
+UDG;Darlington County;Darlington;SC;3444919444;-7989036111
+UES;Waukesha County;Waukesha;WI;4304102778;-8823705556
+UGN;Waukegan Regional;Chicago/Waukegan;IL;4242216;-8786790694
+UIL;Quillayute;Forks;WA;4793714444;-1245612497
+UIN;Quincy Municipal-Baldwin;Quincy;IL;3994262417;-9119445611
+UIZ;Berz-Macomb;Utica;MI;4266389361;-8296542583
+UKF;Wilkes County;North Wilkesboro;NC;3622284028;-810983375
+UKI;Ukiah Municipal;Ukiah;CA;3912595722;-123200855
+UKL;Coffey County;Burlington;KS;3830248472;-957249575
+UKT;Quakertown;Quakertown;PA;4043521194;-7538192861
+ULM;New Ulm Municipal;New Ulm;MN;4431957306;-9450230778
+ULS;Ulysses;Ulysses;KS;3760375278;-1013733889
+UMP;Indianapolis Metropolitan;Indianapolis;IN;399352025;-8604495333
+UNI;Ohio University;Athens/Albany;OH;3921096222;-8223142583
+UNK;Unalakleet;Unalakleet;AK;6388835917;-1607989517
+UNO;West Plains Municipal;West Plains;MO;3687813889;-9190269444
+UNU;Dodge County;Juneau;WI;4342658333;-8870322222
+UNV;University Park;State College;PA;4084927778;-7784869444
+UOS;Franklin County;Sewanee;TN;3520397028;-8589858889
+UOX;University-Oxford;Oxford;MS;3438431528;-8953530972
+UPP;Upolu;Hawi;HI;2026525583;-1558599875
+USE;Fulton County;Wauseon;OH;4161033333;-8412552778
+UTS;Huntsville Municipal;Huntsville;TX;3074688667;-9558716667
+UUO;Willow;Willow;AK;6175441667;-1500516639
+UUU;Newport State;Newport;RI;4153243972;-7128154389
+UUV;Sullivan Regional;Sullivan;MO;3823343056;-9116433333
+UVA;Garner;Uvalde;TX;2921135028;-9974358306
+UWL;New Castle-Henry Co;New Castle;IN;3987585167;-8532646806
+UYF;Madison County;London;OH;3993272694;-8346200361
+UZA;Rock Hill Municipal/Bryant;Rock Hill;SC;3498783333;-8105716667
+VAK;Chevak;Chevak;AK;6153363583;-1655837322
+VAY;South Jersey Reg;Mount Holly;NJ;3994289056;-7484571944
+VBT;Bentonville Municipal;Bentonville;AR;3634571528;-94219345
+VCB;Nut Tree;Vacaville;CA;3837675167;-121962455
+VCT;Victoria Regional;Victoria;TX;2885255556;-9691848722
+VCV;Southern California Logistic;Victorville;CA;34593225;-1173794667
+VDI;Vidalia Municipal;Vidalia;GA;3219255556;-8237194444
+VDZ;Valdez;Valdez;AK;6113395028;-14624836
+VEE;Venetie;Venetie;AK;6702269444;-1464137753
+VEL;Vernal;Vernal;UT;4044090167;-1095099203
+VER;Jesse Viertel Memorial;Boonville;MO;3894577556;-9268277139
+VES;Darke County;Versailles;OH;4020441667;-8453191667
+VGT;North Las Vegas;Las Vegas;NV;3621166667;-11519575
+VHN;Culberson County;Van Horn;TX;3105784417;-1047838056
+VIH;Rolla National;Rolla/Vichy;MO;3812743222;-917695225
+VIQ;Neillsville Municipal;Neillsville;WI;4455812861;-9051224694
+VIS;Visalia Municipal;Visalia;CA;3631866667;-1193928889
+VJI;Virginia Highlands;Abingdon;VA;3668711028;-8203333583
+VLA;Vandalia Municipal;Vandalia;IL;3899130556;-8916622222
+VLD;Valdosta Regional;Valdosta;GA;307825;-8327672222
+VMR;Harold Davidson;Vermillion;SD;4276528917;-9693425472
+VNC;Venice Municipal;Venice;FL;2707161111;-8244033333
+VNW;Van Wert County;Van Wert;OH;4086472222;-8460944444
+VNY;Van Nuys;Van Nuys;CA;3420980972;-1184899733
+VPC;Cartersville;Cartersville;GA;3412313889;-8484869444
+VPS;Eglin Air Force Base;Valparaiso;FL;3048325;-865254
+VPZ;Porter County Municipal;Valparaiso;IN;4145396667;-8700707139
+VQQ;Cecil;Jacksonville;FL;3021867306;-8187666444
+VQS;Antonio Rivera Rodriguez;Isla De Vieques;PR;1813551806;-6549182583
+VRB;Vero Beach Municipal;Vero Beach;FL;2765555556;-8041794444
+VSF;Springfield State/Hartness;Springfield;VT;4334362889;-725173125
+VTA;Newark-Heath;Newark;OH;40024675;-8246182194
+VTI;Vinton Veterans Memorial Airpark;Vinton;IA;4221862611;-9202592806
+VTN;Miller;Valentine;NE;4285767194;-100547355
+VUJ;Stanly County;Albemarle;NC;3541669472;-8015079556
+VUO;Pearson Airpark;Vancouver;WA;456204525;-1226564883
+VVV;Ortonville Municipal;Ortonville;MN;4530566472;-9642442278
+VYS;Illinois Valley Regional;Peru/Lasalle;IL;4135186806;-8915308417
+W04;Ocean Shores Municipal;Ocean Shores;WA;4700369806;-124143785
+W05;Gettysburg  & Travel Center;Gettysburg;PA;3984092833;-7727415139
+W11;Menomonie Municipal - Score;Menomonie;WI;4489234639;-9186777944
+W22;Upshur County Regional;Buckhannon;WV;3900035833;-8027392778
+W29;Bay Bridge Industrial;Stevensville;MD;3897638889;-7632963889
+W31;Lunenburg County;Kenbridge;VA;3696015;-7818499861
+W33;Friday Harbor;Friday Harbor;WA;4853732194;-1230096236
+W40;Mt Olive Municipal;Mt Olive;NC;3522224722;-7803779444
+W41;Crisfield Municipal;Crisfield;MD;3801679028;-7582882056
+W44;Asheboro Municipal;Asheboro;NC;356538825;-798950425
+W45;Luray Caverns;Luray;VA;3866705556;-7850058333
+W66;Warrenton-Fauquier;Warrenton;VA;3858704667;-7771138389
+W78;William M Tuck;South Boston;VA;36710045;-7884802028
+W95;Ocracoke Island;Ocracoke;NC;3510117083;-7596595278
+W96;New Kent County;Quinton;VA;3750320139;-7712552694
+W97;Middle Peninsula Regional;West Point;VA;3752122778;-767646825
+W99;Grant County;Petersburg;WV;3899419444;-7914438889
+WA10;Grove;Camas/Washougal;WA;4562777778;-1224041667
+WA21;Grand Coulee Dam;Electric City;WA;4792348361;-1190805789
+WA31;Whidbey Air Park;Langley;WA;4801814917;-1224384789
+WA43;Odessa Municipal;Odessa;WA;473582025;-1186733264
+WAY;Greene Cty;Waynesburg;PA;39900075;-8013311667
+WBB;Stebbins;Stebbins;AK;6351591972;-1622827394
+WBQ;Beaver;Beaver;AK;6636155056;-1474012186
+WBW;Wilkes-Barre Wyoming Valley;Wilkes-Barre;PA;4129717222;-7585120556
+WCR;Chandalar Lake;Chandalar Lake;AK;6750451667;-1484832222
+WDG;Enid Woodring Municipal;Enid;OK;3637920333;-9779111222
+WDR;Winder;Winder;GA;3398227778;-8366808333
+WHP;Whiteman;Los Angeles;CA;3425932528;-1184134331
+WJF;General Wm. J. Fox Airfield;Lancaster;CA;3474095944;-1182189489
+WLD;Strother;Winfield/Arkansas City;KS;3716861556;-9703752194
+WLK;Selawik;Selawik;AK;6660002778;-1599861944
+WLW;Willows-Glenn County;Willows;CA;3951635389;-1222175106
+WMC;Winnemucca Municipal;Winnemucca;NV;4089661111;-1178058889
+WMO;White Mountain;White Mountain;AK;6468919444;-1634125556
+WNA;Napakiak;Napakiak;AK;6069118917;-1619695161
+WRG;Wrangell;Wrangell;AK;5648432583;-1323698242
+WRL;Worland Muni;Worland;WY;4396571306;-1079508308
+WSM;Wiseman;Wiseman;AK;6740457333;-1501227417
+WSN;South Naknek 2;South Naknek;AK;5870343611;-1570082511
+WST;Westerly State;Westerly;RI;4134961694;-7180337778
+WTK;Noatak;Noatak;AK;6756208333;-1629752778
+WVI;Watsonville Municipal;Watsonville;CA;3693573;-1217896178
+WVL;Waterville-Robert Lafleur;Waterville;ME;4453325;-6967552778
+WWD;Cape May Cty;Wildwood;NJ;3900850694;-7490827389
+WWR;West Woodward;Woodward;OK;364367025;-995209975
+WYS;Yellowstone;West Yellowstone;MT;4468839917;-1111176375
+X01;Everglades;Everglades;FL;2584871167;-8139007944
+X06;Arcadia Municipal;Arcadia;FL;2719199444;-8183730472
+X07;Lake Wales Municipal;Lake Wales;FL;2789380556;-8162038889
+X10;Belle Glade Municipal;Belle Glade;FL;2670089833;-8066227972
+X14;Labelle Municipal;Labelle;FL;2674423278;-8143257556
+X16;Vandenberg;Tampa;FL;2801398389;-8234527917
+X21;Arthur Dunn Airpark;Titusville;FL;2862234556;-80835695
+X23;Umatilla Municipal;Umatilla;FL;28922765;-8165174111
+X26;Sebastian Municipal;Sebastian;FL;2781280389;-8049560833
+X35;Dunnellon/Marion Co.;Dunellon;FL;2906177778;-8237658333
+X40;Inverness;Inverness;FL;2880859639;-8231648167
+X44;Watson Island Base;Miami;FL;2577833333;-8017027778
+X46;Opa-Locka West;Miami;FL;2594898194;-8042338694
+X47;Flagler County;Bunnell;FL;2946738889;-8120633333
+X51;Homestead General Aviation;Homestead;FL;2549872139;-8055422528
+X59;Valkaria;Valkaria;FL;2796196472;-8055977556
+X60;Williston Municipal;Williston;FL;2935422;-8247288194
+X63;Humacao;Humacao;PR;1813801667;-658007175
+X66;Charlotte Amalie Harbor Seaplane Base;Charlotte Amalie;VI;1833856722;-6494070111
+X67;Christiansted Harbor Seaplane Base;Christiansted;VI;1774719528;-6470486444
+X95;Diego Jimenez Torres;Fajardo;PR;1830800972;-6566182806
+X96;Cruz Bay Harbor Seaplane Base;Cruz Bay;VI;1833689833;-6479958306
+XNA;Northwest Arkansas Regional;Fayetteville/Springdale/Rogers;AR;3628186944;-9430681111
+XVG;Longville Municipal;Longville;MN;4699016361;-9420400222
+Y03;Springfield Municipal;Springfield;SD;4287999833;-9790117972
+Y14;Marv Skie-Lincoln County;Tea;SD;4345747694;-9680199528
+Y15;Cheboygan City-County;Cheboygan;MI;4565371028;-8451927306
+Y19;Mandan Municipal;Mandan;ND;4676823667;-1008943433
+Y27;Standing Rock;Fort Yates;ND;4606638556;-1006348492
+Y31;West Branch Community;West Branch;MI;44244825;-8417980472
+Y37;Park River Municipal;Park River;ND;4839443778;-9778147889
+Y47;New Hudson;New Hudson;MI;4250311694;-8362371667
+Y50;Wautoma Municipal;Wautoma;WI;4404162556;-8930448694
+Y51;Viroqua Municipal;Viroqua;WI;4357913917;-9090096333
+Y55;Crandon Municipal;Crandon;WI;4551662972;-8893344694
+Y63;Elbow Lake Municipal;Elbow Lake;MN;4598607111;-9599199861
+Y66;Drummond Island;Drummond Island;MI;4600931139;-8374393417
+Y68;Tracy Municipal;Tracy;MN;4424995694;-9560445389
+Y70;Ionia County;Ionia;MI;4293769972;-8506066722
+Y74;Hankins;Parshall;ND;4793640083;-1021421142
+Y83;Sandusky City;Sandusky;MI;4345418694;-8284938028
+Y93;Atlanta Municipal;Atlanta;MI;4500000833;-8413333667
+YAK;Yakutat;Yakutat;AK;5950336056;-1396602261
+YAP;Yap International;NA;NA;95167;1381
+YIP;Willow Run;Detroit;MI;422379275;-8353040889
+YKM;Yakima Air Terminal;Yakima;WA;4656816972;-1205440594
+YKN;Chan Gurney Municipal;Yankton;SD;4291669444;-9738594444
+YNG;Youngstown-Warren Regional;Youngstown;OH;4126073556;-8067909667
+YUM;Yuma MCAS-Yuma International;Yuma;AZ;3265658333;-1146059722
+Z08;Ofu;Ofu Village;AS;1418435056;-1696700236
+Z09;Kasigluk;Kasigluk;AK;6087202194;-1625248094
+Z13;Akiachak;Akiachak;AK;6090453167;-16142091
+Z17;Ophir;Ophir;AK;631460375;-156529865
+Z40;Goose Bay;Goose Bay;AK;6139445139;-1498455556
+Z55;Lake Louise;Lake Louise;AK;6229368944;-1465794219
+Z73;Nelson Lagoon;Nelson Lagoon;AK;5600753611;-1611603672
+Z84;Clear;Clear A.F.B.;AK;6430120361;-1491201436
+Z91;Birch Creek;Birch Creek;AK;6627399583;-1458240381
+Z95;Cibecue;Cibecue;AZ;3400333333;-1104441667
+ZEF;Elkin Municipal;Elkin;NC;3628002361;-8078606861
+ZER;Schuylkill Cty/Joe Zerbey;Pottsville;PA;4070644889;-7637314667
+ZPH;Zephyrhills Municipal;Zephyrhills;FL;2822806472;-8215591639
+ZUN;Black Rock;Zuni;NM;3508322694;-1087917769
+ZZV;Zanesville Municipal;Zanesville;OH;3994445833;-8189210528
